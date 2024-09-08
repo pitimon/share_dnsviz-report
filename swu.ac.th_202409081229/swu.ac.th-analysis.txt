@@ -1,0 +1,88 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20038/256 [.], 8/20326/257 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-07 - 2024-09-20) [.]
+  [-]  DNSKEY: 8/10701/256 [.], 8/19117/257 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+swu.ac.th [.] [.]
+  [-]  DS: 10/14301/1 [-!], 10/14301/2 [.]
+         E:DIGEST_ALGORITHM_PROHIBITED
+         W:DS_DIGEST_ALGORITHM_IGNORED
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 10/14301/257 [.], 10/34892/256 [.]
+  [.]    RRSIG: swu.ac.th/Algorithm.RSASHA512/14301 (2024-09-02 - 2024-10-02) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] A: 202.28.62.251
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  NS: lotus.uni.net.th., pns11.cloudns.net., pns13.cloudns.net., ns5.swu.ac.th., ns1.swu.ac.th., pns12.cloudns.net., pns14.cloudns.net.
+  [.]    RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CNAME: NODATA
+  [.]    SOA: ns1.swu.ac.th. admin.swu.ac.th. 2024090103 3600 5400 86400 86400
+  [.]      RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: swu.ac.th. _81a04d2f2d36a60d6ea06066f5abba31.swu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.?] SOA: ns1.SWU.Ac.th. admin.SWU.Ac.th. 2024090103 3600 5400 86400 86400
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] MX: 1 aspmx.l.google.com., 10 alt3.aspmx.l.google.com., 5 alt2.aspmx.l.google.com., 5 alt1.aspmx.l.google.com., 10 alt4.aspmx.l.google.com.
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] TXT: "PIGLLcriGoa1nAk1p12/uioupKD8/uZGWFBfCY5rrXI=", "_globalsign-domain-verification=1Zq70ekhjy-mMyGdLNFQ5wRvMX-M6LUQu59w74TMBy", "_globalsign-domain-verification=xtrFQxIOYEaaHJeIOaZogS-OR2opP5oZgKOQTe0XTL", "google-site-verification=y2i8rEYYcHLIrB4DplOPuvYFGMI89UthxCnggpZaJLQ", "google-gws-recovery-domain-verification=43102984", "v=spf1 mx ip4:202.28.62.0/24 a:course.swu.ac.th a:library.swu.ac.th a:okipac.swu.ac.th a:g.swu.ac.th mx:mailgw.swu.ac.th mx:mgw.swu.ac.th. ~all"
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] AAAA: 2001:3c8:1408:1003::147
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  NSEC3PARAM: NODATA
+  [.]    SOA: ns1.swu.ac.th. admin.swu.ac.th. 2024090103 3600 5400 86400 86400
+  [.]      RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: swu.ac.th. _81a04d2f2d36a60d6ea06066f5abba31.swu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CDS: NODATA
+  [.]    SOA: ns1.swu.ac.th. admin.swu.ac.th. 2024090103 3600 5400 86400 86400
+  [.]      RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: swu.ac.th. _81a04d2f2d36a60d6ea06066f5abba31.swu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns1.swu.ac.th. admin.swu.ac.th. 2024090103 3600 5400 86400 86400
+  [.]      RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: swu.ac.th. _81a04d2f2d36a60d6ea06066f5abba31.swu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+4rox8.2us3f.swu.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns1.swu.ac.th. admin.swu.ac.th. 2024090103 3600 5400 86400 86400
+  [.]      RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: swu.ac.th. _81a04d2f2d36a60d6ea06066f5abba31.swu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: swu.ac.th/Algorithm.RSASHA512/34892 (2024-09-02 - 2024-10-02) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED

@@ -1,0 +1,23 @@
+Sun Sep  8 12:29:26 PM +07 2024: เริ่มการวิเคราะห์โดเมน swu.ac.th (เวลาที่ใช้: 0 วินาที)
+Sun Sep  8 12:29:26 PM +07 2024: กำลังดำเนินการ DNSViz probe... (เวลาที่ใช้: 0 วินาที)
+Sun Sep  8 12:31:28 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ info... (เวลาที่ใช้: 122 วินาที)
+Sun Sep  8 12:31:30 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ warning... (เวลาที่ใช้: 124 วินาที)
+Sun Sep  8 12:31:31 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ error... (เวลาที่ใช้: 125 วินาที)
+Sun Sep  8 12:31:32 PM +07 2024: กำลังค้นหา DNSKEY records และกรอง KSK... (เวลาที่ใช้: 126 วินาที)
+Sun Sep  8 12:31:32 PM +07 2024: กำลังวิเคราะห์และบันทึกผล... (เวลาที่ใช้: 126 วินาที)
+Sun Sep  8 12:31:34 PM +07 2024: กำลังสร้างกราฟ HTML... (เวลาที่ใช้: 128 วินาที)
+Sun Sep  8 12:31:36 PM +07 2024: กำลังสร้างกราฟ PNG... (เวลาที่ใช้: 130 วินาที)
+Sun Sep  8 12:31:37 PM +07 2024: กำลังสร้างไฟล์ PlantUML... (เวลาที่ใช้: 131 วินาที)
+สถานะไฟล์ผลลัพธ์:
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th.json
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-info.json
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-warning.json
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-error.json
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-tk.txt
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-analysis.txt
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-graph.html
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-graph.png
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-info-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-warning-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/swu.ac.th_202409081229/swu.ac.th-error-plantuml.txt
+Sun Sep  8 12:31:37 PM +07 2024: การวิเคราะห์เสร็จสิ้น เวลาที่ใช้ทั้งหมด: 131 วินาที (เวลาที่ใช้: 131 วินาที)
