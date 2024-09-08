@@ -56,26 +56,25 @@
                                     "001.apg.h.root-servers.org",
                                     "001.nzy.h.root-servers.org",
                                     "BKK.cf.f.root-servers.org",
+                                    "JHB.cf.f.root-servers.org",
                                     "M-NRT-DIXIE-1",
                                     "M-SIN-3",
-                                    "SIN.cf.f.root-servers.org",
                                     "a4.de-fra.root",
                                     "au-per-aa",
                                     "b3-mia",
-                                    "b4-sin",
+                                    "b3-sin",
                                     "groot-pac2-1",
-                                    "groot-pac2-2",
                                     "n1.au-bne.root",
                                     "ns1.au-bne.k.ripe.net",
                                     "ns1.tw-tpe.k.ripe.net",
-                                    "p02.qpg.eroot",
+                                    "p05.qpg.eroot",
                                     "p06.qpg.eroot",
                                     "s1.dex",
                                     "s1.sin",
                                     "sg-sin-aa",
-                                    "sgsg6.droot.maxgigapop.net",
-                                    "sgsg7.droot.maxgigapop.net",
-                                    "sin1a.c.root-servers.org"
+                                    "sgsg1.droot.maxgigapop.net",
+                                    "sgsg4.droot.maxgigapop.net",
+                                    "sin1b.c.root-servers.org"
                                 ],
                                 "query_options": [
                                     "UDP_-_EDNS0_4096_D_NK"
@@ -127,26 +126,25 @@
                             "001.apg.h.root-servers.org",
                             "001.nzy.h.root-servers.org",
                             "BKK.cf.f.root-servers.org",
+                            "JHB.cf.f.root-servers.org",
                             "M-NRT-DIXIE-1",
                             "M-SIN-3",
-                            "SIN.cf.f.root-servers.org",
                             "a4.de-fra.root",
                             "au-per-aa",
                             "b3-mia",
-                            "b4-sin",
+                            "b3-sin",
                             "groot-pac2-1",
-                            "groot-pac2-2",
                             "n1.au-bne.root",
                             "ns1.au-bne.k.ripe.net",
                             "ns1.tw-tpe.k.ripe.net",
-                            "p02.qpg.eroot",
+                            "p05.qpg.eroot",
                             "p06.qpg.eroot",
                             "s1.dex",
                             "s1.sin",
                             "sg-sin-aa",
-                            "sgsg6.droot.maxgigapop.net",
-                            "sgsg7.droot.maxgigapop.net",
-                            "sin1a.c.root-servers.org"
+                            "sgsg1.droot.maxgigapop.net",
+                            "sgsg4.droot.maxgigapop.net",
+                            "sin1b.c.root-servers.org"
                         ],
                         "query_options": [
                             "UDP_-_EDNS0_4096_D_NK"
@@ -301,26 +299,25 @@
                     "001.apg.h.root-servers.org",
                     "001.nzy.h.root-servers.org",
                     "BKK.cf.f.root-servers.org",
+                    "JHB.cf.f.root-servers.org",
                     "M-NRT-DIXIE-1",
                     "M-SIN-3",
-                    "SIN.cf.f.root-servers.org",
                     "a4.de-fra.root",
                     "au-per-aa",
                     "b3-mia",
-                    "b4-sin",
+                    "b3-sin",
                     "groot-pac2-1",
-                    "groot-pac2-2",
                     "n1.au-bne.root",
                     "ns1.au-bne.k.ripe.net",
                     "ns1.tw-tpe.k.ripe.net",
-                    "p02.qpg.eroot",
+                    "p05.qpg.eroot",
                     "p06.qpg.eroot",
                     "s1.dex",
                     "s1.sin",
                     "sg-sin-aa",
-                    "sgsg6.droot.maxgigapop.net",
-                    "sgsg7.droot.maxgigapop.net",
-                    "sin1a.c.root-servers.org"
+                    "sgsg1.droot.maxgigapop.net",
+                    "sgsg4.droot.maxgigapop.net",
+                    "sin1b.c.root-servers.org"
                 ],
                 "query_options": [
                     "UDP_-_EDNS0_4096_D_NK"
@@ -373,26 +370,25 @@
                     "001.apg.h.root-servers.org",
                     "001.nzy.h.root-servers.org",
                     "BKK.cf.f.root-servers.org",
+                    "JHB.cf.f.root-servers.org",
                     "M-NRT-DIXIE-1",
                     "M-SIN-3",
-                    "SIN.cf.f.root-servers.org",
                     "a4.de-fra.root",
                     "au-per-aa",
                     "b3-mia",
-                    "b4-sin",
+                    "b3-sin",
                     "groot-pac2-1",
-                    "groot-pac2-2",
                     "n1.au-bne.root",
                     "ns1.au-bne.k.ripe.net",
                     "ns1.tw-tpe.k.ripe.net",
-                    "p02.qpg.eroot",
+                    "p05.qpg.eroot",
                     "p06.qpg.eroot",
                     "s1.dex",
                     "s1.sin",
                     "sg-sin-aa",
-                    "sgsg6.droot.maxgigapop.net",
-                    "sgsg7.droot.maxgigapop.net",
-                    "sin1a.c.root-servers.org"
+                    "sgsg1.droot.maxgigapop.net",
+                    "sgsg4.droot.maxgigapop.net",
+                    "sin1b.c.root-servers.org"
                 ],
                 "query_options": [
                     "UDP_-_EDNS0_4096_D_NK"
@@ -462,19 +458,18 @@
                                     "a4.de-fra.root",
                                     "au-per-aa",
                                     "b3-mia",
-                                    "b3-sin",
-                                    "groot-pac2-1",
+                                    "b4-sin",
                                     "groot-pac2-3",
                                     "n1.au-bne.root",
                                     "ns1.au-bne.k.ripe.net",
                                     "ns1.tw-tpe.k.ripe.net",
-                                    "p01.jhb.eroot",
-                                    "p02.qpg.eroot",
+                                    "p05.qpg.eroot",
+                                    "p06.qpg.eroot",
                                     "s1.dex",
                                     "s1.sin",
                                     "sg-sin-aa",
-                                    "sgsg5.droot.maxgigapop.net",
-                                    "sgsg8.droot.maxgigapop.net",
+                                    "sgsg1.droot.maxgigapop.net",
+                                    "sgsg4.droot.maxgigapop.net",
                                     "sin1a.c.root-servers.org"
                                 ],
                                 "query_options": [
@@ -533,19 +528,18 @@
                             "a4.de-fra.root",
                             "au-per-aa",
                             "b3-mia",
-                            "b3-sin",
-                            "groot-pac2-1",
+                            "b4-sin",
                             "groot-pac2-3",
                             "n1.au-bne.root",
                             "ns1.au-bne.k.ripe.net",
                             "ns1.tw-tpe.k.ripe.net",
-                            "p01.jhb.eroot",
-                            "p02.qpg.eroot",
+                            "p05.qpg.eroot",
+                            "p06.qpg.eroot",
                             "s1.dex",
                             "s1.sin",
                             "sg-sin-aa",
-                            "sgsg5.droot.maxgigapop.net",
-                            "sgsg8.droot.maxgigapop.net",
+                            "sgsg1.droot.maxgigapop.net",
+                            "sgsg4.droot.maxgigapop.net",
                             "sin1a.c.root-servers.org"
                         ],
                         "query_options": [
@@ -682,8 +676,8 @@
                                     "p.thains.co.th."
                                 ],
                                 "nsid_values": [
-                                    "3.qpg.pch",
-                                    "4.sin.pch",
+                                    "1.jhb.pch",
+                                    "1.qpg.pch",
                                     "BKK1",
                                     "Bkk2",
                                     "s2.chi",
@@ -716,8 +710,8 @@
                             "p.thains.co.th."
                         ],
                         "nsid_values": [
-                            "3.qpg.pch",
-                            "4.sin.pch",
+                            "1.jhb.pch",
+                            "1.qpg.pch",
                             "BKK1",
                             "Bkk2",
                             "s2.chi",
@@ -801,8 +795,8 @@
                     "p.thains.co.th."
                 ],
                 "nsid_values": [
-                    "3.qpg.pch",
-                    "4.sin.pch",
+                    "1.jhb.pch",
+                    "1.qpg.pch",
                     "BKK1",
                     "Bkk2",
                     "s2.chi",
@@ -836,8 +830,8 @@
                     "p.thains.co.th."
                 ],
                 "nsid_values": [
-                    "3.qpg.pch",
-                    "4.sin.pch",
+                    "1.jhb.pch",
+                    "1.qpg.pch",
                     "BKK1",
                     "Bkk2",
                     "s2.chi",
@@ -904,19 +898,18 @@
                         "a4.de-fra.root",
                         "au-per-aa",
                         "b3-mia",
-                        "b3-sin",
-                        "groot-pac2-1",
+                        "b4-sin",
                         "groot-pac2-3",
                         "n1.au-bne.root",
                         "ns1.au-bne.k.ripe.net",
                         "ns1.tw-tpe.k.ripe.net",
-                        "p01.jhb.eroot",
-                        "p02.qpg.eroot",
+                        "p05.qpg.eroot",
+                        "p06.qpg.eroot",
                         "s1.dex",
                         "s1.sin",
                         "sg-sin-aa",
-                        "sgsg5.droot.maxgigapop.net",
-                        "sgsg8.droot.maxgigapop.net",
+                        "sgsg1.droot.maxgigapop.net",
+                        "sgsg4.droot.maxgigapop.net",
                         "sin1a.c.root-servers.org"
                     ],
                     "query_options": [
@@ -960,7 +953,7 @@
                                     "p.thains.co.th."
                                 ],
                                 "nsid_values": [
-                                    "2.qpg.pch",
+                                    "1.jhb.pch",
                                     "4.sin.pch",
                                     "BKK1",
                                     "Bkk2",
@@ -994,7 +987,7 @@
                             "p.thains.co.th."
                         ],
                         "nsid_values": [
-                            "2.qpg.pch",
+                            "1.jhb.pch",
                             "4.sin.pch",
                             "BKK1",
                             "Bkk2",
@@ -1083,8 +1076,8 @@
                                     "p.thains.co.th."
                                 ],
                                 "nsid_values": [
-                                    "2.qpg.pch",
-                                    "4.sin.pch",
+                                    "1.jhb.pch",
+                                    "5.qpg.pch",
                                     "BKK1",
                                     "Bkk2",
                                     "s2.chi",
@@ -1117,8 +1110,8 @@
                             "p.thains.co.th."
                         ],
                         "nsid_values": [
-                            "2.qpg.pch",
-                            "4.sin.pch",
+                            "1.jhb.pch",
+                            "5.qpg.pch",
                             "BKK1",
                             "Bkk2",
                             "s2.chi",
@@ -1179,41 +1172,6 @@
         },
         "dnskey": [
             {
-                "id": "8/56805",
-                "servers": [
-                    "122.155.23.64",
-                    "194.0.1.28",
-                    "194.146.106.154",
-                    "202.28.0.1",
-                    "203.159.64.64",
-                    "204.61.216.126",
-                    "2001:500:14:6126:ad::1",
-                    "2001:678:4::1c",
-                    "2001:67c:1010:39::53",
-                    "2001:c38:2000:183::30",
-                    "2405:3340:e011:3000::30"
-                ],
-                "ns_names": [
-                    "a.thains.co.th.",
-                    "b.thains.co.th.",
-                    "c.thains.co.th.",
-                    "nn1.thains.co.th.",
-                    "ns.thnic.net.",
-                    "p.thains.co.th."
-                ],
-                "nsid_values": [
-                    "2.qpg.pch",
-                    "4.sin.pch",
-                    "BKK1",
-                    "Bkk2",
-                    "s2.chi",
-                    "s2.sin"
-                ],
-                "query_options": [
-                    "UDP_-_EDNS0_4096_D_NK"
-                ]
-            },
-            {
                 "id": "8/12799",
                 "servers": [
                     "122.155.23.64",
@@ -1237,8 +1195,43 @@
                     "p.thains.co.th."
                 ],
                 "nsid_values": [
-                    "2.qpg.pch",
-                    "4.sin.pch",
+                    "1.jhb.pch",
+                    "5.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            },
+            {
+                "id": "8/56805",
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "1.jhb.pch",
+                    "5.qpg.pch",
                     "BKK1",
                     "Bkk2",
                     "s2.chi",
@@ -1276,7 +1269,7 @@
                         "p.thains.co.th."
                     ],
                     "nsid_values": [
-                        "2.qpg.pch",
+                        "1.jhb.pch",
                         "4.sin.pch",
                         "BKK1",
                         "Bkk2",
@@ -1850,7 +1843,7 @@
                                 ],
                                 "nsid_values": [
                                     "1.jhb.pch",
-                                    "2.qpg.pch",
+                                    "1.qpg.pch",
                                     "BKK1",
                                     "Bkk2",
                                     "s2.chi",
@@ -1884,7 +1877,7 @@
                         ],
                         "nsid_values": [
                             "1.jhb.pch",
-                            "2.qpg.pch",
+                            "1.qpg.pch",
                             "BKK1",
                             "Bkk2",
                             "s2.chi",
@@ -2413,10 +2406,10 @@
                     }
                 ]
             },
-            "x6ulr.xuasq.pbru.ac.th./IN/A": {
+            "vsizp.dpm0q.pbru.ac.th./IN/A": {
                 "nxdomain": [
                     {
-                        "id": "x6ulr.xuasq.pbru.ac.th./IN/A",
+                        "id": "vsizp.dpm0q.pbru.ac.th./IN/A",
                         "proof": [
                             {
                                 "id": "NSEC",
@@ -2446,7 +2439,7 @@
                                         ]
                                     },
                                     {
-                                        "id": "www.pbru.ac.th./IN/NSEC",
+                                        "id": "docbk.pbru.ac.th./IN/NSEC",
                                         "rrsig": [
                                             {
                                                 "id": "pbru.ac.th./8/38670",
@@ -2633,7 +2626,7 @@
                     ],
                     "nsid_values": [
                         "1.jhb.pch",
-                        "2.qpg.pch",
+                        "1.qpg.pch",
                         "BKK1",
                         "Bkk2",
                         "s2.chi",
@@ -2669,7 +2662,7 @@
                     ],
                     "nsid_values": [
                         "1.jhb.pch",
-                        "2.qpg.pch",
+                        "1.qpg.pch",
                         "BKK1",
                         "Bkk2",
                         "s2.chi",

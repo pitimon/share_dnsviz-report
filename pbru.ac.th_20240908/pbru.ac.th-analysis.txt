@@ -10,7 +10,7 @@ th [-] [.]
 ac.th [-] [.]
   [-]  DS: 8/12799/2 [.]
   [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
-  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
   [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
 pbru.ac.th [.] [.]
   [-]  DS: 8/2240/2 [.], 8/62677/2 [-]
@@ -28,7 +28,7 @@ pbru.ac.th [.] [.]
   [.]    PROOF:  [.]
   [.]      NSEC: pbru.ac.th. 3ddb.pbru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
   [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
-  [.]  SOA: ns1.PBrU.aC.tH. info.PBrU.aC.tH. 2024081612 3600 600 1209600 3600
+  [.]  SOA: ns1.PbrU.AC.th. info.PbrU.AC.th. 2024081612 3600 600 1209600 3600
   [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
   [.]  MX: 5 outlook.pbru.ac.th.
   [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
@@ -48,12 +48,12 @@ pbru.ac.th [.] [.]
   [.]    PROOF:  [.]
   [.]      NSEC: pbru.ac.th. 3ddb.pbru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
   [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
-x6ulr.xuasq.pbru.ac.th
+vsizp.dpm0q.pbru.ac.th
   [.]  A: NXDOMAIN
   [.]    SOA: ns1.pbru.ac.th. info.pbru.ac.th. 2024081612 3600 600 1209600 3600
   [.]      RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
   [.]    PROOF:  [.]
   [.]      NSEC: pbru.ac.th. 3ddb.pbru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
   [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
-  [.]      NSEC: www.pbru.ac.th. pbru.ac.th. A AAAA RRSIG NSEC
+  [.]      NSEC: docbk.pbru.ac.th. dsd.pbru.ac.th. A AAAA RRSIG NSEC
   [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
