@@ -1,0 +1,461 @@
+@startjson
+{
+    "swu.ac.th.": {
+        "queries": {
+            "swu.ac.th./IN/A": {
+                "answer": [
+                    {
+                        "id": "swu.ac.th./IN/A",
+                        "rrsig": [
+                            {
+                                "id": "swu.ac.th./10/34892",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.60.34",
+                                    "202.28.62.34"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/NS": {
+                "answer": [
+                    {
+                        "id": "swu.ac.th./IN/NS",
+                        "rrsig": [
+                            {
+                                "id": "swu.ac.th./10/34892",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "swu.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "swu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "swu.ac.th./10/34892",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "swu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "swu.ac.th./10/34892",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/SOA": {
+                "answer": [
+                    {
+                        "id": "swu.ac.th./IN/SOA",
+                        "rrsig": [
+                            {
+                                "id": "swu.ac.th./10/34892",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.60.34",
+                                    "202.28.62.34"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK",
+                                    "UDP_-_EDNS0_4096_D_NK_0x20"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/MX": {
+                "answer": [
+                    {
+                        "id": "swu.ac.th./IN/MX",
+                        "rrsig": [
+                            {
+                                "id": "swu.ac.th./10/34892",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.60.34",
+                                    "202.28.62.34"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 4 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/TXT": {
+                "answer": [
+                    {
+                        "id": "swu.ac.th./IN/TXT",
+                        "rrsig": [
+                            {
+                                "id": "swu.ac.th./10/34892",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.60.34",
+                                    "202.28.62.34"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/AAAA": {
+                "answer": [
+                    {
+                        "id": "swu.ac.th./IN/AAAA",
+                        "rrsig": [
+                            {
+                                "id": "swu.ac.th./10/34892",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.60.34",
+                                    "202.28.62.34"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "swu.ac.th./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "swu.ac.th./10/14301",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "swu.ac.th./10/34892",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/NSEC3PARAM": {
+                "nodata": [
+                    {
+                        "id": "swu.ac.th./IN/NSEC3PARAM",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "swu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "swu.ac.th./10/34892",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "swu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "swu.ac.th./10/34892",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "swu.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "swu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "swu.ac.th./10/34892",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "swu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "swu.ac.th./10/34892",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "swu.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "swu.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "swu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "swu.ac.th./10/34892",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "swu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "swu.ac.th./10/34892",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "ehpk3.45e2x.swu.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "ehpk3.45e2x.swu.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "swu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "swu.ac.th./10/34892",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "swu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "swu.ac.th./10/34892",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "delegation": {
+            "ds": [
+                {
+                    "id": "10/14301/1",
+                    "status": "ALGORITHM_IGNORED",
+                    "warnings": [
+                        {
+                            "description": "DS records with digest type 1 (SHA-1) are ignored when DS records with digest type 2 (SHA-256) exist in the same RRset.  See RFC 4509, Sec. 3.",
+                            "code": "DS_DIGEST_ALGORITHM_IGNORED"
+                        }
+                    ],
+                    "errors": [
+                        {
+                            "description": "DNSSEC specification prohibits signing with DS records that use digest algorithm 1 (SHA-1).  See RFC 8624, Sec. 3.2.",
+                            "code": "DIGEST_ALGORITHM_PROHIBITED"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
+@endjson

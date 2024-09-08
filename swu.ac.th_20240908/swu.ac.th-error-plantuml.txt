@@ -1,0 +1,36 @@
+@startjson
+{
+    "swu.ac.th.": {
+        "queries": {
+            "swu.ac.th./IN/MX": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 4 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ]
+            }
+        },
+        "delegation": {
+            "ds": [
+                {
+                    "id": "10/14301/1",
+                    "status": "ALGORITHM_IGNORED",
+                    "errors": [
+                        {
+                            "description": "DNSSEC specification prohibits signing with DS records that use digest algorithm 1 (SHA-1).  See RFC 8624, Sec. 3.2.",
+                            "code": "DIGEST_ALGORITHM_PROHIBITED"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
+@endjson
