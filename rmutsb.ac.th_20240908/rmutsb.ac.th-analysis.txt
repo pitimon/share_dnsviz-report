@@ -1,0 +1,121 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/10701/256 [.], 8/19117/257 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutsb.ac.th [.] [.!]
+  E:NO_SEP
+  W:NS_NAME_NOT_IN_PARENT
+  [-]  DS: 8/8135/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.?] DNSKEY: 8/8135/257 [.], 8/15313/256 [.!]
+        E:DNSKEY_MISSING_FROM_SERVERS
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/8135 (2024-09-02 - 2024-10-02) [.]
+  [.]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [!]  DNSKEY: 8/31503/256 [.!], 8/8135/257 [.]
+         E:DNSKEY_MISSING_FROM_SERVERS
+  [!]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/8135 (2024-06-20 - 2024-07-20) [!!]
+           E:EXPIRATION_IN_PAST
+  [!]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+           E:EXPIRATION_IN_PAST
+  [.?] A: 203.158.224.46
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+           E:EXPIRATION_IN_PAST
+  [.]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.?] NS: pns12.cloudns.net., pns13.cloudns.net., pns14.cloudns.net., pns11.cloudns.net., ns2.rmutsb.ac.th., ns1.rmutsb.ac.th.
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+           E:EXPIRATION_IN_PAST
+  [.]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.]  CNAME: NODATA
+  [.]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024090207 7200 3600 1209600 10800
+  [.]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [!]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024062003 7200 3600 1209600 10800
+  [!]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+             E:EXPIRATION_IN_PAST
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutsb.ac.th. _sipinternaltls._tcp.rmutsb.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [!]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+               E:EXPIRATION_IN_PAST
+  [.]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.?] SOA: ns2.RmuTSb.Ac.Th. noc.RmuTSb.Ac.Th. 2024090207 7200 3600 1209600 10800
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [!]  SOA: ns2.RmuTSb.Ac.Th. noc.RmuTSb.Ac.Th. 2024062003 7200 3600 1209600 10800
+  [!]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+           E:EXPIRATION_IN_PAST
+  [.?] MX: 30 ALT4.ASPMX.L.GOOGLE.COM., 20 ALT2.ASPMX.L.GOOGLE.COM., 30 ALT3.ASPMX.L.GOOGLE.COM., 10 ASPMX.L.GOOGLE.COM., 20 ALT1.ASPMX.L.GOOGLE.COM.
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+           E:EXPIRATION_IN_PAST
+  [.]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.?] TXT: "_globalsign-domain-verification=yAuwZnsWkeIwA9glpgFyABlzjbLeFQYehBGUVIyuJ8", "v=spf1 a mx ptr ip4:203.158.224.151 include:_spf.google.com include:spf.protection.outlook.com ~all", "MS=4B5C182010B113B05C4B7F010CFE190096501493", "MS=ms22040733", "google-site-verification=YfLDujuAW98P1mTN9PiweV77QNFzKhq_etIsTfyCJp4", "_globalsign-domain-verification=RUo5ytiqsAr5uPlcTk1dLXekcbM_xqy_k6H-BJFgKw", "Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360", "google-site-verification=1lDTxCAOIKxrZ11F1vz5fujM-dxtTC6UylvzsDUWZoE", "jkf2a04did31nt4ku4uu3s66j7", "v=spf1" "ip4:203.158.224.100" "include:_spf.google.com" "~all"
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+           E:EXPIRATION_IN_PAST
+  [.]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.?] AAAA: 2001:3c8:1007:3130::46
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+           E:EXPIRATION_IN_PAST
+  [.]    RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.]  NSEC3PARAM: NODATA
+  [.]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024090207 7200 3600 1209600 10800
+  [.]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [!]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024062003 7200 3600 1209600 10800
+  [!]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+             E:EXPIRATION_IN_PAST
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutsb.ac.th. _sipinternaltls._tcp.rmutsb.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [!]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+               E:EXPIRATION_IN_PAST
+  [.]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024090207 7200 3600 1209600 10800
+  [.]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [!]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024062003 7200 3600 1209600 10800
+  [!]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+             E:EXPIRATION_IN_PAST
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutsb.ac.th. _sipinternaltls._tcp.rmutsb.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [!]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+               E:EXPIRATION_IN_PAST
+  [.]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024090207 7200 3600 1209600 10800
+  [.]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [!]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024062003 7200 3600 1209600 10800
+  [!]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+             E:EXPIRATION_IN_PAST
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutsb.ac.th. _sipinternaltls._tcp.rmutsb.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [!]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+               E:EXPIRATION_IN_PAST
+  [.]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+uk83o.fnh6g.rmutsb.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024090207 7200 3600 1209600 10800
+  [.]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [!]    SOA: ns2.rmutsb.ac.th. noc.rmutsb.ac.th. 2024062003 7200 3600 1209600 10800
+  [!]      RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+             E:EXPIRATION_IN_PAST
+  [.]    PROOF:  [.]
+  [.]      NSEC: financial.rmutsb.ac.th. gad.rmutsb.ac.th. A AAAA RRSIG NSEC
+  [!]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+               E:EXPIRATION_IN_PAST
+  [.]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]
+  [.]      NSEC: rmutsb.ac.th. _sipinternaltls._tcp.rmutsb.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [!]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/31503 (2024-06-20 - 2024-07-20) [!!]
+               E:EXPIRATION_IN_PAST
+  [.]        RRSIG: rmutsb.ac.th/Algorithm.RSASHA256/15313 (2024-09-02 - 2024-10-02) [.]

@@ -1,0 +1,564 @@
+{
+    "rmutsb.ac.th.": {
+        "queries": {
+            "rmutsb.ac.th./IN/A": {
+                "answer": [
+                    {
+                        "id": "rmutsb.ac.th./IN/A",
+                        "rrsig": [
+                            {
+                                "id": "rmutsb.ac.th./8/31503",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.224.1",
+                                    "203.158.224.11",
+                                    "2001:3c8:1007:3130::1",
+                                    "2001:3c8:1007:3130::11"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/NS": {
+                "answer": [
+                    {
+                        "id": "rmutsb.ac.th./IN/NS",
+                        "rrsig": [
+                            {
+                                "id": "rmutsb.ac.th./8/31503",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.224.1",
+                                    "203.158.224.11",
+                                    "2001:3c8:1007:3130::1"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "rmutsb.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmutsb.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmutsb.ac.th./8/31503",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmutsb.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmutsb.ac.th./8/31503",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/SOA": {
+                "answer": [
+                    {
+                        "id": "rmutsb.ac.th./IN/SOA",
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.224.1",
+                                    "203.158.224.11"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK",
+                                    "UDP_-_EDNS0_4096_D_NK_0x20"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "rmutsb.ac.th./IN/SOA",
+                        "rrsig": [
+                            {
+                                "id": "rmutsb.ac.th./8/31503",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/MX": {
+                "answer": [
+                    {
+                        "id": "rmutsb.ac.th./IN/MX",
+                        "rrsig": [
+                            {
+                                "id": "rmutsb.ac.th./8/31503",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.224.1",
+                                    "203.158.224.11"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/TXT": {
+                "answer": [
+                    {
+                        "id": "rmutsb.ac.th./IN/TXT",
+                        "rrsig": [
+                            {
+                                "id": "rmutsb.ac.th./8/31503",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.224.1",
+                                    "203.158.224.11",
+                                    "2001:3c8:1007:3130::1",
+                                    "2001:3c8:1007:3130::11"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/AAAA": {
+                "answer": [
+                    {
+                        "id": "rmutsb.ac.th./IN/AAAA",
+                        "rrsig": [
+                            {
+                                "id": "rmutsb.ac.th./8/31503",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.224.1",
+                                    "203.158.224.11"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "rmutsb.ac.th./IN/DNSKEY",
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.224.1",
+                                    "203.158.224.11",
+                                    "2001:3c8:1007:3130::1",
+                                    "2001:3c8:1007:3130::11"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "rmutsb.ac.th./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "rmutsb.ac.th./8/8135",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "rmutsb.ac.th./8/31503",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/NSEC3PARAM": {
+                "nodata": [
+                    {
+                        "id": "rmutsb.ac.th./IN/NSEC3PARAM",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmutsb.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmutsb.ac.th./8/31503",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmutsb.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmutsb.ac.th./8/31503",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "rmutsb.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmutsb.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmutsb.ac.th./8/31503",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmutsb.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmutsb.ac.th./8/31503",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutsb.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "rmutsb.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmutsb.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmutsb.ac.th./8/31503",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmutsb.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmutsb.ac.th./8/31503",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "uk83o.fnh6g.rmutsb.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "uk83o.fnh6g.rmutsb.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "financial.rmutsb.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmutsb.ac.th./8/31503",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "rmutsb.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmutsb.ac.th./8/31503",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmutsb.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmutsb.ac.th./8/31503",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-07-20 02:40:44+00:00) is 50 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "dnskey": [
+            {
+                "id": "8/15313",
+                "errors": [
+                    {
+                        "description": "The DNSKEY RR was not found in the DNSKEY RRset returned by one or more servers.",
+                        "code": "DNSKEY_MISSING_FROM_SERVERS",
+                        "servers": [
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133",
+                            "2a06:fb00:1::4:133"
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "8/31503",
+                "errors": [
+                    {
+                        "description": "The DNSKEY RR was not found in the DNSKEY RRset returned by one or more servers.",
+                        "code": "DNSKEY_MISSING_FROM_SERVERS",
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "185.136.99.133",
+                            "203.158.224.1",
+                            "203.158.224.11",
+                            "2001:3c8:1007:3130::1",
+                            "2001:3c8:1007:3130::11"
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "delegation": {
+            "warnings": [
+                {
+                    "description": "The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the ac.th zone): pns14.cloudns.net  See RFC 1034, Sec. 4.2.2.",
+                    "code": "NS_NAME_NOT_IN_PARENT"
+                }
+            ],
+            "errors": [
+                {
+                    "description": "No valid RRSIGs made by a key corresponding to a DS RR were found covering the DNSKEY RRset, resulting in no secure entry point (SEP) into the zone.  See RFC 4035, Sec. 2.2, RFC 6840, Sec. 5.11.",
+                    "code": "NO_SEP",
+                    "servers": [
+                        "2a06:fb00:1::1:133",
+                        "2a06:fb00:1::2:133",
+                        "2a06:fb00:1::3:133",
+                        "2a06:fb00:1::4:133"
+                    ],
+                    "query_options": [
+                        "TCP_-_EDNS0_4096_D_NK"
+                    ]
+                }
+            ]
+        }
+    }
+}

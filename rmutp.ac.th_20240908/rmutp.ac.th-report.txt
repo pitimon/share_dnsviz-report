@@ -1,0 +1,24 @@
+Sun Sep  8 02:59:33 PM +07 2024: เริ่มการวิเคราะห์โดเมน rmutp.ac.th (เวลาที่ใช้: 0 วินาที)
+Sun Sep  8 02:59:33 PM +07 2024: กำลังดำเนินการ DNSViz probe... (เวลาที่ใช้: 0 วินาที)
+Sun Sep  8 03:01:45 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ info... (เวลาที่ใช้: 132 วินาที)
+Sun Sep  8 03:01:47 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ warning... (เวลาที่ใช้: 134 วินาที)
+Sun Sep  8 03:01:48 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ error... (เวลาที่ใช้: 135 วินาที)
+Sun Sep  8 03:01:50 PM +07 2024: กำลังดำเนินการ DNSViz grok แบบไม่กรอง... (เวลาที่ใช้: 137 วินาที)
+Sun Sep  8 03:01:51 PM +07 2024: กำลังค้นหา DNSKEY records และกรอง KSK... (เวลาที่ใช้: 138 วินาที)
+Sun Sep  8 03:01:51 PM +07 2024: กำลังวิเคราะห์และบันทึกผล... (เวลาที่ใช้: 138 วินาที)
+Sun Sep  8 03:01:53 PM +07 2024: กำลังสร้างกราฟ HTML... (เวลาที่ใช้: 140 วินาที)
+Sun Sep  8 03:01:54 PM +07 2024: กำลังสร้างกราฟ PNG... (เวลาที่ใช้: 141 วินาที)
+Sun Sep  8 03:01:56 PM +07 2024: กำลังสร้างไฟล์ PlantUML... (เวลาที่ใช้: 143 วินาที)
+สถานะไฟล์ผลลัพธ์:
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th.json
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-info.json
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-warning.json
+  ไม่สามารถสร้างหรือไฟล์ว่างเปล่า: share/rmutp.ac.th_20240908/rmutp.ac.th-error.json
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-tk.txt
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-analysis.txt
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-graph.html
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-graph.png
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-info-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-warning-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/rmutp.ac.th_20240908/rmutp.ac.th-error-plantuml.txt
+Sun Sep  8 03:01:56 PM +07 2024: การวิเคราะห์เสร็จสิ้น เวลาที่ใช้ทั้งหมด: 143 วินาที (เวลาที่ใช้: 143 วินาที)

@@ -1,0 +1,83 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20038/256 [.], 8/20326/257 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutp.ac.th [.] [.]
+  [-]  DS: 8/16132/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.?] DNSKEY: 8/16132/257 [.], 8/40365/256 [.], 8/28239/256 [.]
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/16132 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.?] A: 202.29.104.55
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.?] NS: pns14.cloudns.net., ns.rmutp.ac.th., pns11.cloudns.net., pns12.cloudns.net., pns13.cloudns.net.
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.]  CNAME: NODATA
+  [.]    SOA: ns.rmutp.ac.th. admin.rmutp.ac.th. 2020225308 10800 1080 604800 900
+  [.]      RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-08 - 2024-09-12) [.]
+  [.]      RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutp.ac.th. 3h.rmutp.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.?] SOA: ns.RMUTp.ac.Th. admin.RMUTp.ac.Th. 2020225308 10800 1080 604800 900
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-08 - 2024-09-12) [.]
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-08 - 2024-09-12) [.]
+  [.?] MX: 30 aspmx3.googlemail.com., 20 alt1.aspmx.l.google.com., 30 aspmx4.googlemail.com., 30 aspmx5.googlemail.com., 10 aspmx.l.google.com., 30 aspmx2.googlemail.com., 20 alt2.aspmx.l.google.com.
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.?] TXT: "Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360", "google-site-verification=fw2-72uOrO5fSX71wi1HzG-83SRqaCNnPDhf5Ok5ba0"
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.?] AAAA: 2001:3c8:100f::55
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns.rmutp.ac.th. admin.rmutp.ac.th. 2020225308 10800 1080 604800 900
+  [.]      RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-08 - 2024-09-12) [.]
+  [.]      RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutp.ac.th. 3h.rmutp.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns.rmutp.ac.th. admin.rmutp.ac.th. 2020225308 10800 1080 604800 900
+  [.]      RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-08 - 2024-09-12) [.]
+  [.]      RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutp.ac.th. 3h.rmutp.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+r6eot.7meof.rmutp.ac.th
+  [.?] A: NXDOMAIN
+        W:PMTU_EXCEEDED
+  [.]    SOA: ns.rmutp.ac.th. admin.rmutp.ac.th. 2020225308 10800 1080 604800 900
+  [.]      RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-08 - 2024-09-12) [.]
+  [.]      RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutp.ac.th. 3h.rmutp.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
+  [.]      NSEC: 3h.rmutp.ac.th. aas.rmutp.ac.th. A RRSIG NSEC
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/28239 (2024-09-07 - 2024-09-11) [.]
+  [.]        RRSIG: rmutp.ac.th/Algorithm.RSASHA256/40365 (2024-09-07 - 2024-09-11) [.]
