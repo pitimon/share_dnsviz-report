@@ -10,5 +10,6 @@
 -- [Transitive Trust Checker](https://trans-trust.verisignlabs.com/)
 -- [DNSSEC DEBUGGER](https://dnssec-debugger.verisignlabs.com/)
 ---
-[![Transitive by name](img/en.rmutt.ac.th-names.png)](![img/en.rmutt.ac.th-names.png](https://trans-trust.verisignlabs.com/pix/en.rmutt.ac.th-names.png))
+[![Transitive by name](img/en.rmutt.ac.th-names.png)](https://trans-trust.verisignlabs.com/pix/en.rmutt.ac.th-names.png)
+
 [![Transitive by ASn](img/en.rmutt.ac.th-asns.png)](https://trans-trust.verisignlabs.com/pix/en.rmutt.ac.th-asns.png)
