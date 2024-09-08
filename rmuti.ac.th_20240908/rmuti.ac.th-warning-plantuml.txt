@@ -1,0 +1,27 @@
+@startjson
+{
+    "rmuti.ac.th.": {
+        "queries": {
+            "rmuti.ac.th./IN/NS": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/NS",
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.192.21"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
+@endjson

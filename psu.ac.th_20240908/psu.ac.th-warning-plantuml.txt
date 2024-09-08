@@ -1,0 +1,163 @@
+@startjson
+{
+    "psu.ac.th.": {
+        "queries": {
+            "psu.ac.th./IN/A": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:9009:ce::5"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "psu.ac.th./IN/NS": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:9009:ce::5"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "psu.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "psu.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "warnings": [
+                                    {
+                                        "description": "The salt value for an NSEC3 record should be empty.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONEMPTY_NSEC3_SALT"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "psu.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "psu.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "warnings": [
+                                    {
+                                        "description": "The salt value for an NSEC3 record should be empty.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONEMPTY_NSEC3_SALT"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "psu.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "psu.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "warnings": [
+                                    {
+                                        "description": "The salt value for an NSEC3 record should be empty.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONEMPTY_NSEC3_SALT"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "9i8yk.pm8kw.psu.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "9i8yk.pm8kw.psu.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "warnings": [
+                                    {
+                                        "description": "The salt value for an NSEC3 record should be empty.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONEMPTY_NSEC3_SALT"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "zone": {
+            "errors": [
+                {
+                    "description": "The server(s) were not responsive to queries over UDP.  See RFC 1035, Sec. 4.2.",
+                    "code": "SERVER_UNRESPONSIVE_UDP",
+                    "servers": [
+                        "2001:3c8:9009:ce::5"
+                    ]
+                }
+            ]
+        },
+        "delegation": {
+            "ds": [
+                {
+                    "id": "8/13660/1",
+                    "status": "ALGORITHM_IGNORED",
+                    "warnings": [
+                        {
+                            "description": "DS records with digest type 1 (SHA-1) are ignored when DS records with digest type 2 (SHA-256) exist in the same RRset.  See RFC 4509, Sec. 3.",
+                            "code": "DS_DIGEST_ALGORITHM_IGNORED"
+                        }
+                    ],
+                    "errors": [
+                        {
+                            "description": "DNSSEC specification prohibits signing with DS records that use digest algorithm 1 (SHA-1).  See RFC 8624, Sec. 3.2.",
+                            "code": "DIGEST_ALGORITHM_PROHIBITED"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
+@endjson

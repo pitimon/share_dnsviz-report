@@ -1,0 +1,77 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmuti.ac.th [.] [.]
+  [-]  DS: 8/55150/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 8/32868/256 [.], 8/55150/257 [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/55150 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/55150 (2024-08-29 - 2024-09-28) [.]
+  [.]  A: 203.158.192.6
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.?] NS: pns12.cloudns.net., ns2.rmuti.ac.th., pns11.cloudns.net., ns1.rmuti.ac.th., pns13.cloudns.net.
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]  CNAME: NODATA
+  [.]    SOA: ns.rmuti.ac.th. noc.rmuti.ac.th. 2024082901 7200 4400 604800 3600
+  [.]      RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]      RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmuti.ac.th. 365.rmuti.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]  SOA: ns.RMutI.AC.th. noc.RMutI.AC.th. 2024082901 7200 4400 604800 3600
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]  MX: 50 ALT1.ASPMX.L.GOOGLE.COM., 10 ASPMX.L.GOOGLE.COM., 50 ALT2.ASPMX.L.GOOGLE.COM., 100 ALT3.ASPMX.L.GOOGLE.COM., 150 rmuti-ac-th.mail.protection.outlook.COM.
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]  TXT: "jj7mk9dfh0k6mpqkg7sceh2p9v", "hu3huv51ffqhbbbskabgpd9eu9", "google-site-verification=7nLmNvmtYgLMbDdYvfV1ZYtmoAgnxWdLpv3m2oO6KgU", "4283g7oc9p8i0q9qfnunsb3ljo", "v=spf1 a include:_spf.rmuti.ac.th include:_spf.google.com include:spf.protection.outlook.com ~all", "5pfqlq659ambcj0lljq9e4t8e9", "MS=ms18282230"
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]  AAAA: 2001:3c8:c305::6
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns.rmuti.ac.th. noc.rmuti.ac.th. 2024082901 7200 4400 604800 3600
+  [.]      RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]      RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmuti.ac.th. 365.rmuti.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns.rmuti.ac.th. noc.rmuti.ac.th. 2024082901 7200 4400 604800 3600
+  [.]      RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]      RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmuti.ac.th. 365.rmuti.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+ygh19.coy54.rmuti.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns.rmuti.ac.th. noc.rmuti.ac.th. 2024082901 7200 4400 604800 3600
+  [.]      RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]      RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmuti.ac.th. 365.rmuti.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY CAA
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]      NSEC: www.coop.rmuti.ac.th. cpe.rmuti.ac.th. CNAME RRSIG NSEC
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]
+  [.]        RRSIG: rmuti.ac.th/Algorithm.RSASHA256/32868 (2024-08-29 - 2024-09-28) [.]

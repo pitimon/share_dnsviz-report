@@ -1,0 +1,74 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+psu.ac.th [.!] [.]
+  E:SERVER_UNRESPONSIVE_UDP
+  [-]  DS: 8/13660/1 [-!], 8/13660/2 [.]
+         E:DIGEST_ALGORITHM_PROHIBITED
+         W:DS_DIGEST_ALGORITHM_IGNORED
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 8/13660/257 [.], 8/16131/256 [.]
+  [.]    RRSIG: psu.ac.th/Algorithm.RSASHA256/13660 (2024-09-05 - 2024-10-05) [.]
+  [.]    RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-09-05 - 2024-10-05) [.]
+  [.]  A: 192.100.77.111
+  [.]    RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-26 - 2024-09-25) [.]
+  [!]  A: TIMEOUT
+  [.]  NS: ns.psu.ac.th., pns104.cloudns.net., pns102.cloudns.net., lotus.uni.net.th., pns103.cloudns.net., pns101.cloudns.net.
+  [.]    RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-22 - 2024-09-21) [.]
+  [!]  NS: TIMEOUT
+  [.]  CNAME: NODATA
+  [.]    SOA: ns.psu.ac.th. netadmin.psu.ac.th. 2024090658 10800 1200 1209600 43200
+  [.]      RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-09-08 - 2024-10-08) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: TAAECOUCAUFADKJPJQ6C932MI1CFJB93.psu.ac.th. 1 1 10 6e026332f0d71b14 TADV00DFUTGD5HO2KBLQC8KH2SD4AHMP A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM CAA
+  [.]        RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-30 - 2024-09-29) [.]
+  [.]  SOA: ns.Psu.AC.Th. netadmin.Psu.AC.Th. 2024090658 10800 1200 1209600 43200
+  [.]    RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-09-08 - 2024-10-08) [.]
+  [.]  MX: 0 psu-ac-th.mail.protection.outlook.com.
+  [.]    RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-26 - 2024-09-25) [.]
+  [.]  TXT: "google-site-verification=sds-3rHPv3jtUPGBjHJ4yevWLRPVsi9faVSwB1S6wRw", "Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360", "vmware-cloud-verification-e4b1159f-e399-4fa5-98b9-e0a59c6c92e8", "v=spf1 a:wapp-smtp.psu.ac.th a:smtp.psu.ac.th ip4:202.29.150.0/24 ip4:202.29.149.0/24 ip4:202.29.148.0/24 ip4:202.29.147.0/24 include:_spf.google.com include:spf.protection.outlook.com ~all"
+  [.]    RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-09-05 - 2024-10-05) [.]
+  [.]  AAAA: 2001:3c8:9009:85::105:103
+  [.]    RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-26 - 2024-09-25) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns.psu.ac.th. netadmin.psu.ac.th. 2024090658 10800 1200 1209600 43200
+  [.]      RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-09-08 - 2024-10-08) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: TAAECOUCAUFADKJPJQ6C932MI1CFJB93.psu.ac.th. 1 1 10 6e026332f0d71b14 TADV00DFUTGD5HO2KBLQC8KH2SD4AHMP A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM CAA
+  [.]        RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-30 - 2024-09-29) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns.psu.ac.th. netadmin.psu.ac.th. 2024090658 10800 1200 1209600 43200
+  [.]      RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-09-08 - 2024-10-08) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: TAAECOUCAUFADKJPJQ6C932MI1CFJB93.psu.ac.th. 1 1 10 6e026332f0d71b14 TADV00DFUTGD5HO2KBLQC8KH2SD4AHMP A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM CAA
+  [.]        RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-30 - 2024-09-29) [.]
+9i8yk.pm8kw.psu.ac.th
+  [-]  A: NXDOMAIN
+  [.]    SOA: ns.psu.ac.th. netadmin.psu.ac.th. 2024090658 10800 1200 1209600 43200
+  [.]      RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-09-08 - 2024-10-08) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: TAAECOUCAUFADKJPJQ6C932MI1CFJB93.psu.ac.th. 1 1 10 6e026332f0d71b14 TADV00DFUTGD5HO2KBLQC8KH2SD4AHMP A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM CAA
+  [.]        RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-30 - 2024-09-29) [.]
+  [.]      NSEC3: FHCHKPH0I0PO6OBC0IRGL4SUP8CSHI18.psu.ac.th. 1 1 10 6e026332f0d71b14 FIU00UNQQAL1GBTK75H2A2NCVMPNSLTG SRV RRSIG
+  [.]        RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-26 - 2024-09-25) [.]
+  [.]      NSEC3: AU917HQL91NH8QESN6AD77T53D8CU1VK.psu.ac.th. 1 1 10 6e026332f0d71b14 AVG4MA986G390PHU5DQFIJDOA4K9V8SF A RRSIG
+  [.]        RRSIG: psu.ac.th/Algorithm.RSASHA256/16131 (2024-08-17 - 2024-09-16) [.]

@@ -1,0 +1,3558 @@
+{
+    ".": {
+        "status": "NOERROR",
+        "queries": {
+            "./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "./8/20326",
+                                "status": "VALID",
+                                "servers": [
+                                    "170.247.170.2",
+                                    "192.5.5.241",
+                                    "192.33.4.12",
+                                    "192.36.148.17",
+                                    "192.58.128.30",
+                                    "192.112.36.4",
+                                    "192.203.230.10",
+                                    "193.0.14.129",
+                                    "198.41.0.4",
+                                    "198.97.190.53",
+                                    "199.7.83.42",
+                                    "199.7.91.13",
+                                    "202.12.27.33",
+                                    "2001:500:1::53",
+                                    "2001:500:12::d0d",
+                                    "2001:500:2d::d",
+                                    "2001:500:2f::f",
+                                    "2001:500:9f::42",
+                                    "2001:500:a8::e",
+                                    "2001:503:ba3e::2:30",
+                                    "2001:7fd::1",
+                                    "2001:7fe::53",
+                                    "2001:dc3::35",
+                                    "2801:1b8:10::b"
+                                ],
+                                "ns_names": [
+                                    "a.root-servers.net.",
+                                    "b.root-servers.net.",
+                                    "c.root-servers.net.",
+                                    "d.root-servers.net.",
+                                    "e.root-servers.net.",
+                                    "f.root-servers.net.",
+                                    "g.root-servers.net.",
+                                    "h.root-servers.net.",
+                                    "i.root-servers.net.",
+                                    "j.root-servers.net.",
+                                    "k.root-servers.net.",
+                                    "l.root-servers.net.",
+                                    "m.root-servers.net."
+                                ],
+                                "nsid_values": [
+                                    "001.apg.h.root-servers.org",
+                                    "001.nzy.h.root-servers.org",
+                                    "BKK.cf.f.root-servers.org",
+                                    "JHB.cf.f.root-servers.org",
+                                    "M-NRT-DIXIE-1",
+                                    "M-SIN-3",
+                                    "a4.de-fra.root",
+                                    "au-per-aa",
+                                    "b1-sin",
+                                    "b3-mia",
+                                    "groot-pac2-2",
+                                    "groot-pac2-3",
+                                    "n1.au-bne.root",
+                                    "ns1.au-bne.k.ripe.net",
+                                    "ns1.tw-tpe.k.ripe.net",
+                                    "p03.qpg.eroot",
+                                    "p06.qpg.eroot",
+                                    "s1.dex",
+                                    "s1.sin",
+                                    "sg-sin-aa",
+                                    "sgsg6.droot.maxgigapop.net",
+                                    "sin1b.c.root-servers.org"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "170.247.170.2",
+                            "192.5.5.241",
+                            "192.33.4.12",
+                            "192.36.148.17",
+                            "192.58.128.30",
+                            "192.112.36.4",
+                            "192.203.230.10",
+                            "193.0.14.129",
+                            "198.41.0.4",
+                            "198.97.190.53",
+                            "199.7.83.42",
+                            "199.7.91.13",
+                            "202.12.27.33",
+                            "2001:500:1::53",
+                            "2001:500:12::d0d",
+                            "2001:500:2d::d",
+                            "2001:500:2f::f",
+                            "2001:500:9f::42",
+                            "2001:500:a8::e",
+                            "2001:503:ba3e::2:30",
+                            "2001:7fd::1",
+                            "2001:7fe::53",
+                            "2001:dc3::35",
+                            "2801:1b8:10::b"
+                        ],
+                        "ns_names": [
+                            "a.root-servers.net.",
+                            "b.root-servers.net.",
+                            "c.root-servers.net.",
+                            "d.root-servers.net.",
+                            "e.root-servers.net.",
+                            "f.root-servers.net.",
+                            "g.root-servers.net.",
+                            "h.root-servers.net.",
+                            "i.root-servers.net.",
+                            "j.root-servers.net.",
+                            "k.root-servers.net.",
+                            "l.root-servers.net.",
+                            "m.root-servers.net."
+                        ],
+                        "nsid_values": [
+                            "001.apg.h.root-servers.org",
+                            "001.nzy.h.root-servers.org",
+                            "BKK.cf.f.root-servers.org",
+                            "JHB.cf.f.root-servers.org",
+                            "M-NRT-DIXIE-1",
+                            "M-SIN-3",
+                            "a4.de-fra.root",
+                            "au-per-aa",
+                            "b1-sin",
+                            "b3-mia",
+                            "groot-pac2-2",
+                            "groot-pac2-3",
+                            "n1.au-bne.root",
+                            "ns1.au-bne.k.ripe.net",
+                            "ns1.tw-tpe.k.ripe.net",
+                            "p03.qpg.eroot",
+                            "p06.qpg.eroot",
+                            "s1.dex",
+                            "s1.sin",
+                            "sg-sin-aa",
+                            "sgsg6.droot.maxgigapop.net",
+                            "sin1b.c.root-servers.org"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "170.247.170.2": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.5.5.241": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.33.4.12": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.36.148.17": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.58.128.30": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.112.36.4": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.203.230.10": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "193.0.14.129": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "198.41.0.4": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "198.97.190.53": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "199.7.83.42": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "199.7.91.13": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "202.12.27.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:1::53": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:12::d0d": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:2d::d": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:2f::f": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:9f::42": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:a8::e": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:503:ba3e::2:30": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:7fd::1": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:7fe::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:dc3::35": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2801:1b8:10::b": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "dnskey": [
+            {
+                "id": "8/20326",
+                "servers": [
+                    "170.247.170.2",
+                    "192.5.5.241",
+                    "192.33.4.12",
+                    "192.36.148.17",
+                    "192.58.128.30",
+                    "192.112.36.4",
+                    "192.203.230.10",
+                    "193.0.14.129",
+                    "198.41.0.4",
+                    "198.97.190.53",
+                    "199.7.83.42",
+                    "199.7.91.13",
+                    "202.12.27.33",
+                    "2001:500:1::53",
+                    "2001:500:12::d0d",
+                    "2001:500:2d::d",
+                    "2001:500:2f::f",
+                    "2001:500:9f::42",
+                    "2001:500:a8::e",
+                    "2001:503:ba3e::2:30",
+                    "2001:7fd::1",
+                    "2001:7fe::53",
+                    "2001:dc3::35",
+                    "2801:1b8:10::b"
+                ],
+                "ns_names": [
+                    "a.root-servers.net.",
+                    "b.root-servers.net.",
+                    "c.root-servers.net.",
+                    "d.root-servers.net.",
+                    "e.root-servers.net.",
+                    "f.root-servers.net.",
+                    "g.root-servers.net.",
+                    "h.root-servers.net.",
+                    "i.root-servers.net.",
+                    "j.root-servers.net.",
+                    "k.root-servers.net.",
+                    "l.root-servers.net.",
+                    "m.root-servers.net."
+                ],
+                "nsid_values": [
+                    "001.apg.h.root-servers.org",
+                    "001.nzy.h.root-servers.org",
+                    "BKK.cf.f.root-servers.org",
+                    "JHB.cf.f.root-servers.org",
+                    "M-NRT-DIXIE-1",
+                    "M-SIN-3",
+                    "a4.de-fra.root",
+                    "au-per-aa",
+                    "b1-sin",
+                    "b3-mia",
+                    "groot-pac2-2",
+                    "groot-pac2-3",
+                    "n1.au-bne.root",
+                    "ns1.au-bne.k.ripe.net",
+                    "ns1.tw-tpe.k.ripe.net",
+                    "p03.qpg.eroot",
+                    "p06.qpg.eroot",
+                    "s1.dex",
+                    "s1.sin",
+                    "sg-sin-aa",
+                    "sgsg6.droot.maxgigapop.net",
+                    "sin1b.c.root-servers.org"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            },
+            {
+                "id": "8/20038",
+                "servers": [
+                    "170.247.170.2",
+                    "192.5.5.241",
+                    "192.33.4.12",
+                    "192.36.148.17",
+                    "192.58.128.30",
+                    "192.112.36.4",
+                    "192.203.230.10",
+                    "193.0.14.129",
+                    "198.41.0.4",
+                    "198.97.190.53",
+                    "199.7.83.42",
+                    "199.7.91.13",
+                    "202.12.27.33",
+                    "2001:500:1::53",
+                    "2001:500:12::d0d",
+                    "2001:500:2d::d",
+                    "2001:500:2f::f",
+                    "2001:500:9f::42",
+                    "2001:500:a8::e",
+                    "2001:503:ba3e::2:30",
+                    "2001:7fd::1",
+                    "2001:7fe::53",
+                    "2001:dc3::35",
+                    "2801:1b8:10::b"
+                ],
+                "ns_names": [
+                    "a.root-servers.net.",
+                    "b.root-servers.net.",
+                    "c.root-servers.net.",
+                    "d.root-servers.net.",
+                    "e.root-servers.net.",
+                    "f.root-servers.net.",
+                    "g.root-servers.net.",
+                    "h.root-servers.net.",
+                    "i.root-servers.net.",
+                    "j.root-servers.net.",
+                    "k.root-servers.net.",
+                    "l.root-servers.net.",
+                    "m.root-servers.net."
+                ],
+                "nsid_values": [
+                    "001.apg.h.root-servers.org",
+                    "001.nzy.h.root-servers.org",
+                    "BKK.cf.f.root-servers.org",
+                    "JHB.cf.f.root-servers.org",
+                    "M-NRT-DIXIE-1",
+                    "M-SIN-3",
+                    "a4.de-fra.root",
+                    "au-per-aa",
+                    "b1-sin",
+                    "b3-mia",
+                    "groot-pac2-2",
+                    "groot-pac2-3",
+                    "n1.au-bne.root",
+                    "ns1.au-bne.k.ripe.net",
+                    "ns1.tw-tpe.k.ripe.net",
+                    "p03.qpg.eroot",
+                    "p06.qpg.eroot",
+                    "s1.dex",
+                    "s1.sin",
+                    "sg-sin-aa",
+                    "sgsg6.droot.maxgigapop.net",
+                    "sin1b.c.root-servers.org"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            }
+        ]
+    },
+    "th.": {
+        "status": "NOERROR",
+        "queries": {
+            "th./IN/DS": {
+                "answer": [
+                    {
+                        "id": "th./IN/DS",
+                        "rrsig": [
+                            {
+                                "id": "./8/20038",
+                                "status": "VALID",
+                                "servers": [
+                                    "170.247.170.2",
+                                    "192.5.5.241",
+                                    "192.33.4.12",
+                                    "192.36.148.17",
+                                    "192.58.128.30",
+                                    "192.112.36.4",
+                                    "192.203.230.10",
+                                    "193.0.14.129",
+                                    "198.41.0.4",
+                                    "198.97.190.53",
+                                    "199.7.83.42",
+                                    "199.7.91.13",
+                                    "202.12.27.33",
+                                    "2001:500:1::53",
+                                    "2001:500:12::d0d",
+                                    "2001:500:2d::d",
+                                    "2001:500:2f::f",
+                                    "2001:500:9f::42",
+                                    "2001:500:a8::e",
+                                    "2001:503:ba3e::2:30",
+                                    "2001:7fd::1",
+                                    "2001:7fe::53",
+                                    "2001:dc3::35",
+                                    "2801:1b8:10::b"
+                                ],
+                                "ns_names": [
+                                    "a.root-servers.net.",
+                                    "b.root-servers.net.",
+                                    "c.root-servers.net.",
+                                    "d.root-servers.net.",
+                                    "e.root-servers.net.",
+                                    "f.root-servers.net.",
+                                    "g.root-servers.net.",
+                                    "h.root-servers.net.",
+                                    "i.root-servers.net.",
+                                    "j.root-servers.net.",
+                                    "k.root-servers.net.",
+                                    "l.root-servers.net.",
+                                    "m.root-servers.net."
+                                ],
+                                "nsid_values": [
+                                    "001.apg.h.root-servers.org",
+                                    "001.nzy.h.root-servers.org",
+                                    "BKK.cf.f.root-servers.org",
+                                    "M-NRT-DIXIE-1",
+                                    "M-SIN-3",
+                                    "SIN.cf.f.root-servers.org",
+                                    "a4.de-fra.root",
+                                    "au-per-aa",
+                                    "b3-mia",
+                                    "b4-sin",
+                                    "groot-pac2-2",
+                                    "n1.au-bne.root",
+                                    "ns1.au-bne.k.ripe.net",
+                                    "ns1.tw-tpe.k.ripe.net",
+                                    "p02.jhb.eroot",
+                                    "p05.qpg.eroot",
+                                    "s1.dex",
+                                    "s1.sin",
+                                    "sg-sin-aa",
+                                    "sgsg7.droot.maxgigapop.net",
+                                    "sgsg8.droot.maxgigapop.net",
+                                    "sin1b.c.root-servers.org"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "170.247.170.2",
+                            "192.5.5.241",
+                            "192.33.4.12",
+                            "192.36.148.17",
+                            "192.58.128.30",
+                            "192.112.36.4",
+                            "192.203.230.10",
+                            "193.0.14.129",
+                            "198.41.0.4",
+                            "198.97.190.53",
+                            "199.7.83.42",
+                            "199.7.91.13",
+                            "202.12.27.33",
+                            "2001:500:1::53",
+                            "2001:500:12::d0d",
+                            "2001:500:2d::d",
+                            "2001:500:2f::f",
+                            "2001:500:9f::42",
+                            "2001:500:a8::e",
+                            "2001:503:ba3e::2:30",
+                            "2001:7fd::1",
+                            "2001:7fe::53",
+                            "2001:dc3::35",
+                            "2801:1b8:10::b"
+                        ],
+                        "ns_names": [
+                            "a.root-servers.net.",
+                            "b.root-servers.net.",
+                            "c.root-servers.net.",
+                            "d.root-servers.net.",
+                            "e.root-servers.net.",
+                            "f.root-servers.net.",
+                            "g.root-servers.net.",
+                            "h.root-servers.net.",
+                            "i.root-servers.net.",
+                            "j.root-servers.net.",
+                            "k.root-servers.net.",
+                            "l.root-servers.net.",
+                            "m.root-servers.net."
+                        ],
+                        "nsid_values": [
+                            "001.apg.h.root-servers.org",
+                            "001.nzy.h.root-servers.org",
+                            "BKK.cf.f.root-servers.org",
+                            "M-NRT-DIXIE-1",
+                            "M-SIN-3",
+                            "SIN.cf.f.root-servers.org",
+                            "a4.de-fra.root",
+                            "au-per-aa",
+                            "b3-mia",
+                            "b4-sin",
+                            "groot-pac2-2",
+                            "n1.au-bne.root",
+                            "ns1.au-bne.k.ripe.net",
+                            "ns1.tw-tpe.k.ripe.net",
+                            "p02.jhb.eroot",
+                            "p05.qpg.eroot",
+                            "s1.dex",
+                            "s1.sin",
+                            "sg-sin-aa",
+                            "sgsg7.droot.maxgigapop.net",
+                            "sgsg8.droot.maxgigapop.net",
+                            "sin1b.c.root-servers.org"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "170.247.170.2": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.5.5.241": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.33.4.12": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.36.148.17": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.58.128.30": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.112.36.4": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.203.230.10": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "193.0.14.129": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "198.41.0.4": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "198.97.190.53": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "199.7.83.42": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "199.7.91.13": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "202.12.27.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:1::53": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:12::d0d": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:2d::d": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:2f::f": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:9f::42": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:a8::e": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:503:ba3e::2:30": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:7fd::1": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:7fe::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:dc3::35": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2801:1b8:10::b": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            },
+            "th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "th./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "th./8/19117",
+                                "status": "VALID",
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "1.jhb.pch",
+                                    "2.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "122.155.23.64",
+                            "194.0.1.28",
+                            "194.146.106.154",
+                            "202.28.0.1",
+                            "203.159.64.64",
+                            "204.61.216.126",
+                            "2001:500:14:6126:ad::1",
+                            "2001:678:4::1c",
+                            "2001:67c:1010:39::53",
+                            "2001:c38:2000:183::30",
+                            "2405:3340:e011:3000::30"
+                        ],
+                        "ns_names": [
+                            "a.thains.co.th.",
+                            "b.thains.co.th.",
+                            "c.thains.co.th.",
+                            "nn1.thains.co.th.",
+                            "ns.thnic.net.",
+                            "p.thains.co.th."
+                        ],
+                        "nsid_values": [
+                            "1.jhb.pch",
+                            "2.qpg.pch",
+                            "BKK1",
+                            "Bkk2",
+                            "s2.chi",
+                            "s2.sin"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "122.155.23.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "194.0.1.28": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "194.146.106.154": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "202.28.0.1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.159.64.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "204.61.216.126": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:14:6126:ad::1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:678:4::1c": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:67c:1010:39::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:c38:2000:183::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2405:3340:e011:3000::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "dnskey": [
+            {
+                "id": "8/19117",
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "1.jhb.pch",
+                    "2.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            },
+            {
+                "id": "8/10701",
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "1.jhb.pch",
+                    "2.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            }
+        ],
+        "delegation": {
+            "ds": [
+                {
+                    "id": "8/19117/2",
+                    "status": "VALID",
+                    "servers": [
+                        "170.247.170.2",
+                        "192.5.5.241",
+                        "192.33.4.12",
+                        "192.36.148.17",
+                        "192.58.128.30",
+                        "192.112.36.4",
+                        "192.203.230.10",
+                        "193.0.14.129",
+                        "198.41.0.4",
+                        "198.97.190.53",
+                        "199.7.83.42",
+                        "199.7.91.13",
+                        "202.12.27.33",
+                        "2001:500:1::53",
+                        "2001:500:12::d0d",
+                        "2001:500:2d::d",
+                        "2001:500:2f::f",
+                        "2001:500:9f::42",
+                        "2001:500:a8::e",
+                        "2001:503:ba3e::2:30",
+                        "2001:7fd::1",
+                        "2001:7fe::53",
+                        "2001:dc3::35",
+                        "2801:1b8:10::b"
+                    ],
+                    "ns_names": [
+                        "a.root-servers.net.",
+                        "b.root-servers.net.",
+                        "c.root-servers.net.",
+                        "d.root-servers.net.",
+                        "e.root-servers.net.",
+                        "f.root-servers.net.",
+                        "g.root-servers.net.",
+                        "h.root-servers.net.",
+                        "i.root-servers.net.",
+                        "j.root-servers.net.",
+                        "k.root-servers.net.",
+                        "l.root-servers.net.",
+                        "m.root-servers.net."
+                    ],
+                    "nsid_values": [
+                        "001.apg.h.root-servers.org",
+                        "001.nzy.h.root-servers.org",
+                        "BKK.cf.f.root-servers.org",
+                        "M-NRT-DIXIE-1",
+                        "M-SIN-3",
+                        "SIN.cf.f.root-servers.org",
+                        "a4.de-fra.root",
+                        "au-per-aa",
+                        "b3-mia",
+                        "b4-sin",
+                        "groot-pac2-2",
+                        "n1.au-bne.root",
+                        "ns1.au-bne.k.ripe.net",
+                        "ns1.tw-tpe.k.ripe.net",
+                        "p02.jhb.eroot",
+                        "p05.qpg.eroot",
+                        "s1.dex",
+                        "s1.sin",
+                        "sg-sin-aa",
+                        "sgsg7.droot.maxgigapop.net",
+                        "sgsg8.droot.maxgigapop.net",
+                        "sin1b.c.root-servers.org"
+                    ],
+                    "query_options": [
+                        "UDP_-_EDNS0_4096_D_NK"
+                    ]
+                }
+            ],
+            "status": "SECURE"
+        }
+    },
+    "ac.th.": {
+        "status": "NOERROR",
+        "queries": {
+            "ac.th./IN/DS": {
+                "answer": [
+                    {
+                        "id": "ac.th./IN/DS",
+                        "rrsig": [
+                            {
+                                "id": "th./8/10701",
+                                "status": "VALID",
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "1.jhb.pch",
+                                    "1.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "122.155.23.64",
+                            "194.0.1.28",
+                            "194.146.106.154",
+                            "202.28.0.1",
+                            "203.159.64.64",
+                            "204.61.216.126",
+                            "2001:500:14:6126:ad::1",
+                            "2001:678:4::1c",
+                            "2001:67c:1010:39::53",
+                            "2001:c38:2000:183::30",
+                            "2405:3340:e011:3000::30"
+                        ],
+                        "ns_names": [
+                            "a.thains.co.th.",
+                            "b.thains.co.th.",
+                            "c.thains.co.th.",
+                            "nn1.thains.co.th.",
+                            "ns.thnic.net.",
+                            "p.thains.co.th."
+                        ],
+                        "nsid_values": [
+                            "1.jhb.pch",
+                            "1.qpg.pch",
+                            "BKK1",
+                            "Bkk2",
+                            "s2.chi",
+                            "s2.sin"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "122.155.23.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "194.0.1.28": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "194.146.106.154": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "202.28.0.1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.159.64.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "204.61.216.126": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:14:6126:ad::1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:678:4::1c": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:67c:1010:39::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:c38:2000:183::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2405:3340:e011:3000::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            },
+            "ac.th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "ac.th./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "ac.th./8/12799",
+                                "status": "VALID",
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "1.qpg.pch",
+                                    "5.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "122.155.23.64",
+                            "194.0.1.28",
+                            "194.146.106.154",
+                            "202.28.0.1",
+                            "203.159.64.64",
+                            "204.61.216.126",
+                            "2001:500:14:6126:ad::1",
+                            "2001:678:4::1c",
+                            "2001:67c:1010:39::53",
+                            "2001:c38:2000:183::30",
+                            "2405:3340:e011:3000::30"
+                        ],
+                        "ns_names": [
+                            "a.thains.co.th.",
+                            "b.thains.co.th.",
+                            "c.thains.co.th.",
+                            "nn1.thains.co.th.",
+                            "ns.thnic.net.",
+                            "p.thains.co.th."
+                        ],
+                        "nsid_values": [
+                            "1.qpg.pch",
+                            "5.qpg.pch",
+                            "BKK1",
+                            "Bkk2",
+                            "s2.chi",
+                            "s2.sin"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "122.155.23.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "194.0.1.28": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "194.146.106.154": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "202.28.0.1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.159.64.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "204.61.216.126": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:14:6126:ad::1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:678:4::1c": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:67c:1010:39::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:c38:2000:183::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2405:3340:e011:3000::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "dnskey": [
+            {
+                "id": "8/56805",
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "1.qpg.pch",
+                    "5.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            },
+            {
+                "id": "8/12799",
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "1.qpg.pch",
+                    "5.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            }
+        ],
+        "delegation": {
+            "ds": [
+                {
+                    "id": "8/12799/2",
+                    "status": "VALID",
+                    "servers": [
+                        "122.155.23.64",
+                        "194.0.1.28",
+                        "194.146.106.154",
+                        "202.28.0.1",
+                        "203.159.64.64",
+                        "204.61.216.126",
+                        "2001:500:14:6126:ad::1",
+                        "2001:678:4::1c",
+                        "2001:67c:1010:39::53",
+                        "2001:c38:2000:183::30",
+                        "2405:3340:e011:3000::30"
+                    ],
+                    "ns_names": [
+                        "a.thains.co.th.",
+                        "b.thains.co.th.",
+                        "c.thains.co.th.",
+                        "nn1.thains.co.th.",
+                        "ns.thnic.net.",
+                        "p.thains.co.th."
+                    ],
+                    "nsid_values": [
+                        "1.jhb.pch",
+                        "1.qpg.pch",
+                        "BKK1",
+                        "Bkk2",
+                        "s2.chi",
+                        "s2.sin"
+                    ],
+                    "query_options": [
+                        "UDP_-_EDNS0_4096_D_NK"
+                    ]
+                }
+            ],
+            "status": "SECURE"
+        }
+    },
+    "rmuti.ac.th.": {
+        "status": "NOERROR",
+        "queries": {
+            "rmuti.ac.th./IN/A": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/A",
+                        "rrsig": [
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "203.158.192.11",
+                                    "2001:3c8:c305::11"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/NS": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/NS",
+                        "rrsig": [
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "203.158.192.11",
+                                    "2001:3c8:c305::11"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        },
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "203.158.192.21"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "rmuti.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmuti.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "185.136.96.133",
+                                                    "185.136.97.133",
+                                                    "185.136.98.133",
+                                                    "203.158.192.21",
+                                                    "2001:3c8:c305::21",
+                                                    "2a06:fb00:1::1:133",
+                                                    "2a06:fb00:1::2:133",
+                                                    "2a06:fb00:1::3:133"
+                                                ],
+                                                "ns_names": [
+                                                    "ns2.rmuti.ac.th.",
+                                                    "pns11.cloudns.net.",
+                                                    "pns12.cloudns.net.",
+                                                    "pns13.cloudns.net."
+                                                ],
+                                                "nsid_values": [
+                                                    "sg1-10",
+                                                    "sg2-10"
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            },
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "203.158.192.11",
+                                                    "2001:3c8:c305::11"
+                                                ],
+                                                "ns_names": [
+                                                    "ns1.rmuti.ac.th."
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmuti.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "185.136.96.133",
+                                            "185.136.97.133",
+                                            "185.136.98.133",
+                                            "203.158.192.21",
+                                            "2001:3c8:c305::21",
+                                            "2a06:fb00:1::1:133",
+                                            "2a06:fb00:1::2:133",
+                                            "2a06:fb00:1::3:133"
+                                        ],
+                                        "ns_names": [
+                                            "ns2.rmuti.ac.th.",
+                                            "pns11.cloudns.net.",
+                                            "pns12.cloudns.net.",
+                                            "pns13.cloudns.net."
+                                        ],
+                                        "nsid_values": [
+                                            "sg1-10",
+                                            "sg2-10"
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    },
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "203.158.192.11",
+                                            "2001:3c8:c305::11"
+                                        ],
+                                        "ns_names": [
+                                            "ns1.rmuti.ac.th."
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    }
+                                ],
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/SOA": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/SOA",
+                        "rrsig": [
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "TCP_-_EDNS0_4096_D_N",
+                                    "UDP_-_EDNS0_4096_D_NK",
+                                    "UDP_-_EDNS0_4096_D_NK_0x20"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "203.158.192.11",
+                                    "2001:3c8:c305::11"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th."
+                                ],
+                                "query_options": [
+                                    "TCP_-_EDNS0_4096_D_N",
+                                    "UDP_-_EDNS0_4096_D_NK",
+                                    "UDP_-_EDNS0_4096_D_NK_0x20"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_N",
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_4096_D_NK_0x20"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.21": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/MX": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/MX",
+                        "rrsig": [
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK",
+                                    "UDP_-_EDNS0_512_D_NK"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "203.158.192.11",
+                                    "2001:3c8:c305::11"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_512_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/TXT": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/TXT",
+                        "rrsig": [
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "203.158.192.11",
+                                    "2001:3c8:c305::11"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/AAAA": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/AAAA",
+                        "rrsig": [
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "203.158.192.11",
+                                    "2001:3c8:c305::11"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/DS": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/DS",
+                        "rrsig": [
+                            {
+                                "id": "ac.th./8/56805",
+                                "status": "VALID",
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "1.jhb.pch",
+                                    "5.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "122.155.23.64",
+                            "194.0.1.28",
+                            "194.146.106.154",
+                            "202.28.0.1",
+                            "203.159.64.64",
+                            "204.61.216.126",
+                            "2001:500:14:6126:ad::1",
+                            "2001:678:4::1c",
+                            "2001:67c:1010:39::53",
+                            "2001:c38:2000:183::30",
+                            "2405:3340:e011:3000::30"
+                        ],
+                        "ns_names": [
+                            "a.thains.co.th.",
+                            "b.thains.co.th.",
+                            "c.thains.co.th.",
+                            "nn1.thains.co.th.",
+                            "ns.thnic.net.",
+                            "p.thains.co.th."
+                        ],
+                        "nsid_values": [
+                            "1.jhb.pch",
+                            "5.qpg.pch",
+                            "BKK1",
+                            "Bkk2",
+                            "s2.chi",
+                            "s2.sin"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "122.155.23.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "194.0.1.28": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "194.146.106.154": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "202.28.0.1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.159.64.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "204.61.216.126": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:14:6126:ad::1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:678:4::1c": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:67c:1010:39::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:c38:2000:183::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2405:3340:e011:3000::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "rmuti.ac.th./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/55150",
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/32868",
+                                "status": "VALID",
+                                "servers": [
+                                    "203.158.192.11",
+                                    "2001:3c8:c305::11"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            },
+                            {
+                                "id": "rmuti.ac.th./8/55150",
+                                "status": "VALID",
+                                "servers": [
+                                    "203.158.192.11",
+                                    "2001:3c8:c305::11"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/NSEC3PARAM": {
+                "nodata": [
+                    {
+                        "id": "rmuti.ac.th./IN/NSEC3PARAM",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmuti.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "185.136.96.133",
+                                                    "185.136.97.133",
+                                                    "185.136.98.133",
+                                                    "203.158.192.21",
+                                                    "2001:3c8:c305::21",
+                                                    "2a06:fb00:1::1:133",
+                                                    "2a06:fb00:1::2:133",
+                                                    "2a06:fb00:1::3:133"
+                                                ],
+                                                "ns_names": [
+                                                    "ns2.rmuti.ac.th.",
+                                                    "pns11.cloudns.net.",
+                                                    "pns12.cloudns.net.",
+                                                    "pns13.cloudns.net."
+                                                ],
+                                                "nsid_values": [
+                                                    "sg1-10",
+                                                    "sg2-10"
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            },
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "203.158.192.11",
+                                                    "2001:3c8:c305::11"
+                                                ],
+                                                "ns_names": [
+                                                    "ns1.rmuti.ac.th."
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmuti.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "185.136.96.133",
+                                            "185.136.97.133",
+                                            "185.136.98.133",
+                                            "203.158.192.21",
+                                            "2001:3c8:c305::21",
+                                            "2a06:fb00:1::1:133",
+                                            "2a06:fb00:1::2:133",
+                                            "2a06:fb00:1::3:133"
+                                        ],
+                                        "ns_names": [
+                                            "ns2.rmuti.ac.th.",
+                                            "pns11.cloudns.net.",
+                                            "pns12.cloudns.net.",
+                                            "pns13.cloudns.net."
+                                        ],
+                                        "nsid_values": [
+                                            "sg1-10",
+                                            "sg2-10"
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    },
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "203.158.192.11",
+                                            "2001:3c8:c305::11"
+                                        ],
+                                        "ns_names": [
+                                            "ns1.rmuti.ac.th."
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    }
+                                ],
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "rmuti.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmuti.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "185.136.96.133",
+                                                    "185.136.97.133",
+                                                    "185.136.98.133",
+                                                    "203.158.192.21",
+                                                    "2001:3c8:c305::21",
+                                                    "2a06:fb00:1::1:133",
+                                                    "2a06:fb00:1::2:133",
+                                                    "2a06:fb00:1::3:133"
+                                                ],
+                                                "ns_names": [
+                                                    "ns2.rmuti.ac.th.",
+                                                    "pns11.cloudns.net.",
+                                                    "pns12.cloudns.net.",
+                                                    "pns13.cloudns.net."
+                                                ],
+                                                "nsid_values": [
+                                                    "sg1-10",
+                                                    "sg2-10"
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            },
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "203.158.192.11",
+                                                    "2001:3c8:c305::11"
+                                                ],
+                                                "ns_names": [
+                                                    "ns1.rmuti.ac.th."
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmuti.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "185.136.96.133",
+                                            "185.136.97.133",
+                                            "185.136.98.133",
+                                            "203.158.192.21",
+                                            "2001:3c8:c305::21",
+                                            "2a06:fb00:1::1:133",
+                                            "2a06:fb00:1::2:133",
+                                            "2a06:fb00:1::3:133"
+                                        ],
+                                        "ns_names": [
+                                            "ns2.rmuti.ac.th.",
+                                            "pns11.cloudns.net.",
+                                            "pns12.cloudns.net.",
+                                            "pns13.cloudns.net."
+                                        ],
+                                        "nsid_values": [
+                                            "sg1-10",
+                                            "sg2-10"
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    },
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "203.158.192.11",
+                                            "2001:3c8:c305::11"
+                                        ],
+                                        "ns_names": [
+                                            "ns1.rmuti.ac.th."
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    }
+                                ],
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmuti.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "rmuti.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmuti.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "185.136.96.133",
+                                                    "185.136.97.133",
+                                                    "185.136.98.133",
+                                                    "203.158.192.21",
+                                                    "2001:3c8:c305::21",
+                                                    "2a06:fb00:1::1:133",
+                                                    "2a06:fb00:1::2:133",
+                                                    "2a06:fb00:1::3:133"
+                                                ],
+                                                "ns_names": [
+                                                    "ns2.rmuti.ac.th.",
+                                                    "pns11.cloudns.net.",
+                                                    "pns12.cloudns.net.",
+                                                    "pns13.cloudns.net."
+                                                ],
+                                                "nsid_values": [
+                                                    "sg1-10",
+                                                    "sg2-10"
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            },
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "203.158.192.11",
+                                                    "2001:3c8:c305::11"
+                                                ],
+                                                "ns_names": [
+                                                    "ns1.rmuti.ac.th."
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmuti.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "185.136.96.133",
+                                            "185.136.97.133",
+                                            "185.136.98.133",
+                                            "203.158.192.21",
+                                            "2001:3c8:c305::21",
+                                            "2a06:fb00:1::1:133",
+                                            "2a06:fb00:1::2:133",
+                                            "2a06:fb00:1::3:133"
+                                        ],
+                                        "ns_names": [
+                                            "ns2.rmuti.ac.th.",
+                                            "pns11.cloudns.net.",
+                                            "pns12.cloudns.net.",
+                                            "pns13.cloudns.net."
+                                        ],
+                                        "nsid_values": [
+                                            "sg1-10",
+                                            "sg2-10"
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    },
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "203.158.192.11",
+                                            "2001:3c8:c305::11"
+                                        ],
+                                        "ns_names": [
+                                            "ns1.rmuti.ac.th."
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    }
+                                ],
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            },
+            "ygh19.coy54.rmuti.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "ygh19.coy54.rmuti.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "rmuti.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "185.136.96.133",
+                                                    "185.136.97.133",
+                                                    "185.136.98.133",
+                                                    "203.158.192.21",
+                                                    "2001:3c8:c305::21",
+                                                    "2a06:fb00:1::1:133",
+                                                    "2a06:fb00:1::2:133",
+                                                    "2a06:fb00:1::3:133"
+                                                ],
+                                                "ns_names": [
+                                                    "ns2.rmuti.ac.th.",
+                                                    "pns11.cloudns.net.",
+                                                    "pns12.cloudns.net.",
+                                                    "pns13.cloudns.net."
+                                                ],
+                                                "nsid_values": [
+                                                    "sg1-10",
+                                                    "sg2-10"
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            },
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "203.158.192.11",
+                                                    "2001:3c8:c305::11"
+                                                ],
+                                                "ns_names": [
+                                                    "ns1.rmuti.ac.th."
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "www.coop.rmuti.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "185.136.96.133",
+                                                    "185.136.97.133",
+                                                    "185.136.98.133",
+                                                    "203.158.192.21",
+                                                    "2001:3c8:c305::21",
+                                                    "2a06:fb00:1::1:133",
+                                                    "2a06:fb00:1::2:133",
+                                                    "2a06:fb00:1::3:133"
+                                                ],
+                                                "ns_names": [
+                                                    "ns2.rmuti.ac.th.",
+                                                    "pns11.cloudns.net.",
+                                                    "pns12.cloudns.net.",
+                                                    "pns13.cloudns.net."
+                                                ],
+                                                "nsid_values": [
+                                                    "sg1-10",
+                                                    "sg2-10"
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            },
+                                            {
+                                                "id": "rmuti.ac.th./8/32868",
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "203.158.192.11",
+                                                    "2001:3c8:c305::11"
+                                                ],
+                                                "ns_names": [
+                                                    "ns1.rmuti.ac.th."
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "status": "VALID",
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ],
+                                "nsid_values": [
+                                    "sg1-10",
+                                    "sg2-10"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "rmuti.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "185.136.96.133",
+                                            "185.136.97.133",
+                                            "185.136.98.133",
+                                            "203.158.192.21",
+                                            "2001:3c8:c305::21",
+                                            "2a06:fb00:1::1:133",
+                                            "2a06:fb00:1::2:133",
+                                            "2a06:fb00:1::3:133"
+                                        ],
+                                        "ns_names": [
+                                            "ns2.rmuti.ac.th.",
+                                            "pns11.cloudns.net.",
+                                            "pns12.cloudns.net.",
+                                            "pns13.cloudns.net."
+                                        ],
+                                        "nsid_values": [
+                                            "sg1-10",
+                                            "sg2-10"
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    },
+                                    {
+                                        "id": "rmuti.ac.th./8/32868",
+                                        "status": "VALID",
+                                        "servers": [
+                                            "203.158.192.11",
+                                            "2001:3c8:c305::11"
+                                        ],
+                                        "ns_names": [
+                                            "ns1.rmuti.ac.th."
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    }
+                                ],
+                                "servers": [
+                                    "185.136.96.133",
+                                    "185.136.97.133",
+                                    "185.136.98.133",
+                                    "203.158.192.11",
+                                    "203.158.192.21",
+                                    "2001:3c8:c305::11",
+                                    "2001:3c8:c305::21",
+                                    "2a06:fb00:1::1:133",
+                                    "2a06:fb00:1::2:133",
+                                    "2a06:fb00:1::3:133"
+                                ],
+                                "ns_names": [
+                                    "ns1.rmuti.ac.th.",
+                                    "ns2.rmuti.ac.th.",
+                                    "pns11.cloudns.net.",
+                                    "pns12.cloudns.net.",
+                                    "pns13.cloudns.net."
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "185.136.96.133",
+                            "185.136.97.133",
+                            "185.136.98.133",
+                            "203.158.192.11",
+                            "203.158.192.21",
+                            "2001:3c8:c305::11",
+                            "2001:3c8:c305::21",
+                            "2a06:fb00:1::1:133",
+                            "2a06:fb00:1::2:133",
+                            "2a06:fb00:1::3:133"
+                        ],
+                        "ns_names": [
+                            "ns1.rmuti.ac.th.",
+                            "ns2.rmuti.ac.th.",
+                            "pns11.cloudns.net.",
+                            "pns12.cloudns.net.",
+                            "pns13.cloudns.net."
+                        ],
+                        "nsid_values": [
+                            "sg1-10",
+                            "sg2-10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "185.136.96.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.97.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "185.136.98.133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.192.11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.192.21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:3c8:c305::11": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:3c8:c305::21": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::1:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::2:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2a06:fb00:1::3:133": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "dnskey": [
+            {
+                "id": "8/32868",
+                "servers": [
+                    "185.136.96.133",
+                    "185.136.97.133",
+                    "185.136.98.133",
+                    "203.158.192.11",
+                    "203.158.192.21",
+                    "2001:3c8:c305::11",
+                    "2001:3c8:c305::21",
+                    "2a06:fb00:1::1:133",
+                    "2a06:fb00:1::2:133",
+                    "2a06:fb00:1::3:133"
+                ],
+                "ns_names": [
+                    "ns1.rmuti.ac.th.",
+                    "ns2.rmuti.ac.th.",
+                    "pns11.cloudns.net.",
+                    "pns12.cloudns.net.",
+                    "pns13.cloudns.net."
+                ],
+                "nsid_values": [
+                    "sg1-10",
+                    "sg2-10"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            },
+            {
+                "id": "8/55150",
+                "servers": [
+                    "185.136.96.133",
+                    "185.136.97.133",
+                    "185.136.98.133",
+                    "203.158.192.11",
+                    "203.158.192.21",
+                    "2001:3c8:c305::11",
+                    "2001:3c8:c305::21",
+                    "2a06:fb00:1::1:133",
+                    "2a06:fb00:1::2:133",
+                    "2a06:fb00:1::3:133"
+                ],
+                "ns_names": [
+                    "ns1.rmuti.ac.th.",
+                    "ns2.rmuti.ac.th.",
+                    "pns11.cloudns.net.",
+                    "pns12.cloudns.net.",
+                    "pns13.cloudns.net."
+                ],
+                "nsid_values": [
+                    "sg1-10",
+                    "sg2-10"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            }
+        ],
+        "delegation": {
+            "ds": [
+                {
+                    "id": "8/55150/2",
+                    "status": "VALID",
+                    "servers": [
+                        "122.155.23.64",
+                        "194.0.1.28",
+                        "194.146.106.154",
+                        "202.28.0.1",
+                        "203.159.64.64",
+                        "204.61.216.126",
+                        "2001:500:14:6126:ad::1",
+                        "2001:678:4::1c",
+                        "2001:67c:1010:39::53",
+                        "2001:c38:2000:183::30",
+                        "2405:3340:e011:3000::30"
+                    ],
+                    "ns_names": [
+                        "a.thains.co.th.",
+                        "b.thains.co.th.",
+                        "c.thains.co.th.",
+                        "nn1.thains.co.th.",
+                        "ns.thnic.net.",
+                        "p.thains.co.th."
+                    ],
+                    "nsid_values": [
+                        "1.jhb.pch",
+                        "5.qpg.pch",
+                        "BKK1",
+                        "Bkk2",
+                        "s2.chi",
+                        "s2.sin"
+                    ],
+                    "query_options": [
+                        "UDP_-_EDNS0_4096_D_NK"
+                    ]
+                }
+            ],
+            "status": "SECURE"
+        }
+    }
+}
