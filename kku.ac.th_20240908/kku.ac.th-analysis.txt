@@ -1,0 +1,61 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+kku.ac.th [.!] [.]
+  E:SERVER_UNRESPONSIVE_UDP
+  [-]  DS: 8/28069/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 8/35691/256 [.], 8/28069/257 [.]
+  [.]    RRSIG: kku.ac.th/Algorithm.RSASHA256/28069 (2024-09-06 - 2024-10-06) [.]
+  [.]  A: 202.28.118.135
+  [.]    RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-06 - 2024-10-06) [.]
+  [!]  A: TIMEOUT
+  [.]  NS: ns3.kku.ac.th., ns2.kku.ac.th., ns1.kku.ac.th., ns4.kku.ac.th.
+  [.]    RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-06 - 2024-10-06) [.]
+  [!]  NS: TIMEOUT
+  [.]  CNAME: NODATA
+  [.]    SOA: ns0.kku.ac.th. noc.kku.ac.th. 2024090943 600 600 1209600 600
+  [.]      RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-07 - 2024-10-07) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: kku.ac.th. 1tambon.kku.ac.th. A NS SOA MX TXT AAAA LOC RRSIG NSEC DNSKEY SPF CAA
+  [.]        RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-08-21 - 2024-09-20) [.]
+  [.]  SOA: ns0.KKU.Ac.tH. noc.KKU.Ac.tH. 2024090943 600 600 1209600 600
+  [.]    RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-07 - 2024-10-07) [.]
+  [.]  MX: 5 ALT2.ASPMX.L.GOOGLE.COM., 10 ASPMX2.GOOGLEMAIL.COM., 10 ASPMX3.GOOGLEMAIL.COM., 5 ALT1.ASPMX.L.GOOGLE.COM., 1 ASPMX.L.GOOGLE.COM.
+  [.]    RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-06 - 2024-10-06) [.]
+  [.]  TXT: "cisco-ci-domain-verification=782646f03f0b90af108da4850665b6f503e84f72528ed50430945e79cd945039", "autodesk-domain-verification=RWGECYblXEVbDmk9QXAL", "canva-site-verification=GIrZhIlEsnW5SfhLgpa5LQ", "google-site-verification=hGeXzBxjMu3T6BKS5cNC3Nvt4sGFmjPw82Sh10xLLu4", "n16h2sdrs3kb9y0hj2482kb5ygh6fxn7", "_globalsign-domain-verification=gR0-ezZ7cOjHLX9Twv5xQ0mwZp38GESR4d3q4Zi_aW", "workplace-domain-verification=Of8ptA4EqsF9Ged53aLvsI1gusY0qb", "adobe-idp-site-verification=fbdc4805bf7b88c962d5ae1923bebfc7cec94b39355f9c2c126584084fd507d4", "Foxit-domain-verification=5718c212fca9c89d467b76a0fe2df74e", "apple-domain-verification=YG2rvYSlj7ZlaFN3", "v=spf1 ip4:202.12.97.165 ip4:202.12.97.92 ip4:202.28.117.219 ip4:202.28.92.226 include:_spf.google.com include:_spf.elasticemail.com include:spf.protection.outlook.com include:mta.tawk.to ~all", "openatts a=dns-did; p=did:ethr:0xEA90962be67A593fF9399b6eDDA4f7a5065Bd6bB#controller; v=1.0;", "ZOOM_verify_ouZQaE2aTIe-nYvYYrSsAA"
+  [.]    RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-08-25 - 2024-09-24) [.]
+  [.]  AAAA: 2001:3c8:c108:121::135
+  [.]    RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-06 - 2024-10-06) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns0.kku.ac.th. noc.kku.ac.th. 2024090943 600 600 1209600 600
+  [.]      RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-07 - 2024-10-07) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: kku.ac.th. 1tambon.kku.ac.th. A NS SOA MX TXT AAAA LOC RRSIG NSEC DNSKEY SPF CAA
+  [.]        RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-08-21 - 2024-09-20) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns0.kku.ac.th. noc.kku.ac.th. 2024090943 600 600 1209600 600
+  [.]      RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-07 - 2024-10-07) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: kku.ac.th. 1tambon.kku.ac.th. A NS SOA MX TXT AAAA LOC RRSIG NSEC DNSKEY SPF CAA
+  [.]        RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-08-21 - 2024-09-20) [.]
+83h7b.4gpmf.kku.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns0.kku.ac.th. noc.kku.ac.th. 2024090943 600 600 1209600 600
+  [.]      RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-07 - 2024-10-07) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: kku.ac.th. 1tambon.kku.ac.th. A NS SOA MX TXT AAAA LOC RRSIG NSEC DNSKEY SPF CAA
+  [.]        RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-08-21 - 2024-09-20) [.]
+  [.]      NSEC: 36ams.kku.ac.th. 60.kku.ac.th. CNAME RRSIG NSEC
+  [.]        RRSIG: kku.ac.th/Algorithm.RSASHA256/35691 (2024-09-06 - 2024-10-06) [.]

@@ -1,0 +1,87 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/10701/256 [.], 8/19117/257 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+snru.ac.th [.] [.]
+  [-]  DS: 5/36904/1 [-!], 5/36904/2 [.]
+         E:DIGEST_ALGORITHM_PROHIBITED
+         W:DS_DIGEST_ALGORITHM_IGNORED
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-04 - 2024-09-19) [.]
+  [.?] DNSKEY: 5/43365/256 [.], 5/36904/257 [.]
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: snru.ac.th/Algorithm.RSASHA1/36904 (2024-08-27 - 2024-09-26) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  A: 202.29.24.240
+  [.]    RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  NS: pns13.cloudns.net., lotus.uni.net.th., pns12.cloudns.net., pns14.cloudns.net., ns1.snru.ac.th., pns11.cloudns.net.
+  [.]    RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CNAME: NODATA
+  [.]    SOA: ns1.snru.ac.th. admin.snru.ac.th. 2024090500 10800 3600 604800 38400
+  [.]      RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-09-05 - 2024-10-05) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: snru.ac.th. 1t1u.snru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  SOA: ns1.SNRu.AC.th. admin.SNRu.AC.th. 2024090500 10800 3600 604800 38400
+  [.]    RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-09-05 - 2024-10-05) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  MX: 20 ALT2.ASPMX.L.GOOGLE.COM., 30 ALT4.ASPMX.L.GOOGLE.COM., 30 ALT3.ASPMX.L.GOOGLE.COM., 20 ALT1.ASPMX.L.GOOGLE.COM., 10 ASPMX.L.GOOGLE.COM.
+  [.]    RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  TXT: "0GlgoAJSVjfbms0ukwkLMozsZZdT3zNUNvDknd1u9bg", "google-site-verification=hEcsPkJ3d1Vu9kME3rM4weBkYWGPLV0KS77Z2h91KCA", "v=spf1 include:_spf.google.com -all", "Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360"
+  [.]    RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  AAAA: 2001:3c8:cb01:98:68:44:0:103
+  [.]    RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  NSEC3PARAM: NODATA
+  [.]    SOA: ns1.snru.ac.th. admin.snru.ac.th. 2024090500 10800 3600 604800 38400
+  [.]      RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-09-05 - 2024-10-05) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: snru.ac.th. 1t1u.snru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CDS: NODATA
+  [.]    SOA: ns1.snru.ac.th. admin.snru.ac.th. 2024090500 10800 3600 604800 38400
+  [.]      RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-09-05 - 2024-10-05) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: snru.ac.th. 1t1u.snru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns1.snru.ac.th. admin.snru.ac.th. 2024090500 10800 3600 604800 38400
+  [.]      RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-09-05 - 2024-10-05) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: snru.ac.th. 1t1u.snru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+vs2zh.bh6vc.snru.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns1.snru.ac.th. admin.snru.ac.th. 2024090500 10800 3600 604800 38400
+  [.]      RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-09-05 - 2024-10-05) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: snru.ac.th. 1t1u.snru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]      NSEC: banthakon.snru.ac.th. bi.snru.ac.th. A RRSIG NSEC
+  [.]        RRSIG: snru.ac.th/Algorithm.RSASHA1/43365 (2024-08-27 - 2024-09-26) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED

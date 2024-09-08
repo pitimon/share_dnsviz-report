@@ -1,0 +1,71 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/10701/256 [.], 8/19117/257 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutt.ac.th [-!] [.]
+  E:SERVER_UNRESPONSIVE_UDP
+  [-]  DS: 8/52474/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/30264/256 [.], 8/52474/257 [.], 8/58941/256 [.]
+  [-]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [-]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/52474 (2024-09-07 - 2024-09-11) [.]
+en.rmutt.ac.th [.!] [.]
+  E:SERVER_UNRESPONSIVE_UDP
+  [-]  DS: 8/43924/2 [.]
+  [-]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [.]  DNSKEY: 8/2860/256 [.], 8/43924/257 [.]
+  [.]    RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]    RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/43924 (2024-08-30 - 2024-09-29) [.]
+  [.]  A: 203.158.111.34
+  [.]    RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [!]  A: TIMEOUT
+  [.]  NS: ns.en.rmutt.ac.th., pns14.cloudns.net., pns13.cloudns.net., lotus.uni.net.th., pns12.cloudns.net., pns11.cloudns.net.
+  [.]    RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [!]  NS: TIMEOUT
+  [.]  CNAME: NODATA
+  [.]    SOA: ns.en.rmutt.ac.th. noc.en.rmutt.ac.th. 2024083000 3600 600 86400 3600
+  [.]      RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC3: 31EN64CKTU6L8PJ8RJ8PC04B7OLJ4KSP.en.rmutt.ac.th. 1 0 0 - 3JU4H5NECNV7BC0PDCU3D45J0RRCJVHA A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM CAA
+  [.]        RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]  SOA: ns.En.Rmutt.AC.TH. noc.En.Rmutt.AC.TH. 2024083000 3600 600 86400 3600
+  [.]    RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]  MX: 30 aspmx5.googlemail.com., 20 alt1.aspmx.google.com., 30 aspmx3.googlemail.com., 30 aspmx4.googlemail.com., 10 aspmx.l.google.com., 20 alt2.aspmx.google.com., 30 aspmx2.googlemail.com.
+  [.]    RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]  TXT: "google-site-verification=Z7ZMIAH_Xd7osl6GWN8h0H4iNnb_PSvBusFtVjOIVgw", "8970b1815b4684123beccf4727d3d70b", "v=spf1 a:relay.live.rmutt.ac.th ip4:202.28.230.84 ip6:2001:3c8:1501:65::1501:84 include:_spf.google.com -all"
+  [.]    RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]  AAAA: 2001:3c8:e10e:2111::34
+  [.]    RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns.en.rmutt.ac.th. noc.en.rmutt.ac.th. 2024083000 3600 600 86400 3600
+  [.]      RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC3: 31EN64CKTU6L8PJ8RJ8PC04B7OLJ4KSP.en.rmutt.ac.th. 1 0 0 - 3JU4H5NECNV7BC0PDCU3D45J0RRCJVHA A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM CAA
+  [.]        RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns.en.rmutt.ac.th. noc.en.rmutt.ac.th. 2024083000 3600 600 86400 3600
+  [.]      RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC3: 31EN64CKTU6L8PJ8RJ8PC04B7OLJ4KSP.en.rmutt.ac.th. 1 0 0 - 3JU4H5NECNV7BC0PDCU3D45J0RRCJVHA A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM CAA
+  [.]        RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+835kn.sabvn.en.rmutt.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns.en.rmutt.ac.th. noc.en.rmutt.ac.th. 2024083000 3600 600 86400 3600
+  [.]      RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC3: 70CI167BPMCI03BJ4UBQCQK529NMMBHF.en.rmutt.ac.th. 1 0 0 - 7KF4JETEVHNIUQ88BTFUED0I3F8GANHB CNAME RRSIG
+  [.]        RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]      NSEC3: 31EN64CKTU6L8PJ8RJ8PC04B7OLJ4KSP.en.rmutt.ac.th. 1 0 0 - 3JU4H5NECNV7BC0PDCU3D45J0RRCJVHA A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM CAA
+  [.]        RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]
+  [.]      NSEC3: 8BJVK8FTOMM6M84PIOV45AB9NOJL56BR.en.rmutt.ac.th. 1 0 0 - 8E9DG567PANM8DGS86I60K4R86E2K27R SRV RRSIG
+  [.]        RRSIG: en.rmutt.ac.th/Algorithm.RSASHA256/2860 (2024-08-30 - 2024-09-29) [.]

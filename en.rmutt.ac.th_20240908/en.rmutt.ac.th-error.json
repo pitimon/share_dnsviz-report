@@ -1,0 +1,198 @@
+{
+    "rmutt.ac.th.": {
+        "zone": {
+            "errors": [
+                {
+                    "description": "The server(s) were not responsive to queries over UDP.  See RFC 1035, Sec. 4.2.",
+                    "code": "SERVER_UNRESPONSIVE_UDP",
+                    "servers": [
+                        "202.28.197.38"
+                    ]
+                }
+            ]
+        }
+    },
+    "en.rmutt.ac.th.": {
+        "queries": {
+            "en.rmutt.ac.th./IN/A": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "202.28.197.38"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "en.rmutt.ac.th./IN/NS": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "202.28.197.38"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "en.rmutt.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "en.rmutt.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "nsec3": [
+                                    {
+                                        "id": "31EN64CKTU6L8PJ8RJ8PC04B7OLJ4KSP.en.rmutt.ac.th./IN/NSEC3",
+                                        "rrsig": [
+                                            {
+                                                "id": "en.rmutt.ac.th./8/2860",
+                                                "errors": [
+                                                    {
+                                                        "description": "The TTL of the RRset (3600) exceeds the value of the Original TTL field of the RRSIG RR covering it (300).  See RFC 4035, Sec. 2.2.",
+                                                        "code": "ORIGINAL_TTL_EXCEEDED_RRSET"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "en.rmutt.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "en.rmutt.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "nsec3": [
+                                    {
+                                        "id": "31EN64CKTU6L8PJ8RJ8PC04B7OLJ4KSP.en.rmutt.ac.th./IN/NSEC3",
+                                        "rrsig": [
+                                            {
+                                                "id": "en.rmutt.ac.th./8/2860",
+                                                "errors": [
+                                                    {
+                                                        "description": "The TTL of the RRset (3600) exceeds the value of the Original TTL field of the RRSIG RR covering it (300).  See RFC 4035, Sec. 2.2.",
+                                                        "code": "ORIGINAL_TTL_EXCEEDED_RRSET"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "en.rmutt.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "en.rmutt.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "nsec3": [
+                                    {
+                                        "id": "31EN64CKTU6L8PJ8RJ8PC04B7OLJ4KSP.en.rmutt.ac.th./IN/NSEC3",
+                                        "rrsig": [
+                                            {
+                                                "id": "en.rmutt.ac.th./8/2860",
+                                                "errors": [
+                                                    {
+                                                        "description": "The TTL of the RRset (3600) exceeds the value of the Original TTL field of the RRSIG RR covering it (300).  See RFC 4035, Sec. 2.2.",
+                                                        "code": "ORIGINAL_TTL_EXCEEDED_RRSET"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "835kn.sabvn.en.rmutt.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "835kn.sabvn.en.rmutt.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "nsec3": [
+                                    {
+                                        "id": "70CI167BPMCI03BJ4UBQCQK529NMMBHF.en.rmutt.ac.th./IN/NSEC3",
+                                        "rrsig": [
+                                            {
+                                                "id": "en.rmutt.ac.th./8/2860",
+                                                "errors": [
+                                                    {
+                                                        "description": "The TTL of the RRset (3600) exceeds the value of the Original TTL field of the RRSIG RR covering it (300).  See RFC 4035, Sec. 2.2.",
+                                                        "code": "ORIGINAL_TTL_EXCEEDED_RRSET"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "31EN64CKTU6L8PJ8RJ8PC04B7OLJ4KSP.en.rmutt.ac.th./IN/NSEC3",
+                                        "rrsig": [
+                                            {
+                                                "id": "en.rmutt.ac.th./8/2860",
+                                                "errors": [
+                                                    {
+                                                        "description": "The TTL of the RRset (3600) exceeds the value of the Original TTL field of the RRSIG RR covering it (300).  See RFC 4035, Sec. 2.2.",
+                                                        "code": "ORIGINAL_TTL_EXCEEDED_RRSET"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "8BJVK8FTOMM6M84PIOV45AB9NOJL56BR.en.rmutt.ac.th./IN/NSEC3",
+                                        "rrsig": [
+                                            {
+                                                "id": "en.rmutt.ac.th./8/2860",
+                                                "errors": [
+                                                    {
+                                                        "description": "The TTL of the RRset (3600) exceeds the value of the Original TTL field of the RRSIG RR covering it (300).  See RFC 4035, Sec. 2.2.",
+                                                        "code": "ORIGINAL_TTL_EXCEEDED_RRSET"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "zone": {
+            "errors": [
+                {
+                    "description": "The server(s) were not responsive to queries over UDP.  See RFC 1035, Sec. 4.2.",
+                    "code": "SERVER_UNRESPONSIVE_UDP",
+                    "servers": [
+                        "202.28.197.38"
+                    ]
+                }
+            ]
+        }
+    }
+}

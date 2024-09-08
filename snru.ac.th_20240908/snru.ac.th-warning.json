@@ -1,0 +1,407 @@
+{
+    "snru.ac.th.": {
+        "queries": {
+            "snru.ac.th./IN/A": {
+                "answer": [
+                    {
+                        "id": "snru.ac.th./IN/A",
+                        "rrsig": [
+                            {
+                                "id": "snru.ac.th./5/43365",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/NS": {
+                "answer": [
+                    {
+                        "id": "snru.ac.th./IN/NS",
+                        "rrsig": [
+                            {
+                                "id": "snru.ac.th./5/43365",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "snru.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "snru.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "snru.ac.th./5/43365",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "snru.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "snru.ac.th./5/43365",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/SOA": {
+                "answer": [
+                    {
+                        "id": "snru.ac.th./IN/SOA",
+                        "rrsig": [
+                            {
+                                "id": "snru.ac.th./5/43365",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/MX": {
+                "answer": [
+                    {
+                        "id": "snru.ac.th./IN/MX",
+                        "rrsig": [
+                            {
+                                "id": "snru.ac.th./5/43365",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/TXT": {
+                "answer": [
+                    {
+                        "id": "snru.ac.th./IN/TXT",
+                        "rrsig": [
+                            {
+                                "id": "snru.ac.th./5/43365",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/AAAA": {
+                "answer": [
+                    {
+                        "id": "snru.ac.th./IN/AAAA",
+                        "rrsig": [
+                            {
+                                "id": "snru.ac.th./5/43365",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "snru.ac.th./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "snru.ac.th./5/36904",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "snru.ac.th./5/43365",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "185.136.98.133"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/NSEC3PARAM": {
+                "nodata": [
+                    {
+                        "id": "snru.ac.th./IN/NSEC3PARAM",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "snru.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "snru.ac.th./5/43365",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "snru.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "snru.ac.th./5/43365",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "snru.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "snru.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "snru.ac.th./5/43365",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "snru.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "snru.ac.th./5/43365",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "snru.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "snru.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "snru.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "snru.ac.th./5/43365",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "snru.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "snru.ac.th./5/43365",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "vs2zh.bh6vc.snru.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "vs2zh.bh6vc.snru.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "snru.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "snru.ac.th./5/43365",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "banthakon.snru.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "snru.ac.th./5/43365",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "snru.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "snru.ac.th./5/43365",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 5 (RSASHA1).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "delegation": {
+            "ds": [
+                {
+                    "id": "5/36904/1",
+                    "status": "ALGORITHM_IGNORED",
+                    "warnings": [
+                        {
+                            "description": "DS records with digest type 1 (SHA-1) are ignored when DS records with digest type 2 (SHA-256) exist in the same RRset.  See RFC 4509, Sec. 3.",
+                            "code": "DS_DIGEST_ALGORITHM_IGNORED"
+                        }
+                    ],
+                    "errors": [
+                        {
+                            "description": "DNSSEC specification prohibits signing with DS records that use digest algorithm 1 (SHA-1).  See RFC 8624, Sec. 3.2.",
+                            "code": "DIGEST_ALGORITHM_PROHIBITED"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
