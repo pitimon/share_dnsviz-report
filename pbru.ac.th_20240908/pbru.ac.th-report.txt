@@ -1,2 +1,23 @@
 Sun Sep  8 01:22:23 PM +07 2024: เริ่มการวิเคราะห์โดเมน pbru.ac.th (เวลาที่ใช้: 0 วินาที)
 Sun Sep  8 01:22:23 PM +07 2024: กำลังดำเนินการ DNSViz probe... (เวลาที่ใช้: 0 วินาที)
+Sun Sep  8 01:24:10 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ info... (เวลาที่ใช้: 107 วินาที)
+Sun Sep  8 01:24:11 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ warning... (เวลาที่ใช้: 108 วินาที)
+Sun Sep  8 01:24:12 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ error... (เวลาที่ใช้: 109 วินาที)
+Sun Sep  8 01:24:13 PM +07 2024: กำลังค้นหา DNSKEY records และกรอง KSK... (เวลาที่ใช้: 110 วินาที)
+Sun Sep  8 01:24:13 PM +07 2024: กำลังวิเคราะห์และบันทึกผล... (เวลาที่ใช้: 110 วินาที)
+Sun Sep  8 01:24:14 PM +07 2024: กำลังสร้างกราฟ HTML... (เวลาที่ใช้: 111 วินาที)
+Sun Sep  8 01:24:16 PM +07 2024: กำลังสร้างกราฟ PNG... (เวลาที่ใช้: 113 วินาที)
+Sun Sep  8 01:24:17 PM +07 2024: กำลังสร้างไฟล์ PlantUML... (เวลาที่ใช้: 114 วินาที)
+สถานะไฟล์ผลลัพธ์:
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th.json
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th-info.json
+  ไม่สามารถสร้างหรือไฟล์ว่างเปล่า: share/pbru.ac.th_20240908/pbru.ac.th-warning.json
+  ไม่สามารถสร้างหรือไฟล์ว่างเปล่า: share/pbru.ac.th_20240908/pbru.ac.th-error.json
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th-tk.txt
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th-analysis.txt
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th-graph.html
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th-graph.png
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th-info-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th-warning-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/pbru.ac.th_20240908/pbru.ac.th-error-plantuml.txt
+Sun Sep  8 01:24:17 PM +07 2024: การวิเคราะห์เสร็จสิ้น เวลาที่ใช้ทั้งหมด: 114 วินาที (เวลาที่ใช้: 114 วินาที)

@@ -1,0 +1,59 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+pbru.ac.th [.] [.]
+  [-]  DS: 8/2240/2 [.], 8/62677/2 [-]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-17) [.]
+  [.]  DNSKEY: 8/38670/256 [.], 8/2240/257 [.]
+  [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/2240 (2024-08-16 - 2024-09-15) [.]
+  [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  A: 202.29.64.10
+  [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  NS: lotus.uni.net.th., ns1.pbru.ac.th., ns2.pbru.ac.th.
+  [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  CNAME: NODATA
+  [.]    SOA: ns1.pbru.ac.th. info.pbru.ac.th. 2024081612 3600 600 1209600 3600
+  [.]      RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: pbru.ac.th. 3ddb.pbru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  SOA: ns1.PBrU.aC.tH. info.PBrU.aC.tH. 2024081612 3600 600 1209600 3600
+  [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  MX: 5 outlook.pbru.ac.th.
+  [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  TXT: "v=spf1 mx -all"
+  [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  AAAA: 2001:3c8:2105:2::10
+  [.]    RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns1.pbru.ac.th. info.pbru.ac.th. 2024081612 3600 600 1209600 3600
+  [.]      RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: pbru.ac.th. 3ddb.pbru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns1.pbru.ac.th. info.pbru.ac.th. 2024081612 3600 600 1209600 3600
+  [.]      RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: pbru.ac.th. 3ddb.pbru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+x6ulr.xuasq.pbru.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns1.pbru.ac.th. info.pbru.ac.th. 2024081612 3600 600 1209600 3600
+  [.]      RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: pbru.ac.th. 3ddb.pbru.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY
+  [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
+  [.]      NSEC: www.pbru.ac.th. pbru.ac.th. A AAAA RRSIG NSEC
+  [.]        RRSIG: pbru.ac.th/Algorithm.RSASHA256/38670 (2024-08-16 - 2024-09-15) [.]
