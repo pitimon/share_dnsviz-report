@@ -1,0 +1,77 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/10701/256 [.], 8/19117/257 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutsv.ac.th [.!] [.?]
+  E:SERVER_UNRESPONSIVE_UDP
+  W:NS_NAME_NOT_IN_PARENT
+  [-]  DS: 13/52675/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 13/52675/257 [.]
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]  A: 203.158.177.1
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-04 - 2024-09-18) [.]
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-06 - 2024-09-20) [.]
+  [!]  A: NETWORK_ERROR:ECONNREFUSED
+  [.]  NS: samila.rmutsv.ac.th., chalatas.rmutsv.ac.th., kai-coe.rmutsv.ac.th.
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-04 - 2024-09-18) [.]
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-07 - 2024-09-21) [.]
+  [!]  NS: NETWORK_ERROR:ECONNREFUSED
+  [.]  CNAME: NODATA
+  [.]    SOA: samila.rmutsv.ac.th. noc.rmutsv.ac.th. 2024090483 10800 3600 604800 86400
+  [.]      RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-08 - 2024-09-22) [.]
+  [.]    SOA: samila.rmutsv.ac.th. noc.rmutsv.ac.th. 2024090535 10800 3600 604800 86400
+  [.]      RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-08 - 2024-09-22) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutsv.ac.th. _acme-challenge.rmutsv.ac.th. A NS SOA MX TXT RRSIG NSEC DNSKEY CDS CDNSKEY
+  [.]        RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]        RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-04 - 2024-09-19) [.]
+  [.]  SOA: samila.RMuTSv.Ac.tH. noc.RMuTSv.Ac.tH. 2024090483 10800 3600 604800 86400
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-08 - 2024-09-22) [.]
+  [.]  SOA: samila.RMuTSv.Ac.tH. noc.RMuTSv.Ac.tH. 2024090535 10800 3600 604800 86400
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-08 - 2024-09-22) [.]
+  [.]  MX: 30 ALT3.ASPMX.L.GOOGLE.COM., 50 ASPMX2.GOOGLEMAIL.COM., 10 ASPMX.L.GOOGLE.COM., 40 ASPMX.GOOGLEMAIL.COM., 50 ASPMX3.GOOGLEMAIL.COM., 20 ALT2.ASPMX.L.GOOGLE.COM., 30 ALT4.ASPMX.L.GOOGLE.COM., 20 ALT1.ASPMX.L.GOOGLE.COM.
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-04 - 2024-09-18) [.]
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-06 - 2024-09-20) [.]
+  [.]  TXT: "MS=ED226B0ECE2E4988AFE209E113D4F78FD451C042", "google-site-verification=44UUIajQfJYytgc9ol4TNIpJTa6zM7vlnX8kXwRB2tg"
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-04 - 2024-09-18) [.]
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-06 - 2024-09-20) [.]
+  [.]  AAAA: NODATA
+  [.]    SOA: samila.rmutsv.ac.th. noc.rmutsv.ac.th. 2024090483 10800 3600 604800 86400
+  [.]      RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-08 - 2024-09-22) [.]
+  [.]    SOA: samila.rmutsv.ac.th. noc.rmutsv.ac.th. 2024090535 10800 3600 604800 86400
+  [.]      RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-08 - 2024-09-22) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutsv.ac.th. _acme-challenge.rmutsv.ac.th. A NS SOA MX TXT RRSIG NSEC DNSKEY CDS CDNSKEY
+  [.]        RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]        RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-04 - 2024-09-19) [.]
+  [.]  CDS: 52675 13 2 dc0ed00f4938c7c4d9bab3c1ffed3b3e8b6d6daa7e7d101d630e5b7476630b2c
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]  CDNSKEY: 257 3 13 I67tTmyZlOFi7fD0sQxjOi1WnAoh3UOu Sdl6tL3H6hwq92QO+ViAHjpYBWGsGCTh 9Rq8D8iJYv6tApuYCgJrNQ==
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]    RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+sk7fu.hqz9a.rmutsv.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: samila.rmutsv.ac.th. noc.rmutsv.ac.th. 2024090483 10800 3600 604800 86400
+  [.]      RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-08 - 2024-09-22) [.]
+  [.]    SOA: samila.rmutsv.ac.th. noc.rmutsv.ac.th. 2024090535 10800 3600 604800 86400
+  [.]      RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-08 - 2024-09-22) [.]
+  [.]    PROOF:  [.]
+  [.]      NSEC: rmutsv.ac.th. _acme-challenge.rmutsv.ac.th. A NS SOA MX TXT RRSIG NSEC DNSKEY CDS CDNSKEY
+  [.]        RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]        RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-04 - 2024-09-19) [.]
+  [.]      NSEC: honey.rmutsv.ac.th. hr.rmutsv.ac.th. A RRSIG NSEC
+  [.]        RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-01 - 2024-09-15) [.]
+  [.]        RRSIG: rmutsv.ac.th/Algorithm.ECDSAP256SHA256/52675 (2024-09-06 - 2024-09-20) [.]

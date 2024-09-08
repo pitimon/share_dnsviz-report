@@ -1,0 +1,242 @@
+{
+    "rmutto.ac.th.": {
+        "queries": {
+            "rmutto.ac.th./IN/A": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    },
+                    {
+                        "description": "There was an error communicating with the server over UDP (EACCES).  See RFC 1035, Sec. 4.2.",
+                        "code": "NETWORK_ERROR",
+                        "servers": [
+                            "2001:3c8:3002::33",
+                            "2001:3c8:3002::34"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/NS": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    },
+                    {
+                        "description": "There was an error communicating with the server over UDP (EACCES).  See RFC 1035, Sec. 4.2.",
+                        "code": "NETWORK_ERROR",
+                        "servers": [
+                            "2001:3c8:3002::33",
+                            "2001:3c8:3002::34"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/CNAME": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/SOA": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_4096_D_NK_0x20"
+                        ]
+                    },
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_N"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/MX": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/TXT": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/AAAA": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/DNSKEY": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/NSEC3PARAM": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/CDS": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/CDNSKEY": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "plcd2.kf0g1.rmutto.ac.th./IN/A": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            }
+        },
+        "zone": {
+            "errors": [
+                {
+                    "description": "The server(s) were not responsive to queries over UDP.  See RFC 1035, Sec. 4.2.",
+                    "code": "SERVER_UNRESPONSIVE_UDP",
+                    "servers": [
+                        "2001:3c8:3002::33",
+                        "2001:3c8:3002::34"
+                    ]
+                },
+                {
+                    "description": "The server(s) responded over UDP with a malformed response or with an invalid RCODE.  See RFC 1035, Sec. 4.1.1.",
+                    "code": "SERVER_INVALID_RESPONSE_UDP",
+                    "servers": [
+                        "116.68.151.172"
+                    ]
+                },
+                {
+                    "description": "The server(s) responded over TCP with a malformed response or with an invalid RCODE.  See RFC 1035, Sec. 4.1.1.",
+                    "code": "SERVER_INVALID_RESPONSE_TCP",
+                    "servers": [
+                        "116.68.151.172"
+                    ]
+                },
+                {
+                    "description": "The server(s) did not respond authoritatively for the namespace.  See RFC 1035, Sec. 4.1.1.",
+                    "code": "SERVER_NOT_AUTHORITATIVE",
+                    "servers": [
+                        "202.28.0.1"
+                    ]
+                }
+            ]
+        }
+    }
+}

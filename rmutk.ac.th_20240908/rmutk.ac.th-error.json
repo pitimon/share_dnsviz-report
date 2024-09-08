@@ -1,0 +1,181 @@
+{
+    "rmutk.ac.th.": {
+        "queries": {
+            "rmutk.ac.th./IN/A": {
+                "nodata": [
+                    {
+                        "id": "rmutk.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The UDP connection was refused (ECONNREFUSED).  See RFC 1035, Sec. 4.2.",
+                        "code": "NETWORK_ERROR",
+                        "servers": [
+                            "203.158.213.250",
+                            "203.158.215.249"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    },
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:1405::249",
+                            "2001:3c8:1405::250",
+                            "2001:3c8:1405:213f::250"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "rmutk.ac.th./IN/NS": {
+                "error": [
+                    {
+                        "description": "The UDP connection was refused (ECONNREFUSED).  See RFC 1035, Sec. 4.2.",
+                        "code": "NETWORK_ERROR",
+                        "servers": [
+                            "203.158.213.250",
+                            "203.158.215.249"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    },
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:1405::249",
+                            "2001:3c8:1405::250",
+                            "2001:3c8:1405:213f::250"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "rmutk.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "rmutk.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutk.ac.th./IN/AAAA": {
+                "nodata": [
+                    {
+                        "id": "rmutk.ac.th./IN/AAAA",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutk.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "rmutk.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutk.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "rmutk.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "09r1p.3vto2.rmutk.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "09r1p.3vto2.rmutk.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "zone": {
+            "errors": [
+                {
+                    "description": "The server(s) were not responsive to queries over UDP.  See RFC 1035, Sec. 4.2.",
+                    "code": "SERVER_UNRESPONSIVE_UDP",
+                    "servers": [
+                        "203.158.213.250",
+                        "203.158.215.249",
+                        "2001:3c8:1405::249",
+                        "2001:3c8:1405::250",
+                        "2001:3c8:1405:213f::250"
+                    ]
+                }
+            ]
+        }
+    }
+}

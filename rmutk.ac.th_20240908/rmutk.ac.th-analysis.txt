@@ -1,0 +1,88 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/10701/256 [.], 8/19117/257 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutk.ac.th [.!] [.?]
+  E:SERVER_UNRESPONSIVE_UDP
+  W:MISSING_GLUE_IPV6
+  W:EXTRA_GLUE_IPV6
+  [-]  DS: 8/47761/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 8/56898/256 [.], 8/32239/256 [.], 8/47761/257 [.], 8/59401/256 [.]
+  [.]    RRSIG: rmutk.ac.th/Algorithm.RSASHA256/47761 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [.]  A: NODATA
+  [.]    SOA: ns1.rmutk.ac.th. admin.rmutk.ac.th. 2074666587 10800 1080 2419200 900
+  [.]      RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: 8KO1JMQ94HC7A7C6I8L6HDKT4LFKHU9A.rmutk.ac.th. 1 0 10 7596b95687ec 8M0PKBAV2O480V83VUSHK7N530BTG3H2 NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [!]  A: NETWORK_ERROR:ECONNREFUSED
+  [!]  A: TIMEOUT
+  [.]  NS: ns2.rmutk.ac.th., ns1.rmutk.ac.th., ns3.rmutk.ac.th., lotus.uni.net.th.
+  [.]    RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [!]  NS: NETWORK_ERROR:ECONNREFUSED
+  [!]  NS: TIMEOUT
+  [.]  CNAME: NODATA
+  [.]    SOA: ns1.rmutk.ac.th. admin.rmutk.ac.th. 2074666587 10800 1080 2419200 900
+  [.]      RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: 8KO1JMQ94HC7A7C6I8L6HDKT4LFKHU9A.rmutk.ac.th. 1 0 10 7596b95687ec 8M0PKBAV2O480V83VUSHK7N530BTG3H2 NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [.]  SOA: ns1.RmUtK.ac.th. admin.RmUtK.ac.th. 2074666587 10800 1080 2419200 900
+  [.]    RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-08 - 2024-09-12) [.]
+  [.]  MX: 0 rmutk-ac-th.mail.protection.outlook.com.
+  [.]    RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [.]  TXT: "google-site-verification=WXQp6U8mByFQllQ_65GlWnlFceaIKJV_9n5B7DzviEU", "v=spf1 include:spf.protection.outlook.com -all", "MS=C9AE41C6153EE443B7EE88D600F32DC5FB289DE0", "adobe-idp-site-verification=50ed75b0ee5a0f67b1badc2c180aa413c4ac02a16c3439f74add5b1a31d6e9d9"
+  [.]    RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [.]  AAAA: NODATA
+  [.]    SOA: ns1.rmutk.ac.th. admin.rmutk.ac.th. 2074666587 10800 1080 2419200 900
+  [.]      RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: 8KO1JMQ94HC7A7C6I8L6HDKT4LFKHU9A.rmutk.ac.th. 1 0 10 7596b95687ec 8M0PKBAV2O480V83VUSHK7N530BTG3H2 NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns1.rmutk.ac.th. admin.rmutk.ac.th. 2074666587 10800 1080 2419200 900
+  [.]      RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: 8KO1JMQ94HC7A7C6I8L6HDKT4LFKHU9A.rmutk.ac.th. 1 0 10 7596b95687ec 8M0PKBAV2O480V83VUSHK7N530BTG3H2 NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns1.rmutk.ac.th. admin.rmutk.ac.th. 2074666587 10800 1080 2419200 900
+  [.]      RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: 8KO1JMQ94HC7A7C6I8L6HDKT4LFKHU9A.rmutk.ac.th. 1 0 10 7596b95687ec 8M0PKBAV2O480V83VUSHK7N530BTG3H2 NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+09r1p.3vto2.rmutk.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns1.rmutk.ac.th. admin.rmutk.ac.th. 2074666587 10800 1080 2419200 900
+  [.]      RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: AKB4NCL0C99SDH68HCKLICS5VOR7A73L.rmutk.ac.th. 1 0 10 7596b95687ec AL6KVBAQ4VONLOVCQSTM21PRQGN1LORC CNAME RRSIG
+  [.]        RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [.]      NSEC3: I21PN9RN5QC863DD7TGCIAE0R5TPR0UU.rmutk.ac.th. 1 0 10 7596b95687ec I55I9LDE8VOKTDCMGI5R8KUTS2VNPSDK CNAME RRSIG
+  [.]        RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]
+  [.]      NSEC3: 8KO1JMQ94HC7A7C6I8L6HDKT4LFKHU9A.rmutk.ac.th. 1 0 10 7596b95687ec 8M0PKBAV2O480V83VUSHK7N530BTG3H2 NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutk.ac.th/Algorithm.RSASHA256/59401 (2024-09-07 - 2024-09-11) [.]

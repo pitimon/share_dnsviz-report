@@ -1,0 +1,3198 @@
+@startjson
+{
+    ".": {
+        "status": "NOERROR",
+        "queries": {
+            "./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "./IN/DNSKEY",
+                        "description": "RRset for ./DNSKEY",
+                        "name": ".",
+                        "ttl": 172800,
+                        "type": "DNSKEY",
+                        "rdata": [
+                            "256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZ Y1A08kAsviAD49tocYO5m37AvIOyzeiK BWuPuJ4m9u5HonCM/ntxklZKYFyMftv8 XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLF nF6HYSY48xrPbevQOYbAFGHpxqcXAQT0 +BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2 OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0 tX54ccAALO7Grvsx/NW62jc1xv6wWAXo cOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFv MSy4oCZTQMQx2Sjd/NG2bMMw6nM=",
+                            "257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexT BAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq 7HrxRixHlFlExOLAJr5emLvN7SWXgnLh 4+B5xQlNVz8Og8kvArMtNROxVQuCaSnI DdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLr jyBxWezF0jLHwVN8efS3rCj/EWgvIWgb 9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTId sIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6 +cn8HFRm+2hM8AnXGXws9555KrUB5qih ylGa8subX2Nn6UwNR1AkUTV74bU="
+                        ],
+                        "servers": [
+                            "170.247.170.2",
+                            "192.5.5.241",
+                            "192.33.4.12",
+                            "192.36.148.17",
+                            "192.58.128.30",
+                            "192.112.36.4",
+                            "192.203.230.10",
+                            "193.0.14.129",
+                            "198.41.0.4",
+                            "198.97.190.53",
+                            "199.7.83.42",
+                            "199.7.91.13",
+                            "202.12.27.33",
+                            "2001:500:1::53",
+                            "2001:500:12::d0d",
+                            "2001:500:2d::d",
+                            "2001:500:2f::f",
+                            "2001:500:9f::42",
+                            "2001:500:a8::e",
+                            "2001:503:ba3e::2:30",
+                            "2001:7fd::1",
+                            "2001:7fe::53",
+                            "2001:dc3::35",
+                            "2801:1b8:10::b"
+                        ],
+                        "ns_names": [
+                            "a.root-servers.net.",
+                            "b.root-servers.net.",
+                            "c.root-servers.net.",
+                            "d.root-servers.net.",
+                            "e.root-servers.net.",
+                            "f.root-servers.net.",
+                            "g.root-servers.net.",
+                            "h.root-servers.net.",
+                            "i.root-servers.net.",
+                            "j.root-servers.net.",
+                            "k.root-servers.net.",
+                            "l.root-servers.net.",
+                            "m.root-servers.net."
+                        ],
+                        "nsid_values": [
+                            "001.apg.h.root-servers.org",
+                            "001.nzy.h.root-servers.org",
+                            "BKK.cf.f.root-servers.org",
+                            "JHB.cf.f.root-servers.org",
+                            "M-NRT-DIXIE-1",
+                            "M-SIN-3",
+                            "a4.de-fra.root",
+                            "au-per-aa",
+                            "b2-sin",
+                            "b3-mia",
+                            "groot-pac2-1",
+                            "groot-pac2-2",
+                            "n1.au-bne.root",
+                            "ns1.au-bne.k.ripe.net",
+                            "ns1.tw-tpe.k.ripe.net",
+                            "p02.qpg.eroot",
+                            "p07.qpg.eroot",
+                            "s1.dex",
+                            "s1.sin",
+                            "sg-sin-aa",
+                            "sgsg1.droot.maxgigapop.net",
+                            "sgsg2.droot.maxgigapop.net",
+                            "sin1a.c.root-servers.org"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "rrsig": [
+                            {
+                                "id": "./8/20326",
+                                "description": "RRSIG covering ./DNSKEY",
+                                "signer": ".",
+                                "algorithm": 8,
+                                "key_tag": 20326,
+                                "original_ttl": 172800,
+                                "labels": 0,
+                                "inception": "2024-08-30 00:00:00 UTC",
+                                "expiration": "2024-09-20 00:00:00 UTC",
+                                "signature": "EaIMPt/CkTr3713no0YhuwCSwpn4+CcpVh3w2tezZ9iAft6ynifFTyWejvJX+61X5XHmvjSbgzGNuPdnveIq2GIeK669S9+NHw0IKUS+KYc14tTgg3I6yVFCuzH89QWigyT7aQdUvxwVAujGflfE0sF2qgiQWlbg+t+iVwiTTGK10rjgHIA/S6BWA0ihoUUI/eCniojGTUx+sWvqwx4BHSjJT3NsTkfsO44+d9RiDPB277BwHcj11jq3KD44xz2KR24z6dlHJSykYrP7zuLGkeSNwo6/IflA9g7kRZnLYL2ynwrCiz3Swb+EA+gYkN+FIvX0Ud+JGGstmnp81p+F2g==",
+                                "ttl": 172800,
+                                "status": "VALID",
+                                "servers": [
+                                    "170.247.170.2",
+                                    "192.5.5.241",
+                                    "192.33.4.12",
+                                    "192.36.148.17",
+                                    "192.58.128.30",
+                                    "192.112.36.4",
+                                    "192.203.230.10",
+                                    "193.0.14.129",
+                                    "198.41.0.4",
+                                    "198.97.190.53",
+                                    "199.7.83.42",
+                                    "199.7.91.13",
+                                    "202.12.27.33",
+                                    "2001:500:1::53",
+                                    "2001:500:12::d0d",
+                                    "2001:500:2d::d",
+                                    "2001:500:2f::f",
+                                    "2001:500:9f::42",
+                                    "2001:500:a8::e",
+                                    "2001:503:ba3e::2:30",
+                                    "2001:7fd::1",
+                                    "2001:7fe::53",
+                                    "2001:dc3::35",
+                                    "2801:1b8:10::b"
+                                ],
+                                "ns_names": [
+                                    "a.root-servers.net.",
+                                    "b.root-servers.net.",
+                                    "c.root-servers.net.",
+                                    "d.root-servers.net.",
+                                    "e.root-servers.net.",
+                                    "f.root-servers.net.",
+                                    "g.root-servers.net.",
+                                    "h.root-servers.net.",
+                                    "i.root-servers.net.",
+                                    "j.root-servers.net.",
+                                    "k.root-servers.net.",
+                                    "l.root-servers.net.",
+                                    "m.root-servers.net."
+                                ],
+                                "nsid_values": [
+                                    "001.apg.h.root-servers.org",
+                                    "001.nzy.h.root-servers.org",
+                                    "BKK.cf.f.root-servers.org",
+                                    "JHB.cf.f.root-servers.org",
+                                    "M-NRT-DIXIE-1",
+                                    "M-SIN-3",
+                                    "a4.de-fra.root",
+                                    "au-per-aa",
+                                    "b2-sin",
+                                    "b3-mia",
+                                    "groot-pac2-1",
+                                    "groot-pac2-2",
+                                    "n1.au-bne.root",
+                                    "ns1.au-bne.k.ripe.net",
+                                    "ns1.tw-tpe.k.ripe.net",
+                                    "p02.qpg.eroot",
+                                    "p07.qpg.eroot",
+                                    "s1.dex",
+                                    "s1.sin",
+                                    "sg-sin-aa",
+                                    "sgsg1.droot.maxgigapop.net",
+                                    "sgsg2.droot.maxgigapop.net",
+                                    "sin1a.c.root-servers.org"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "cookie_status": {
+                            "170.247.170.2": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.5.5.241": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.33.4.12": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.36.148.17": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.58.128.30": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.112.36.4": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.203.230.10": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "193.0.14.129": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "198.41.0.4": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "198.97.190.53": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "199.7.83.42": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "199.7.91.13": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "202.12.27.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:1::53": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:12::d0d": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:2d::d": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:2f::f": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:9f::42": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:a8::e": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:503:ba3e::2:30": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:7fd::1": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:7fe::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:dc3::35": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2801:1b8:10::b": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "dnskey": [
+            {
+                "id": "8/20326",
+                "description": "DNSKEY for . (algorithm 8 (RSA/SHA-256), key tag 20326)",
+                "flags": 257,
+                "protocol": 3,
+                "algorithm": 8,
+                "key": "AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU=",
+                "ttl": 172800,
+                "key_length": 2048,
+                "key_tag": 20326,
+                "servers": [
+                    "170.247.170.2",
+                    "192.5.5.241",
+                    "192.33.4.12",
+                    "192.36.148.17",
+                    "192.58.128.30",
+                    "192.112.36.4",
+                    "192.203.230.10",
+                    "193.0.14.129",
+                    "198.41.0.4",
+                    "198.97.190.53",
+                    "199.7.83.42",
+                    "199.7.91.13",
+                    "202.12.27.33",
+                    "2001:500:1::53",
+                    "2001:500:12::d0d",
+                    "2001:500:2d::d",
+                    "2001:500:2f::f",
+                    "2001:500:9f::42",
+                    "2001:500:a8::e",
+                    "2001:503:ba3e::2:30",
+                    "2001:7fd::1",
+                    "2001:7fe::53",
+                    "2001:dc3::35",
+                    "2801:1b8:10::b"
+                ],
+                "ns_names": [
+                    "a.root-servers.net.",
+                    "b.root-servers.net.",
+                    "c.root-servers.net.",
+                    "d.root-servers.net.",
+                    "e.root-servers.net.",
+                    "f.root-servers.net.",
+                    "g.root-servers.net.",
+                    "h.root-servers.net.",
+                    "i.root-servers.net.",
+                    "j.root-servers.net.",
+                    "k.root-servers.net.",
+                    "l.root-servers.net.",
+                    "m.root-servers.net."
+                ],
+                "nsid_values": [
+                    "001.apg.h.root-servers.org",
+                    "001.nzy.h.root-servers.org",
+                    "BKK.cf.f.root-servers.org",
+                    "JHB.cf.f.root-servers.org",
+                    "M-NRT-DIXIE-1",
+                    "M-SIN-3",
+                    "a4.de-fra.root",
+                    "au-per-aa",
+                    "b2-sin",
+                    "b3-mia",
+                    "groot-pac2-1",
+                    "groot-pac2-2",
+                    "n1.au-bne.root",
+                    "ns1.au-bne.k.ripe.net",
+                    "ns1.tw-tpe.k.ripe.net",
+                    "p02.qpg.eroot",
+                    "p07.qpg.eroot",
+                    "s1.dex",
+                    "s1.sin",
+                    "sg-sin-aa",
+                    "sgsg1.droot.maxgigapop.net",
+                    "sgsg2.droot.maxgigapop.net",
+                    "sin1a.c.root-servers.org"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            },
+            {
+                "id": "8/20038",
+                "description": "DNSKEY for . (algorithm 8 (RSA/SHA-256), key tag 20038)",
+                "flags": 256,
+                "protocol": 3,
+                "algorithm": 8,
+                "key": "AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM=",
+                "ttl": 172800,
+                "key_length": 2048,
+                "key_tag": 20038,
+                "servers": [
+                    "170.247.170.2",
+                    "192.5.5.241",
+                    "192.33.4.12",
+                    "192.36.148.17",
+                    "192.58.128.30",
+                    "192.112.36.4",
+                    "192.203.230.10",
+                    "193.0.14.129",
+                    "198.41.0.4",
+                    "198.97.190.53",
+                    "199.7.83.42",
+                    "199.7.91.13",
+                    "202.12.27.33",
+                    "2001:500:1::53",
+                    "2001:500:12::d0d",
+                    "2001:500:2d::d",
+                    "2001:500:2f::f",
+                    "2001:500:9f::42",
+                    "2001:500:a8::e",
+                    "2001:503:ba3e::2:30",
+                    "2001:7fd::1",
+                    "2001:7fe::53",
+                    "2001:dc3::35",
+                    "2801:1b8:10::b"
+                ],
+                "ns_names": [
+                    "a.root-servers.net.",
+                    "b.root-servers.net.",
+                    "c.root-servers.net.",
+                    "d.root-servers.net.",
+                    "e.root-servers.net.",
+                    "f.root-servers.net.",
+                    "g.root-servers.net.",
+                    "h.root-servers.net.",
+                    "i.root-servers.net.",
+                    "j.root-servers.net.",
+                    "k.root-servers.net.",
+                    "l.root-servers.net.",
+                    "m.root-servers.net."
+                ],
+                "nsid_values": [
+                    "001.apg.h.root-servers.org",
+                    "001.nzy.h.root-servers.org",
+                    "BKK.cf.f.root-servers.org",
+                    "JHB.cf.f.root-servers.org",
+                    "M-NRT-DIXIE-1",
+                    "M-SIN-3",
+                    "a4.de-fra.root",
+                    "au-per-aa",
+                    "b2-sin",
+                    "b3-mia",
+                    "groot-pac2-1",
+                    "groot-pac2-2",
+                    "n1.au-bne.root",
+                    "ns1.au-bne.k.ripe.net",
+                    "ns1.tw-tpe.k.ripe.net",
+                    "p02.qpg.eroot",
+                    "p07.qpg.eroot",
+                    "s1.dex",
+                    "s1.sin",
+                    "sg-sin-aa",
+                    "sgsg1.droot.maxgigapop.net",
+                    "sgsg2.droot.maxgigapop.net",
+                    "sin1a.c.root-servers.org"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            }
+        ],
+        "zone": {
+            "servers": {
+                "a.root-servers.net.": {
+                    "auth": [
+                        "198.41.0.4",
+                        "2001:503:ba3e::2:30"
+                    ]
+                },
+                "b.root-servers.net.": {
+                    "auth": [
+                        "170.247.170.2",
+                        "2801:1b8:10::b"
+                    ]
+                },
+                "c.root-servers.net.": {
+                    "auth": [
+                        "192.33.4.12",
+                        "2001:500:2::c"
+                    ]
+                },
+                "d.root-servers.net.": {
+                    "auth": [
+                        "199.7.91.13",
+                        "2001:500:2d::d"
+                    ]
+                },
+                "e.root-servers.net.": {
+                    "auth": [
+                        "192.203.230.10",
+                        "2001:500:a8::e"
+                    ]
+                },
+                "f.root-servers.net.": {
+                    "auth": [
+                        "192.5.5.241",
+                        "2001:500:2f::f"
+                    ]
+                },
+                "g.root-servers.net.": {
+                    "auth": [
+                        "192.112.36.4",
+                        "2001:500:12::d0d"
+                    ]
+                },
+                "h.root-servers.net.": {
+                    "auth": [
+                        "198.97.190.53",
+                        "2001:500:1::53"
+                    ]
+                },
+                "i.root-servers.net.": {
+                    "auth": [
+                        "192.36.148.17",
+                        "2001:7fe::53"
+                    ]
+                },
+                "j.root-servers.net.": {
+                    "auth": [
+                        "192.58.128.30",
+                        "2001:503:c27::2:30"
+                    ]
+                },
+                "k.root-servers.net.": {
+                    "auth": [
+                        "193.0.14.129",
+                        "2001:7fd::1"
+                    ]
+                },
+                "l.root-servers.net.": {
+                    "auth": [
+                        "199.7.83.42",
+                        "2001:500:9f::42"
+                    ]
+                },
+                "m.root-servers.net.": {
+                    "auth": [
+                        "202.12.27.33",
+                        "2001:dc3::35"
+                    ]
+                }
+            }
+        }
+    },
+    "th.": {
+        "status": "NOERROR",
+        "queries": {
+            "th./IN/DS": {
+                "answer": [
+                    {
+                        "id": "th./IN/DS",
+                        "description": "RRset for th/DS",
+                        "name": "th.",
+                        "ttl": 86400,
+                        "type": "DS",
+                        "rdata": [
+                            "19117 8 2 e26bf35f73234ac50c600632fc717ae491f4a8b4f662fb29234f5499acfebf64"
+                        ],
+                        "servers": [
+                            "170.247.170.2",
+                            "192.5.5.241",
+                            "192.33.4.12",
+                            "192.36.148.17",
+                            "192.58.128.30",
+                            "192.112.36.4",
+                            "192.203.230.10",
+                            "193.0.14.129",
+                            "198.41.0.4",
+                            "198.97.190.53",
+                            "199.7.83.42",
+                            "199.7.91.13",
+                            "202.12.27.33",
+                            "2001:500:1::53",
+                            "2001:500:12::d0d",
+                            "2001:500:2d::d",
+                            "2001:500:2f::f",
+                            "2001:500:9f::42",
+                            "2001:500:a8::e",
+                            "2001:503:ba3e::2:30",
+                            "2001:7fd::1",
+                            "2001:7fe::53",
+                            "2001:dc3::35",
+                            "2801:1b8:10::b"
+                        ],
+                        "ns_names": [
+                            "a.root-servers.net.",
+                            "b.root-servers.net.",
+                            "c.root-servers.net.",
+                            "d.root-servers.net.",
+                            "e.root-servers.net.",
+                            "f.root-servers.net.",
+                            "g.root-servers.net.",
+                            "h.root-servers.net.",
+                            "i.root-servers.net.",
+                            "j.root-servers.net.",
+                            "k.root-servers.net.",
+                            "l.root-servers.net.",
+                            "m.root-servers.net."
+                        ],
+                        "nsid_values": [
+                            "001.apg.h.root-servers.org",
+                            "001.nzy.h.root-servers.org",
+                            "BKK.cf.f.root-servers.org",
+                            "M-NRT-DIXIE-1",
+                            "M-SIN-3",
+                            "SIN.cf.f.root-servers.org",
+                            "a4.de-fra.root",
+                            "au-per-aa",
+                            "b3-mia",
+                            "b3-sin",
+                            "groot-pac2-1",
+                            "groot-pac2-2",
+                            "n1.au-bne.root",
+                            "ns1.au-bne.k.ripe.net",
+                            "ns1.tw-tpe.k.ripe.net",
+                            "p04.qpg.eroot",
+                            "p07.qpg.eroot",
+                            "s1.dex",
+                            "s1.sin",
+                            "sg-sin-aa",
+                            "sgsg5.droot.maxgigapop.net",
+                            "sgsg7.droot.maxgigapop.net",
+                            "sin1a.c.root-servers.org"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "rrsig": [
+                            {
+                                "id": "./8/20038",
+                                "description": "RRSIG covering th/DS",
+                                "signer": ".",
+                                "algorithm": 8,
+                                "key_tag": 20038,
+                                "original_ttl": 86400,
+                                "labels": 1,
+                                "inception": "2024-09-08 04:00:00 UTC",
+                                "expiration": "2024-09-21 05:00:00 UTC",
+                                "signature": "doy4KbkCdsL8GviziE95ZO5fO+fS2Ze6qMozGF+msOlKu3V79oT/qoGEihdoY0qhdNwi0LMY1BK+Ic9uUUa1hzwsTOHUo75fs71IjJKlMaXaoQrNmlOntO6n22JThHYNxXXOxv9uj7cVMsyjypOmlWuVaj81iGcqfMn9oOYufYSH5DmTveNJ17aWnWa6RCmLjf9a9yFNDdmWBIDFnOqlIV3Zyu3xl+qRQuIhpndgxCyKDuGA4Gn4d9nT6HFOtT67BpDRs1zgkO9GYGo/j8o+ecM17y05eP7I5XrE1XMEHHEZlK9JvO+FhmCe72MeaLIFw3W68AbsrdJ6LhnLdTTgBA==",
+                                "ttl": 86400,
+                                "status": "VALID",
+                                "servers": [
+                                    "170.247.170.2",
+                                    "192.5.5.241",
+                                    "192.33.4.12",
+                                    "192.36.148.17",
+                                    "192.58.128.30",
+                                    "192.112.36.4",
+                                    "192.203.230.10",
+                                    "193.0.14.129",
+                                    "198.41.0.4",
+                                    "198.97.190.53",
+                                    "199.7.83.42",
+                                    "199.7.91.13",
+                                    "202.12.27.33",
+                                    "2001:500:1::53",
+                                    "2001:500:12::d0d",
+                                    "2001:500:2d::d",
+                                    "2001:500:2f::f",
+                                    "2001:500:9f::42",
+                                    "2001:500:a8::e",
+                                    "2001:503:ba3e::2:30",
+                                    "2001:7fd::1",
+                                    "2001:7fe::53",
+                                    "2001:dc3::35",
+                                    "2801:1b8:10::b"
+                                ],
+                                "ns_names": [
+                                    "a.root-servers.net.",
+                                    "b.root-servers.net.",
+                                    "c.root-servers.net.",
+                                    "d.root-servers.net.",
+                                    "e.root-servers.net.",
+                                    "f.root-servers.net.",
+                                    "g.root-servers.net.",
+                                    "h.root-servers.net.",
+                                    "i.root-servers.net.",
+                                    "j.root-servers.net.",
+                                    "k.root-servers.net.",
+                                    "l.root-servers.net.",
+                                    "m.root-servers.net."
+                                ],
+                                "nsid_values": [
+                                    "001.apg.h.root-servers.org",
+                                    "001.nzy.h.root-servers.org",
+                                    "BKK.cf.f.root-servers.org",
+                                    "M-NRT-DIXIE-1",
+                                    "M-SIN-3",
+                                    "SIN.cf.f.root-servers.org",
+                                    "a4.de-fra.root",
+                                    "au-per-aa",
+                                    "b3-mia",
+                                    "b3-sin",
+                                    "groot-pac2-1",
+                                    "groot-pac2-2",
+                                    "n1.au-bne.root",
+                                    "ns1.au-bne.k.ripe.net",
+                                    "ns1.tw-tpe.k.ripe.net",
+                                    "p04.qpg.eroot",
+                                    "p07.qpg.eroot",
+                                    "s1.dex",
+                                    "s1.sin",
+                                    "sg-sin-aa",
+                                    "sgsg5.droot.maxgigapop.net",
+                                    "sgsg7.droot.maxgigapop.net",
+                                    "sin1a.c.root-servers.org"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "cookie_status": {
+                            "170.247.170.2": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.5.5.241": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.33.4.12": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.36.148.17": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.58.128.30": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "192.112.36.4": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "192.203.230.10": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "193.0.14.129": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "198.41.0.4": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "198.97.190.53": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "199.7.83.42": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "199.7.91.13": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "202.12.27.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:1::53": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:12::d0d": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:2d::d": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:2f::f": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:9f::42": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:500:a8::e": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:503:ba3e::2:30": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:7fd::1": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:7fe::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:dc3::35": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2801:1b8:10::b": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            },
+            "th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "th./IN/DNSKEY",
+                        "description": "RRset for th/DNSKEY",
+                        "name": "th.",
+                        "ttl": 86400,
+                        "type": "DNSKEY",
+                        "rdata": [
+                            "256 3 8 AwEAAb1+9ibqKSmZ5Tk0bW1LfKB0svWz Z1Fwdk61gcgllUDoq2xI1hqPtsJ+NWW3 aLjCXb02rmzFtE/enGTh+BIcY2vng6Yx Mtpn+g4qCoj0VsUlm/hBSvc5gUBVSCMF 67XWhk/P7rEPt/VToaMwPVPywbKTj0Cl XsuSdLe8EcAazzUX",
+                            "257 3 8 AwEAAczaAS9pPOSewqTTQKv6MTU+Jwzi +ZBwBMUvib7IZeM7Qt+3bVzQd9zFTWUG mVVpy/3n0F9sCNDk85JAllCGQIn32zCs BPbPeGrjZ3bSNoJypXYkykN79S4hTrv8 nd6fUgRa6M7ilez6goctGruFmF5lRRA+ J/lS9+tY142wx9ELPtJuuwAhp9hfELGj WAph2gNAe1F6CESFzRK8wIi1bpR4fCG0 GgqmMrZ4FW3sghhcbXNHBVyY9zrz4pKW VN+gy/8ewq07xhKjYf3B/Ej8GjFYeOAC GChhbkqOsa5zCF9wKWV83ytvzdhoLdco 9muQthksqDHitmgN8aH8BYyFb1M="
+                        ],
+                        "servers": [
+                            "122.155.23.64",
+                            "194.0.1.28",
+                            "194.146.106.154",
+                            "202.28.0.1",
+                            "203.159.64.64",
+                            "204.61.216.126",
+                            "2001:500:14:6126:ad::1",
+                            "2001:678:4::1c",
+                            "2001:67c:1010:39::53",
+                            "2001:c38:2000:183::30",
+                            "2405:3340:e011:3000::30"
+                        ],
+                        "ns_names": [
+                            "a.thains.co.th.",
+                            "b.thains.co.th.",
+                            "c.thains.co.th.",
+                            "nn1.thains.co.th.",
+                            "ns.thnic.net.",
+                            "p.thains.co.th."
+                        ],
+                        "nsid_values": [
+                            "1.jhb.pch",
+                            "3.qpg.pch",
+                            "BKK1",
+                            "Bkk2",
+                            "s2.chi",
+                            "s2.sin"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "rrsig": [
+                            {
+                                "id": "th./8/19117",
+                                "description": "RRSIG covering th/DNSKEY",
+                                "signer": "th.",
+                                "algorithm": 8,
+                                "key_tag": 19117,
+                                "original_ttl": 86400,
+                                "labels": 1,
+                                "inception": "2024-09-06 15:30:00 UTC",
+                                "expiration": "2024-09-21 13:22:12 UTC",
+                                "signature": "vFsjpTu2Ztogp2HAhZPnl2TcIIue2BrfXOchhEJoRL5OWCx0S3poZJAcg1rvNeYgenlA28v2FmpBlKybnxZlGwW8jYMR1w+ROCUTmiKLzxucCA/kfU+XdbUKepyIIXeoPguyeKR9SdyXCt9/QnFywp5Y8zIcqmm9aJHk7c/q5h/fTHaqazAWS1kgVbGcfXS/xqnNXg1cAWmYnStDvkQA0xoqwTJRU9LzHyN2zP6c+RehIskBWe1eTrEtJtXIz6GZPQwBr8rCDp2ozEu0ZIlWsv07KzSVKnDaRxJ81/wjSY79+COhkXDhUYmHq5PbQlKOw8N5bP/3Kf8j5YkdwJyl1Q==",
+                                "ttl": 86400,
+                                "status": "VALID",
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "1.jhb.pch",
+                                    "3.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "cookie_status": {
+                            "122.155.23.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "194.0.1.28": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "194.146.106.154": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "202.28.0.1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.159.64.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "204.61.216.126": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:14:6126:ad::1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:678:4::1c": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:67c:1010:39::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:c38:2000:183::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2405:3340:e011:3000::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "dnskey": [
+            {
+                "id": "8/10701",
+                "description": "DNSKEY for th (algorithm 8 (RSA/SHA-256), key tag 10701)",
+                "flags": 256,
+                "protocol": 3,
+                "algorithm": 8,
+                "key": "AwEAAb1+9ibqKSmZ5Tk0bW1LfKB0svWzZ1Fwdk61gcgllUDoq2xI1hqPtsJ+NWW3aLjCXb02rmzFtE/enGTh+BIcY2vng6YxMtpn+g4qCoj0VsUlm/hBSvc5gUBVSCMF67XWhk/P7rEPt/VToaMwPVPywbKTj0ClXsuSdLe8EcAazzUX",
+                "ttl": 86400,
+                "key_length": 1024,
+                "key_tag": 10701,
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "1.jhb.pch",
+                    "3.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            },
+            {
+                "id": "8/19117",
+                "description": "DNSKEY for th (algorithm 8 (RSA/SHA-256), key tag 19117)",
+                "flags": 257,
+                "protocol": 3,
+                "algorithm": 8,
+                "key": "AwEAAczaAS9pPOSewqTTQKv6MTU+Jwzi+ZBwBMUvib7IZeM7Qt+3bVzQd9zFTWUGmVVpy/3n0F9sCNDk85JAllCGQIn32zCsBPbPeGrjZ3bSNoJypXYkykN79S4hTrv8nd6fUgRa6M7ilez6goctGruFmF5lRRA+J/lS9+tY142wx9ELPtJuuwAhp9hfELGjWAph2gNAe1F6CESFzRK8wIi1bpR4fCG0GgqmMrZ4FW3sghhcbXNHBVyY9zrz4pKWVN+gy/8ewq07xhKjYf3B/Ej8GjFYeOACGChhbkqOsa5zCF9wKWV83ytvzdhoLdco9muQthksqDHitmgN8aH8BYyFb1M=",
+                "ttl": 86400,
+                "key_length": 2048,
+                "key_tag": 19117,
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "1.jhb.pch",
+                    "3.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            }
+        ],
+        "zone": {
+            "servers": {
+                "ns.thnic.net.": {
+                    "glue": [
+                        "202.28.0.1"
+                    ],
+                    "auth": [
+                        "202.28.0.1"
+                    ]
+                },
+                "a.thains.co.th.": {
+                    "glue": [
+                        "122.155.23.64",
+                        "2001:c38:2000:183::30"
+                    ],
+                    "auth": [
+                        "122.155.23.64",
+                        "2001:c38:2000:183::30"
+                    ]
+                },
+                "b.thains.co.th.": {
+                    "glue": [
+                        "203.159.64.64",
+                        "2405:3340:e011:3000::30"
+                    ],
+                    "auth": [
+                        "203.159.64.64",
+                        "2405:3340:e011:3000::30"
+                    ]
+                },
+                "c.thains.co.th.": {
+                    "glue": [
+                        "194.0.1.28",
+                        "2001:678:4::1c"
+                    ],
+                    "auth": [
+                        "194.0.1.28",
+                        "2001:678:4::1c"
+                    ]
+                },
+                "nn1.thains.co.th.": {
+                    "glue": [
+                        "194.146.106.154",
+                        "2001:67c:1010:39::53"
+                    ],
+                    "auth": [
+                        "194.146.106.154",
+                        "2001:67c:1010:39::53"
+                    ]
+                },
+                "p.thains.co.th.": {
+                    "glue": [
+                        "204.61.216.126",
+                        "2001:500:14:6126:ad::1"
+                    ],
+                    "auth": [
+                        "204.61.216.126",
+                        "2001:500:14:6126:ad::1"
+                    ]
+                }
+            }
+        },
+        "delegation": {
+            "ds": [
+                {
+                    "id": "8/19117/2",
+                    "description": "DS record(s) corresponding to DNSKEY for th (algorithm 8 (RSA/SHA-256), key tag 19117)",
+                    "algorithm": 8,
+                    "key_tag": 19117,
+                    "digest_type": 2,
+                    "digest": "4mvzX3MjSsUMYAYy/HF65JH0qLT2YvspI09Umaz+v2Q=",
+                    "ttl": 86400,
+                    "status": "VALID",
+                    "servers": [
+                        "170.247.170.2",
+                        "192.5.5.241",
+                        "192.33.4.12",
+                        "192.36.148.17",
+                        "192.58.128.30",
+                        "192.112.36.4",
+                        "192.203.230.10",
+                        "193.0.14.129",
+                        "198.41.0.4",
+                        "198.97.190.53",
+                        "199.7.83.42",
+                        "199.7.91.13",
+                        "202.12.27.33",
+                        "2001:500:1::53",
+                        "2001:500:12::d0d",
+                        "2001:500:2d::d",
+                        "2001:500:2f::f",
+                        "2001:500:9f::42",
+                        "2001:500:a8::e",
+                        "2001:503:ba3e::2:30",
+                        "2001:7fd::1",
+                        "2001:7fe::53",
+                        "2001:dc3::35",
+                        "2801:1b8:10::b"
+                    ],
+                    "ns_names": [
+                        "a.root-servers.net.",
+                        "b.root-servers.net.",
+                        "c.root-servers.net.",
+                        "d.root-servers.net.",
+                        "e.root-servers.net.",
+                        "f.root-servers.net.",
+                        "g.root-servers.net.",
+                        "h.root-servers.net.",
+                        "i.root-servers.net.",
+                        "j.root-servers.net.",
+                        "k.root-servers.net.",
+                        "l.root-servers.net.",
+                        "m.root-servers.net."
+                    ],
+                    "nsid_values": [
+                        "001.apg.h.root-servers.org",
+                        "001.nzy.h.root-servers.org",
+                        "BKK.cf.f.root-servers.org",
+                        "M-NRT-DIXIE-1",
+                        "M-SIN-3",
+                        "SIN.cf.f.root-servers.org",
+                        "a4.de-fra.root",
+                        "au-per-aa",
+                        "b3-mia",
+                        "b3-sin",
+                        "groot-pac2-1",
+                        "groot-pac2-2",
+                        "n1.au-bne.root",
+                        "ns1.au-bne.k.ripe.net",
+                        "ns1.tw-tpe.k.ripe.net",
+                        "p04.qpg.eroot",
+                        "p07.qpg.eroot",
+                        "s1.dex",
+                        "s1.sin",
+                        "sg-sin-aa",
+                        "sgsg5.droot.maxgigapop.net",
+                        "sgsg7.droot.maxgigapop.net",
+                        "sin1a.c.root-servers.org"
+                    ],
+                    "query_options": [
+                        "UDP_-_EDNS0_4096_D_NK"
+                    ]
+                }
+            ],
+            "status": "SECURE"
+        }
+    },
+    "ac.th.": {
+        "status": "NOERROR",
+        "queries": {
+            "ac.th./IN/DS": {
+                "answer": [
+                    {
+                        "id": "ac.th./IN/DS",
+                        "description": "RRset for ac.th/DS",
+                        "name": "ac.th.",
+                        "ttl": 7200,
+                        "type": "DS",
+                        "rdata": [
+                            "12799 8 2 34d31fc9b8013fe76173d51a7dd42cfc0bb4d16b38d072ab4739da34e3a01d10"
+                        ],
+                        "servers": [
+                            "122.155.23.64",
+                            "194.0.1.28",
+                            "194.146.106.154",
+                            "202.28.0.1",
+                            "203.159.64.64",
+                            "204.61.216.126",
+                            "2001:500:14:6126:ad::1",
+                            "2001:678:4::1c",
+                            "2001:67c:1010:39::53",
+                            "2001:c38:2000:183::30",
+                            "2405:3340:e011:3000::30"
+                        ],
+                        "ns_names": [
+                            "a.thains.co.th.",
+                            "b.thains.co.th.",
+                            "c.thains.co.th.",
+                            "nn1.thains.co.th.",
+                            "ns.thnic.net.",
+                            "p.thains.co.th."
+                        ],
+                        "nsid_values": [
+                            "2.qpg.pch",
+                            "6.qpg.pch",
+                            "BKK1",
+                            "Bkk2",
+                            "s2.chi",
+                            "s2.sin"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "rrsig": [
+                            {
+                                "id": "th./8/10701",
+                                "description": "RRSIG covering ac.th/DS",
+                                "signer": "th.",
+                                "algorithm": 8,
+                                "key_tag": 10701,
+                                "original_ttl": 7200,
+                                "labels": 2,
+                                "inception": "2024-09-03 17:00:00 UTC",
+                                "expiration": "2024-09-18 16:00:10 UTC",
+                                "signature": "f4IwncvOsSs+WCYVsEw9aRJyDdpxq0OS9rdNqyN2Zb81YAtMxW3NlHG3Euihxiuv/ZrCIDpAkCf5I5Dp+LZZhtwdrazlmfFwuhumFnzVyalT3J3R2ZE5NcO6mzNoVxP2jsGimx4HnCecmggOz1sfoBOgS2A/lB8+0CcP1OdkWHo=",
+                                "ttl": 7200,
+                                "status": "VALID",
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "2.qpg.pch",
+                                    "6.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "cookie_status": {
+                            "122.155.23.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "194.0.1.28": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "194.146.106.154": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "202.28.0.1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.159.64.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "204.61.216.126": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:14:6126:ad::1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:678:4::1c": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:67c:1010:39::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:c38:2000:183::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2405:3340:e011:3000::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            },
+            "ac.th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "ac.th./IN/DNSKEY",
+                        "description": "RRset for ac.th/DNSKEY",
+                        "name": "ac.th.",
+                        "ttl": 43200,
+                        "type": "DNSKEY",
+                        "rdata": [
+                            "256 3 8 AwEAAeZJQXEr3rY5QMJEuZK5dAN3BEro 9He1rVj3jYxaVeCPQxdgUf2f+N8wObYU vY9KVbOBvzTVBUSwPBQEX1DVi66dJn5D mb4aWfyWC8L5AHl4u8/8yn3c4IoUoDo6 AlHaun9aTHjMmDjQS+D4vMTErnzhZ2yI LLHGQ8i0g/jw4e0J",
+                            "257 3 8 AwEAAcvhwaElbt0Ww/1T7Hb99SHXtcu9 4dHZo+wcIT29roYZl/Z4/DkASrBS6gib KZTi4FOJEN/aWIBCZfG32DBeQrGlunMk 6orDf6gVgLY3Jk3zZV6CE6PpvJOAgf7H vUENhz+bbaYAJK65wkowTWIkxco0XTMI IbNfdHr3LXXeRqx9R3Y206htPYr8eUuK qTFkjYrAahw2kP/uqo4HWse5uwxf87/m j8cKONYE/crOzZIHxBDfv7/kL3NxEm3U 4NlEfN5tEz/1xwo1FP4YYu0WqV2Ctfxq +WtlzouJ1F5Xl7YkuhbIygpvhhaAZECk sXWNWVeptYIcGScXsNiJAfSFTbc="
+                        ],
+                        "servers": [
+                            "122.155.23.64",
+                            "194.0.1.28",
+                            "194.146.106.154",
+                            "202.28.0.1",
+                            "203.159.64.64",
+                            "204.61.216.126",
+                            "2001:500:14:6126:ad::1",
+                            "2001:678:4::1c",
+                            "2001:67c:1010:39::53",
+                            "2001:c38:2000:183::30",
+                            "2405:3340:e011:3000::30"
+                        ],
+                        "ns_names": [
+                            "a.thains.co.th.",
+                            "b.thains.co.th.",
+                            "c.thains.co.th.",
+                            "nn1.thains.co.th.",
+                            "ns.thnic.net.",
+                            "p.thains.co.th."
+                        ],
+                        "nsid_values": [
+                            "4.sin.pch",
+                            "6.qpg.pch",
+                            "BKK1",
+                            "Bkk2",
+                            "s2.chi",
+                            "s2.sin"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "rrsig": [
+                            {
+                                "id": "ac.th./8/12799",
+                                "description": "RRSIG covering ac.th/DNSKEY",
+                                "signer": "ac.th.",
+                                "algorithm": 8,
+                                "key_tag": 12799,
+                                "original_ttl": 43200,
+                                "labels": 2,
+                                "inception": "2024-09-06 13:00:02 UTC",
+                                "expiration": "2024-09-21 11:33:41 UTC",
+                                "signature": "tCNp+lIMshVEnyWBQBSu2ICBG9UQMOpU3iToJtiMW3VFelg0wr4wu3pzyvzphoqw8rNxramNNExQ/M5K587dUvPujOzG2sDJJxDcQ8GN79EFEfswlsrWDwN/7N8NKDiebzWK4ArOwP/gDclO0PYg5C3Va8w+mosR3qc9IlqWOU3E0h5hFpBf7H0iH2D7AgzSaf2bTw3nRX79t8tZzaK22HG53GOVLCMm2/PO+UPBNwoaQq7MKJI09g8DcAQTXn9+xDprFPCP8r9nZLIdqauBrk7UnZczcF0Db+unbJ9RmUJn3s3AxE61dP/mfduH74IYnX/HdbCxLKyORTdqkKa6sw==",
+                                "ttl": 43200,
+                                "status": "VALID",
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "4.sin.pch",
+                                    "6.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "cookie_status": {
+                            "122.155.23.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "194.0.1.28": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "194.146.106.154": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "202.28.0.1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.159.64.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "204.61.216.126": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:14:6126:ad::1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:678:4::1c": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:67c:1010:39::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:c38:2000:183::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2405:3340:e011:3000::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "dnskey": [
+            {
+                "id": "8/56805",
+                "description": "DNSKEY for ac.th (algorithm 8 (RSA/SHA-256), key tag 56805)",
+                "flags": 256,
+                "protocol": 3,
+                "algorithm": 8,
+                "key": "AwEAAeZJQXEr3rY5QMJEuZK5dAN3BEro9He1rVj3jYxaVeCPQxdgUf2f+N8wObYUvY9KVbOBvzTVBUSwPBQEX1DVi66dJn5Dmb4aWfyWC8L5AHl4u8/8yn3c4IoUoDo6AlHaun9aTHjMmDjQS+D4vMTErnzhZ2yILLHGQ8i0g/jw4e0J",
+                "ttl": 43200,
+                "key_length": 1024,
+                "key_tag": 56805,
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "4.sin.pch",
+                    "6.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            },
+            {
+                "id": "8/12799",
+                "description": "DNSKEY for ac.th (algorithm 8 (RSA/SHA-256), key tag 12799)",
+                "flags": 257,
+                "protocol": 3,
+                "algorithm": 8,
+                "key": "AwEAAcvhwaElbt0Ww/1T7Hb99SHXtcu94dHZo+wcIT29roYZl/Z4/DkASrBS6gibKZTi4FOJEN/aWIBCZfG32DBeQrGlunMk6orDf6gVgLY3Jk3zZV6CE6PpvJOAgf7HvUENhz+bbaYAJK65wkowTWIkxco0XTMIIbNfdHr3LXXeRqx9R3Y206htPYr8eUuKqTFkjYrAahw2kP/uqo4HWse5uwxf87/mj8cKONYE/crOzZIHxBDfv7/kL3NxEm3U4NlEfN5tEz/1xwo1FP4YYu0WqV2Ctfxq+WtlzouJ1F5Xl7YkuhbIygpvhhaAZECksXWNWVeptYIcGScXsNiJAfSFTbc=",
+                "ttl": 43200,
+                "key_length": 2048,
+                "key_tag": 12799,
+                "servers": [
+                    "122.155.23.64",
+                    "194.0.1.28",
+                    "194.146.106.154",
+                    "202.28.0.1",
+                    "203.159.64.64",
+                    "204.61.216.126",
+                    "2001:500:14:6126:ad::1",
+                    "2001:678:4::1c",
+                    "2001:67c:1010:39::53",
+                    "2001:c38:2000:183::30",
+                    "2405:3340:e011:3000::30"
+                ],
+                "ns_names": [
+                    "a.thains.co.th.",
+                    "b.thains.co.th.",
+                    "c.thains.co.th.",
+                    "nn1.thains.co.th.",
+                    "ns.thnic.net.",
+                    "p.thains.co.th."
+                ],
+                "nsid_values": [
+                    "4.sin.pch",
+                    "6.qpg.pch",
+                    "BKK1",
+                    "Bkk2",
+                    "s2.chi",
+                    "s2.sin"
+                ],
+                "query_options": [
+                    "UDP_-_EDNS0_4096_D_NK"
+                ]
+            }
+        ],
+        "zone": {
+            "servers": {
+                "ns.thnic.net.": {
+                    "auth": [
+                        "202.28.0.1"
+                    ]
+                },
+                "a.thains.co.th.": {
+                    "auth": [
+                        "122.155.23.64",
+                        "2001:c38:2000:183::30"
+                    ]
+                },
+                "b.thains.co.th.": {
+                    "auth": [
+                        "203.159.64.64",
+                        "2405:3340:e011:3000::30"
+                    ]
+                },
+                "c.thains.co.th.": {
+                    "auth": [
+                        "194.0.1.28",
+                        "2001:678:4::1c"
+                    ]
+                },
+                "nn1.thains.co.th.": {
+                    "auth": [
+                        "194.146.106.154",
+                        "2001:67c:1010:39::53"
+                    ]
+                },
+                "p.thains.co.th.": {
+                    "auth": [
+                        "204.61.216.126",
+                        "2001:500:14:6126:ad::1"
+                    ]
+                }
+            }
+        },
+        "delegation": {
+            "ds": [
+                {
+                    "id": "8/12799/2",
+                    "description": "DS record(s) corresponding to DNSKEY for ac.th (algorithm 8 (RSA/SHA-256), key tag 12799)",
+                    "algorithm": 8,
+                    "key_tag": 12799,
+                    "digest_type": 2,
+                    "digest": "NNMfybgBP+dhc9UafdQs/Au00Ws40HKrRznaNOOgHRA=",
+                    "ttl": 7200,
+                    "status": "VALID",
+                    "servers": [
+                        "122.155.23.64",
+                        "194.0.1.28",
+                        "194.146.106.154",
+                        "202.28.0.1",
+                        "203.159.64.64",
+                        "204.61.216.126",
+                        "2001:500:14:6126:ad::1",
+                        "2001:678:4::1c",
+                        "2001:67c:1010:39::53",
+                        "2001:c38:2000:183::30",
+                        "2405:3340:e011:3000::30"
+                    ],
+                    "ns_names": [
+                        "a.thains.co.th.",
+                        "b.thains.co.th.",
+                        "c.thains.co.th.",
+                        "nn1.thains.co.th.",
+                        "ns.thnic.net.",
+                        "p.thains.co.th."
+                    ],
+                    "nsid_values": [
+                        "2.qpg.pch",
+                        "6.qpg.pch",
+                        "BKK1",
+                        "Bkk2",
+                        "s2.chi",
+                        "s2.sin"
+                    ],
+                    "query_options": [
+                        "UDP_-_EDNS0_4096_D_NK"
+                    ]
+                }
+            ],
+            "status": "SECURE"
+        }
+    },
+    "rmutto.ac.th.": {
+        "status": "NOERROR",
+        "queries": {
+            "rmutto.ac.th./IN/A": {
+                "answer": [
+                    {
+                        "id": "rmutto.ac.th./IN/A",
+                        "description": "RRset for rmutto.ac.th/A",
+                        "name": "rmutto.ac.th.",
+                        "ttl": 38400,
+                        "type": "A",
+                        "rdata": [
+                            "104.18.22.102"
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    },
+                    {
+                        "description": "There was an error communicating with the server over UDP (EACCES).  See RFC 1035, Sec. 4.2.",
+                        "code": "NETWORK_ERROR",
+                        "servers": [
+                            "2001:3c8:3002::33",
+                            "2001:3c8:3002::34"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/NS": {
+                "answer": [
+                    {
+                        "id": "rmutto.ac.th./IN/NS",
+                        "description": "RRset for rmutto.ac.th/NS",
+                        "name": "rmutto.ac.th.",
+                        "ttl": 38400,
+                        "type": "NS",
+                        "rdata": [
+                            "ns.thnic.net.",
+                            "ns2.rmutto.ac.th.",
+                            "kampoo.rmutto.ac.th."
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    },
+                    {
+                        "description": "There was an error communicating with the server over UDP (EACCES).  See RFC 1035, Sec. 4.2.",
+                        "code": "NETWORK_ERROR",
+                        "servers": [
+                            "2001:3c8:3002::33",
+                            "2001:3c8:3002::34"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "rmutto.ac.th./IN/CNAME",
+                        "soa": [
+                            {
+                                "id": "rmutto.ac.th./IN/SOA",
+                                "description": "RRset for rmutto.ac.th/SOA",
+                                "name": "rmutto.ac.th.",
+                                "ttl": 38400,
+                                "type": "SOA",
+                                "rdata": [
+                                    "kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400"
+                                ],
+                                "servers": [
+                                    "202.183.192.75",
+                                    "203.158.140.33",
+                                    "203.158.140.34"
+                                ],
+                                "ns_names": [
+                                    "kampoo.rmutto.ac.th.",
+                                    "ns2.dotarai.com.",
+                                    "ns2.rmutto.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/SOA": {
+                "answer": [
+                    {
+                        "id": "rmutto.ac.th./IN/SOA",
+                        "description": "RRset for rmutto.ac.th/SOA",
+                        "name": "rmutto.ac.th.",
+                        "ttl": 38400,
+                        "type": "SOA",
+                        "rdata": [
+                            "kampoo.RmutTO.Ac.TH. root.RmutTO.Ac.TH. 2020101196 10800 3600 604800 38400"
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_N",
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_4096_D_NK_0x20"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.33": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "NO_COOKIE",
+                                "response": "NO_COOKIE_OPT"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_4096_D_NK_0x20"
+                        ]
+                    },
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_N"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/MX": {
+                "answer": [
+                    {
+                        "id": "rmutto.ac.th./IN/MX",
+                        "description": "RRset for rmutto.ac.th/MX",
+                        "name": "rmutto.ac.th.",
+                        "ttl": 38400,
+                        "type": "MX",
+                        "rdata": [
+                            "1 ASPMX.L.GOOGLE.COM.",
+                            "5 ALT1.ASPMX.L.GOOGLE.COM.",
+                            "5 ALT2.ASPMX.L.GOOGLE.COM.",
+                            "10 ALT3.ASPMX.L.GOOGLE.COM.",
+                            "10 ALT4.ASPMX.L.GOOGLE.COM."
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_512_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ],
+                "warning": [
+                    {
+                        "description": "The Authoritative Answer (AA) flag was not set in the response.  See RFC 1035, Sec. 4.1.1.",
+                        "code": "NOT_AUTHORITATIVE",
+                        "servers": [
+                            "202.28.0.1"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/TXT": {
+                "answer": [
+                    {
+                        "id": "rmutto.ac.th./IN/TXT",
+                        "description": "RRset for rmutto.ac.th/TXT",
+                        "name": "rmutto.ac.th.",
+                        "ttl": 38400,
+                        "type": "TXT",
+                        "rdata": [
+                            "\"ca3-f1ef3724281f4a9495572c44b242239c\"",
+                            "\"MS=DE29AB0BD37974BFD9F802157140447EAA78F057\"",
+                            "\"Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360\"",
+                            "\"_globalsign-domain-verification=ZCqJ7S72IYorn8hpjgRIRtZWHuglKMzllt_kj7DX-j \""
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/AAAA": {
+                "nodata": [
+                    {
+                        "id": "rmutto.ac.th./IN/AAAA",
+                        "soa": [
+                            {
+                                "id": "rmutto.ac.th./IN/SOA",
+                                "description": "RRset for rmutto.ac.th/SOA",
+                                "name": "rmutto.ac.th.",
+                                "ttl": 38400,
+                                "type": "SOA",
+                                "rdata": [
+                                    "kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400"
+                                ],
+                                "servers": [
+                                    "202.183.192.75",
+                                    "203.158.140.33",
+                                    "203.158.140.34"
+                                ],
+                                "ns_names": [
+                                    "kampoo.rmutto.ac.th.",
+                                    "ns2.dotarai.com.",
+                                    "ns2.rmutto.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/DS": {
+                "nodata": [
+                    {
+                        "id": "rmutto.ac.th./IN/DS",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "description": "NSEC3 record(s) proving non-existence (NODATA) of rmutto.ac.th/DS",
+                                "nsec3": [
+                                    {
+                                        "id": "VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th./IN/NSEC3",
+                                        "description": "RRset for VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th/NSEC3",
+                                        "name": "VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th.",
+                                        "ttl": 1800,
+                                        "type": "NSEC3",
+                                        "rdata": [
+                                            "1 1 0 - VLE69LREI03UQ6AP564P2TI03OUMO34Q NS SOA RRSIG DNSKEY NSEC3PARAM"
+                                        ],
+                                        "servers": [
+                                            "122.155.23.64",
+                                            "194.0.1.28",
+                                            "194.146.106.154",
+                                            "202.28.0.1",
+                                            "203.159.64.64",
+                                            "204.61.216.126",
+                                            "2001:500:14:6126:ad::1",
+                                            "2001:678:4::1c",
+                                            "2001:67c:1010:39::53",
+                                            "2001:c38:2000:183::30",
+                                            "2405:3340:e011:3000::30"
+                                        ],
+                                        "ns_names": [
+                                            "a.thains.co.th.",
+                                            "b.thains.co.th.",
+                                            "c.thains.co.th.",
+                                            "nn1.thains.co.th.",
+                                            "ns.thnic.net.",
+                                            "p.thains.co.th."
+                                        ],
+                                        "nsid_values": [
+                                            "4.sin.pch",
+                                            "5.qpg.pch",
+                                            "BKK1",
+                                            "Bkk2",
+                                            "s2.chi",
+                                            "s2.sin"
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ],
+                                        "rrsig": [
+                                            {
+                                                "id": "ac.th./8/56805",
+                                                "description": "RRSIG covering vhfjkttfojhs6rke680j28akhncmqoth.ac.th/NSEC3",
+                                                "signer": "ac.th.",
+                                                "algorithm": 8,
+                                                "key_tag": 56805,
+                                                "original_ttl": 1800,
+                                                "labels": 3,
+                                                "inception": "2024-09-03 09:00:02 UTC",
+                                                "expiration": "2024-09-18 04:57:54 UTC",
+                                                "signature": "qXqb/6fGEJEgPZC8f1F7Anu6BWx/oX1D83w64nr09WyyEFCQIJTQAa6ZJAZgtLzIUKJCIwtcQt0CgUb2+NQP1u1alGt/bx9klyV4iOW7b/WBwcM1ii0YkHD3u+ujLigked87XOPpjxaI9hF9AKCKc2GHjdFjdRXuzYKYaCJPTd8=",
+                                                "ttl": 1800,
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "122.155.23.64",
+                                                    "194.0.1.28",
+                                                    "194.146.106.154",
+                                                    "202.28.0.1",
+                                                    "203.159.64.64",
+                                                    "204.61.216.126",
+                                                    "2001:500:14:6126:ad::1",
+                                                    "2001:678:4::1c",
+                                                    "2001:67c:1010:39::53",
+                                                    "2001:c38:2000:183::30",
+                                                    "2405:3340:e011:3000::30"
+                                                ],
+                                                "ns_names": [
+                                                    "a.thains.co.th.",
+                                                    "b.thains.co.th.",
+                                                    "c.thains.co.th.",
+                                                    "nn1.thains.co.th.",
+                                                    "ns.thnic.net.",
+                                                    "p.thains.co.th."
+                                                ],
+                                                "nsid_values": [
+                                                    "4.sin.pch",
+                                                    "5.qpg.pch",
+                                                    "BKK1",
+                                                    "Bkk2",
+                                                    "s2.chi",
+                                                    "s2.sin"
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th./IN/NSEC3",
+                                        "description": "RRset for 4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th/NSEC3",
+                                        "name": "4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th.",
+                                        "ttl": 1800,
+                                        "type": "NSEC3",
+                                        "rdata": [
+                                            "1 1 0 - 4UM60ENUH7GQLDUQTA9FNGP045AIK32E NS DS RRSIG"
+                                        ],
+                                        "servers": [
+                                            "122.155.23.64",
+                                            "194.0.1.28",
+                                            "194.146.106.154",
+                                            "202.28.0.1",
+                                            "203.159.64.64",
+                                            "204.61.216.126",
+                                            "2001:500:14:6126:ad::1",
+                                            "2001:678:4::1c",
+                                            "2001:67c:1010:39::53",
+                                            "2001:c38:2000:183::30",
+                                            "2405:3340:e011:3000::30"
+                                        ],
+                                        "ns_names": [
+                                            "a.thains.co.th.",
+                                            "b.thains.co.th.",
+                                            "c.thains.co.th.",
+                                            "nn1.thains.co.th.",
+                                            "ns.thnic.net.",
+                                            "p.thains.co.th."
+                                        ],
+                                        "nsid_values": [
+                                            "4.sin.pch",
+                                            "5.qpg.pch",
+                                            "BKK1",
+                                            "Bkk2",
+                                            "s2.chi",
+                                            "s2.sin"
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ],
+                                        "rrsig": [
+                                            {
+                                                "id": "ac.th./8/56805",
+                                                "description": "RRSIG covering 4fsvnu47e610gd1maasem517t2ni1jll.ac.th/NSEC3",
+                                                "signer": "ac.th.",
+                                                "algorithm": 8,
+                                                "key_tag": 56805,
+                                                "original_ttl": 1800,
+                                                "labels": 3,
+                                                "inception": "2024-09-03 14:30:02 UTC",
+                                                "expiration": "2024-09-18 10:46:54 UTC",
+                                                "signature": "LyMYGOC411y+6bcpqAf+t/TePHkwyo5u0B4HVBBeDCCkFnGDC1xuooY2pFaslyTgt/dLlKGGtOTwVR3B7xzpmblVpPV5RUaIaPFrJJ8nIO8pZWP+RG+whr1jHbGrSqARRp3ixqTlnlAPnt7pFh+i6V3ReN8iFcBIqDwNqhb66j0=",
+                                                "ttl": 1800,
+                                                "status": "VALID",
+                                                "servers": [
+                                                    "122.155.23.64",
+                                                    "194.0.1.28",
+                                                    "194.146.106.154",
+                                                    "202.28.0.1",
+                                                    "203.159.64.64",
+                                                    "204.61.216.126",
+                                                    "2001:500:14:6126:ad::1",
+                                                    "2001:678:4::1c",
+                                                    "2001:67c:1010:39::53",
+                                                    "2001:c38:2000:183::30",
+                                                    "2405:3340:e011:3000::30"
+                                                ],
+                                                "ns_names": [
+                                                    "a.thains.co.th.",
+                                                    "b.thains.co.th.",
+                                                    "c.thains.co.th.",
+                                                    "nn1.thains.co.th.",
+                                                    "ns.thnic.net.",
+                                                    "p.thains.co.th."
+                                                ],
+                                                "nsid_values": [
+                                                    "4.sin.pch",
+                                                    "5.qpg.pch",
+                                                    "BKK1",
+                                                    "Bkk2",
+                                                    "s2.chi",
+                                                    "s2.sin"
+                                                ],
+                                                "query_options": [
+                                                    "UDP_-_EDNS0_4096_D_NK"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "opt_out": true,
+                                "closest_encloser": "ac.th.",
+                                "closest_encloser_digest": "VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th.",
+                                "next_closest_encloser": "rmutto.ac.th.",
+                                "next_closest_encloser_hash": "4ONEJBCQ343973T2VIM36SMFGHRKKGCL.ac.th.",
+                                "next_closest_encloser_covering": {
+                                    "covered_name": "4ONEJBCQ343973T2VIM36SMFGHRKKGCL.ac.th.",
+                                    "nsec3_owner": "4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th.",
+                                    "nsec3_next": "4UM60ENUH7GQLDUQTA9FNGP045AIK32E.ac.th."
+                                },
+                                "wildcard": "*.ac.th.",
+                                "wildcard_hash": "9S50SA0C7NAEUGD86EV1CSDADN2SBHKG.ac.th.",
+                                "status": "VALID",
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "4.sin.pch",
+                                    "5.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "ac.th./IN/SOA",
+                                "description": "RRset for ac.th/SOA",
+                                "name": "ac.th.",
+                                "ttl": 1800,
+                                "type": "SOA",
+                                "rdata": [
+                                    "a.thains.co.th. registry.thains.co.th. 1240908031 1800 900 518400 1800"
+                                ],
+                                "servers": [
+                                    "122.155.23.64",
+                                    "194.0.1.28",
+                                    "194.146.106.154",
+                                    "202.28.0.1",
+                                    "203.159.64.64",
+                                    "204.61.216.126",
+                                    "2001:500:14:6126:ad::1",
+                                    "2001:678:4::1c",
+                                    "2001:67c:1010:39::53",
+                                    "2001:c38:2000:183::30",
+                                    "2405:3340:e011:3000::30"
+                                ],
+                                "ns_names": [
+                                    "a.thains.co.th.",
+                                    "b.thains.co.th.",
+                                    "c.thains.co.th.",
+                                    "nn1.thains.co.th.",
+                                    "ns.thnic.net.",
+                                    "p.thains.co.th."
+                                ],
+                                "nsid_values": [
+                                    "4.sin.pch",
+                                    "5.qpg.pch",
+                                    "BKK1",
+                                    "Bkk2",
+                                    "s2.chi",
+                                    "s2.sin"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ],
+                                "rrsig": [
+                                    {
+                                        "id": "ac.th./8/56805",
+                                        "description": "RRSIG covering ac.th/SOA",
+                                        "signer": "ac.th.",
+                                        "algorithm": 8,
+                                        "key_tag": 56805,
+                                        "original_ttl": 1800,
+                                        "labels": 2,
+                                        "inception": "2024-09-08 07:00:02 UTC",
+                                        "expiration": "2024-09-23 06:51:16 UTC",
+                                        "signature": "N9d49rFeWlMnl/pxJqlUmk+OGWVYIAlwYxYzgUe9dB615M1TW7oRjH93bV/xLe4/erOoM0TcATPaKyqrrtiJlMK5dFEYYK2A9NZ5KYlVo8a5VCygdowtxJj10D7+AREqirtFSn4ZK/wYk2YL7xT1AJwRi8eszhoslBCDTH3wKcQ=",
+                                        "ttl": 1800,
+                                        "status": "VALID",
+                                        "servers": [
+                                            "122.155.23.64",
+                                            "194.0.1.28",
+                                            "194.146.106.154",
+                                            "202.28.0.1",
+                                            "203.159.64.64",
+                                            "204.61.216.126",
+                                            "2001:500:14:6126:ad::1",
+                                            "2001:678:4::1c",
+                                            "2001:67c:1010:39::53",
+                                            "2001:c38:2000:183::30",
+                                            "2405:3340:e011:3000::30"
+                                        ],
+                                        "ns_names": [
+                                            "a.thains.co.th.",
+                                            "b.thains.co.th.",
+                                            "c.thains.co.th.",
+                                            "nn1.thains.co.th.",
+                                            "ns.thnic.net.",
+                                            "p.thains.co.th."
+                                        ],
+                                        "nsid_values": [
+                                            "4.sin.pch",
+                                            "5.qpg.pch",
+                                            "BKK1",
+                                            "Bkk2",
+                                            "s2.chi",
+                                            "s2.sin"
+                                        ],
+                                        "query_options": [
+                                            "UDP_-_EDNS0_4096_D_NK"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "122.155.23.64",
+                            "194.0.1.28",
+                            "194.146.106.154",
+                            "202.28.0.1",
+                            "203.159.64.64",
+                            "204.61.216.126",
+                            "2001:500:14:6126:ad::1",
+                            "2001:678:4::1c",
+                            "2001:67c:1010:39::53",
+                            "2001:c38:2000:183::30",
+                            "2405:3340:e011:3000::30"
+                        ],
+                        "ns_names": [
+                            "a.thains.co.th.",
+                            "b.thains.co.th.",
+                            "c.thains.co.th.",
+                            "nn1.thains.co.th.",
+                            "ns.thnic.net.",
+                            "p.thains.co.th."
+                        ],
+                        "nsid_values": [
+                            "4.sin.pch",
+                            "5.qpg.pch",
+                            "BKK1",
+                            "Bkk2",
+                            "s2.chi",
+                            "s2.sin"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "122.155.23.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "194.0.1.28": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "194.146.106.154": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "202.28.0.1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.159.64.64": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "204.61.216.126": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:500:14:6126:ad::1": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:678:4::1c": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "2001:67c:1010:39::53": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2001:c38:2000:183::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "2405:3340:e011:3000::30": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/DNSKEY": {
+                "nodata": [
+                    {
+                        "id": "rmutto.ac.th./IN/DNSKEY",
+                        "soa": [
+                            {
+                                "id": "rmutto.ac.th./IN/SOA",
+                                "description": "RRset for rmutto.ac.th/SOA",
+                                "name": "rmutto.ac.th.",
+                                "ttl": 38400,
+                                "type": "SOA",
+                                "rdata": [
+                                    "kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400"
+                                ],
+                                "servers": [
+                                    "202.183.192.75",
+                                    "203.158.140.33",
+                                    "203.158.140.34"
+                                ],
+                                "ns_names": [
+                                    "kampoo.rmutto.ac.th.",
+                                    "ns2.dotarai.com.",
+                                    "ns2.rmutto.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK",
+                                    "UDP_-_EDNS0_512_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_512_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK",
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ],
+                "warning": [
+                    {
+                        "description": "The Authoritative Answer (AA) flag was not set in the response.  See RFC 1035, Sec. 4.1.1.",
+                        "code": "NOT_AUTHORITATIVE",
+                        "servers": [
+                            "202.28.0.1"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/NSEC3PARAM": {
+                "nodata": [
+                    {
+                        "id": "rmutto.ac.th./IN/NSEC3PARAM",
+                        "soa": [
+                            {
+                                "id": "rmutto.ac.th./IN/SOA",
+                                "description": "RRset for rmutto.ac.th/SOA",
+                                "name": "rmutto.ac.th.",
+                                "ttl": 38400,
+                                "type": "SOA",
+                                "rdata": [
+                                    "kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400"
+                                ],
+                                "servers": [
+                                    "202.183.192.75",
+                                    "203.158.140.33",
+                                    "203.158.140.34"
+                                ],
+                                "ns_names": [
+                                    "kampoo.rmutto.ac.th.",
+                                    "ns2.dotarai.com.",
+                                    "ns2.rmutto.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "rmutto.ac.th./IN/CDS",
+                        "soa": [
+                            {
+                                "id": "rmutto.ac.th./IN/SOA",
+                                "description": "RRset for rmutto.ac.th/SOA",
+                                "name": "rmutto.ac.th.",
+                                "ttl": 38400,
+                                "type": "SOA",
+                                "rdata": [
+                                    "kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400"
+                                ],
+                                "servers": [
+                                    "202.183.192.75",
+                                    "203.158.140.33",
+                                    "203.158.140.34"
+                                ],
+                                "ns_names": [
+                                    "kampoo.rmutto.ac.th.",
+                                    "ns2.dotarai.com.",
+                                    "ns2.rmutto.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutto.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "rmutto.ac.th./IN/CDNSKEY",
+                        "soa": [
+                            {
+                                "id": "rmutto.ac.th./IN/SOA",
+                                "description": "RRset for rmutto.ac.th/SOA",
+                                "name": "rmutto.ac.th.",
+                                "ttl": 38400,
+                                "type": "SOA",
+                                "rdata": [
+                                    "kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400"
+                                ],
+                                "servers": [
+                                    "202.183.192.75",
+                                    "203.158.140.33",
+                                    "203.158.140.34"
+                                ],
+                                "ns_names": [
+                                    "kampoo.rmutto.ac.th.",
+                                    "ns2.dotarai.com.",
+                                    "ns2.rmutto.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "plcd2.kf0g1.rmutto.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "plcd2.kf0g1.rmutto.ac.th./IN/A",
+                        "soa": [
+                            {
+                                "id": "rmutto.ac.th./IN/SOA",
+                                "description": "RRset for rmutto.ac.th/SOA",
+                                "name": "rmutto.ac.th.",
+                                "ttl": 38400,
+                                "type": "SOA",
+                                "rdata": [
+                                    "kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400"
+                                ],
+                                "servers": [
+                                    "202.183.192.75",
+                                    "203.158.140.33",
+                                    "203.158.140.34"
+                                ],
+                                "ns_names": [
+                                    "kampoo.rmutto.ac.th.",
+                                    "ns2.dotarai.com.",
+                                    "ns2.rmutto.ac.th."
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ],
+                        "servers": [
+                            "202.183.192.75",
+                            "203.158.140.33",
+                            "203.158.140.34"
+                        ],
+                        "ns_names": [
+                            "kampoo.rmutto.ac.th.",
+                            "ns2.dotarai.com.",
+                            "ns2.rmutto.ac.th."
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ],
+                        "cookie_status": {
+                            "202.183.192.75": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            },
+                            "203.158.140.33": {
+                                "request": "CLIENT_COOKIE_ONLY",
+                                "response": "NO_COOKIE_OPT"
+                            },
+                            "203.158.140.34": {
+                                "request": "VALID_SERVER_COOKIE",
+                                "response": "CLIENT_AND_SERVER_COOKIE"
+                            }
+                        }
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "116.68.151.172"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            }
+        },
+        "zone": {
+            "servers": {
+                "ns1.dotarai.com.": {
+                    "auth": [
+                        "116.68.151.172"
+                    ]
+                },
+                "ns2.dotarai.com.": {
+                    "auth": [
+                        "202.183.192.75"
+                    ]
+                },
+                "ns.thnic.net.": {
+                    "auth": [
+                        "202.28.0.1"
+                    ]
+                },
+                "kampoo.rmutto.ac.th.": {
+                    "glue": [
+                        "203.158.140.33"
+                    ],
+                    "auth": [
+                        "203.158.140.33",
+                        "2001:3c8:3002::33"
+                    ]
+                },
+                "ns2.rmutto.ac.th.": {
+                    "glue": [
+                        "203.158.140.34"
+                    ],
+                    "auth": [
+                        "203.158.140.34",
+                        "2001:3c8:3002::34"
+                    ]
+                }
+            },
+            "errors": [
+                {
+                    "description": "The server(s) were not responsive to queries over UDP.  See RFC 1035, Sec. 4.2.",
+                    "code": "SERVER_UNRESPONSIVE_UDP",
+                    "servers": [
+                        "2001:3c8:3002::33",
+                        "2001:3c8:3002::34"
+                    ]
+                },
+                {
+                    "description": "The server(s) responded over UDP with a malformed response or with an invalid RCODE.  See RFC 1035, Sec. 4.1.1.",
+                    "code": "SERVER_INVALID_RESPONSE_UDP",
+                    "servers": [
+                        "116.68.151.172"
+                    ]
+                },
+                {
+                    "description": "The server(s) responded over TCP with a malformed response or with an invalid RCODE.  See RFC 1035, Sec. 4.1.1.",
+                    "code": "SERVER_INVALID_RESPONSE_TCP",
+                    "servers": [
+                        "116.68.151.172"
+                    ]
+                },
+                {
+                    "description": "The server(s) did not respond authoritatively for the namespace.  See RFC 1035, Sec. 4.1.1.",
+                    "code": "SERVER_NOT_AUTHORITATIVE",
+                    "servers": [
+                        "202.28.0.1"
+                    ]
+                }
+            ]
+        },
+        "delegation": {
+            "insecurity_proof": [
+                {
+                    "id": "NSEC3",
+                    "description": "NSEC3 record(s) proving non-existence (NODATA) of rmutto.ac.th/DS",
+                    "nsec3": [
+                        {
+                            "id": "VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th./IN/NSEC3",
+                            "description": "RRset for VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th/NSEC3",
+                            "name": "VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th.",
+                            "ttl": 1800,
+                            "type": "NSEC3",
+                            "rdata": [
+                                "1 1 0 - VLE69LREI03UQ6AP564P2TI03OUMO34Q NS SOA RRSIG DNSKEY NSEC3PARAM"
+                            ],
+                            "servers": [
+                                "122.155.23.64",
+                                "194.0.1.28",
+                                "194.146.106.154",
+                                "202.28.0.1",
+                                "203.159.64.64",
+                                "204.61.216.126",
+                                "2001:500:14:6126:ad::1",
+                                "2001:678:4::1c",
+                                "2001:67c:1010:39::53",
+                                "2001:c38:2000:183::30",
+                                "2405:3340:e011:3000::30"
+                            ],
+                            "ns_names": [
+                                "a.thains.co.th.",
+                                "b.thains.co.th.",
+                                "c.thains.co.th.",
+                                "nn1.thains.co.th.",
+                                "ns.thnic.net.",
+                                "p.thains.co.th."
+                            ],
+                            "nsid_values": [
+                                "4.sin.pch",
+                                "5.qpg.pch",
+                                "BKK1",
+                                "Bkk2",
+                                "s2.chi",
+                                "s2.sin"
+                            ],
+                            "query_options": [
+                                "UDP_-_EDNS0_4096_D_NK"
+                            ],
+                            "rrsig": [
+                                {
+                                    "id": "ac.th./8/56805",
+                                    "description": "RRSIG covering vhfjkttfojhs6rke680j28akhncmqoth.ac.th/NSEC3",
+                                    "signer": "ac.th.",
+                                    "algorithm": 8,
+                                    "key_tag": 56805,
+                                    "original_ttl": 1800,
+                                    "labels": 3,
+                                    "inception": "2024-09-03 09:00:02 UTC",
+                                    "expiration": "2024-09-18 04:57:54 UTC",
+                                    "signature": "qXqb/6fGEJEgPZC8f1F7Anu6BWx/oX1D83w64nr09WyyEFCQIJTQAa6ZJAZgtLzIUKJCIwtcQt0CgUb2+NQP1u1alGt/bx9klyV4iOW7b/WBwcM1ii0YkHD3u+ujLigked87XOPpjxaI9hF9AKCKc2GHjdFjdRXuzYKYaCJPTd8=",
+                                    "ttl": 1800,
+                                    "status": "VALID",
+                                    "servers": [
+                                        "122.155.23.64",
+                                        "194.0.1.28",
+                                        "194.146.106.154",
+                                        "202.28.0.1",
+                                        "203.159.64.64",
+                                        "204.61.216.126",
+                                        "2001:500:14:6126:ad::1",
+                                        "2001:678:4::1c",
+                                        "2001:67c:1010:39::53",
+                                        "2001:c38:2000:183::30",
+                                        "2405:3340:e011:3000::30"
+                                    ],
+                                    "ns_names": [
+                                        "a.thains.co.th.",
+                                        "b.thains.co.th.",
+                                        "c.thains.co.th.",
+                                        "nn1.thains.co.th.",
+                                        "ns.thnic.net.",
+                                        "p.thains.co.th."
+                                    ],
+                                    "nsid_values": [
+                                        "4.sin.pch",
+                                        "5.qpg.pch",
+                                        "BKK1",
+                                        "Bkk2",
+                                        "s2.chi",
+                                        "s2.sin"
+                                    ],
+                                    "query_options": [
+                                        "UDP_-_EDNS0_4096_D_NK"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th./IN/NSEC3",
+                            "description": "RRset for 4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th/NSEC3",
+                            "name": "4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th.",
+                            "ttl": 1800,
+                            "type": "NSEC3",
+                            "rdata": [
+                                "1 1 0 - 4UM60ENUH7GQLDUQTA9FNGP045AIK32E NS DS RRSIG"
+                            ],
+                            "servers": [
+                                "122.155.23.64",
+                                "194.0.1.28",
+                                "194.146.106.154",
+                                "202.28.0.1",
+                                "203.159.64.64",
+                                "204.61.216.126",
+                                "2001:500:14:6126:ad::1",
+                                "2001:678:4::1c",
+                                "2001:67c:1010:39::53",
+                                "2001:c38:2000:183::30",
+                                "2405:3340:e011:3000::30"
+                            ],
+                            "ns_names": [
+                                "a.thains.co.th.",
+                                "b.thains.co.th.",
+                                "c.thains.co.th.",
+                                "nn1.thains.co.th.",
+                                "ns.thnic.net.",
+                                "p.thains.co.th."
+                            ],
+                            "nsid_values": [
+                                "4.sin.pch",
+                                "5.qpg.pch",
+                                "BKK1",
+                                "Bkk2",
+                                "s2.chi",
+                                "s2.sin"
+                            ],
+                            "query_options": [
+                                "UDP_-_EDNS0_4096_D_NK"
+                            ],
+                            "rrsig": [
+                                {
+                                    "id": "ac.th./8/56805",
+                                    "description": "RRSIG covering 4fsvnu47e610gd1maasem517t2ni1jll.ac.th/NSEC3",
+                                    "signer": "ac.th.",
+                                    "algorithm": 8,
+                                    "key_tag": 56805,
+                                    "original_ttl": 1800,
+                                    "labels": 3,
+                                    "inception": "2024-09-03 14:30:02 UTC",
+                                    "expiration": "2024-09-18 10:46:54 UTC",
+                                    "signature": "LyMYGOC411y+6bcpqAf+t/TePHkwyo5u0B4HVBBeDCCkFnGDC1xuooY2pFaslyTgt/dLlKGGtOTwVR3B7xzpmblVpPV5RUaIaPFrJJ8nIO8pZWP+RG+whr1jHbGrSqARRp3ixqTlnlAPnt7pFh+i6V3ReN8iFcBIqDwNqhb66j0=",
+                                    "ttl": 1800,
+                                    "status": "VALID",
+                                    "servers": [
+                                        "122.155.23.64",
+                                        "194.0.1.28",
+                                        "194.146.106.154",
+                                        "202.28.0.1",
+                                        "203.159.64.64",
+                                        "204.61.216.126",
+                                        "2001:500:14:6126:ad::1",
+                                        "2001:678:4::1c",
+                                        "2001:67c:1010:39::53",
+                                        "2001:c38:2000:183::30",
+                                        "2405:3340:e011:3000::30"
+                                    ],
+                                    "ns_names": [
+                                        "a.thains.co.th.",
+                                        "b.thains.co.th.",
+                                        "c.thains.co.th.",
+                                        "nn1.thains.co.th.",
+                                        "ns.thnic.net.",
+                                        "p.thains.co.th."
+                                    ],
+                                    "nsid_values": [
+                                        "4.sin.pch",
+                                        "5.qpg.pch",
+                                        "BKK1",
+                                        "Bkk2",
+                                        "s2.chi",
+                                        "s2.sin"
+                                    ],
+                                    "query_options": [
+                                        "UDP_-_EDNS0_4096_D_NK"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "opt_out": true,
+                    "closest_encloser": "ac.th.",
+                    "closest_encloser_digest": "VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th.",
+                    "next_closest_encloser": "rmutto.ac.th.",
+                    "next_closest_encloser_hash": "4ONEJBCQ343973T2VIM36SMFGHRKKGCL.ac.th.",
+                    "next_closest_encloser_covering": {
+                        "covered_name": "4ONEJBCQ343973T2VIM36SMFGHRKKGCL.ac.th.",
+                        "nsec3_owner": "4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th.",
+                        "nsec3_next": "4UM60ENUH7GQLDUQTA9FNGP045AIK32E.ac.th."
+                    },
+                    "wildcard": "*.ac.th.",
+                    "wildcard_hash": "9S50SA0C7NAEUGD86EV1CSDADN2SBHKG.ac.th.",
+                    "status": "VALID",
+                    "servers": [
+                        "122.155.23.64",
+                        "194.0.1.28",
+                        "194.146.106.154",
+                        "202.28.0.1",
+                        "203.159.64.64",
+                        "204.61.216.126",
+                        "2001:500:14:6126:ad::1",
+                        "2001:678:4::1c",
+                        "2001:67c:1010:39::53",
+                        "2001:c38:2000:183::30",
+                        "2405:3340:e011:3000::30"
+                    ],
+                    "ns_names": [
+                        "a.thains.co.th.",
+                        "b.thains.co.th.",
+                        "c.thains.co.th.",
+                        "nn1.thains.co.th.",
+                        "ns.thnic.net.",
+                        "p.thains.co.th."
+                    ],
+                    "nsid_values": [
+                        "4.sin.pch",
+                        "5.qpg.pch",
+                        "BKK1",
+                        "Bkk2",
+                        "s2.chi",
+                        "s2.sin"
+                    ],
+                    "query_options": [
+                        "UDP_-_EDNS0_4096_D_NK"
+                    ]
+                }
+            ],
+            "status": "INSECURE",
+            "warnings": [
+                {
+                    "description": "The following NS name(s) were found in the delegation NS RRset (i.e., in the ac.th zone), but not in the authoritative NS RRset: ns1.dotarai.com, ns2.dotarai.com  See RFC 1034, Sec. 4.2.2.",
+                    "code": "NS_NAME_NOT_IN_CHILD"
+                },
+                {
+                    "description": "The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the ac.th zone): ns.thnic.net  See RFC 1034, Sec. 4.2.2.",
+                    "code": "NS_NAME_NOT_IN_PARENT"
+                },
+                {
+                    "description": "Authoritative AAAA records exist for kampoo.rmutto.ac.th, but there are no corresponding AAAA glue records.  See RFC 1034, Sec. 4.2.2.",
+                    "code": "MISSING_GLUE_IPV6"
+                },
+                {
+                    "description": "Authoritative AAAA records exist for ns2.rmutto.ac.th, but there are no corresponding AAAA glue records.  See RFC 1034, Sec. 4.2.2.",
+                    "code": "MISSING_GLUE_IPV6"
+                }
+            ]
+        }
+    }
+}
+@endjson

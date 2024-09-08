@@ -1,2 +1,24 @@
 Sun Sep  8 03:04:35 PM +07 2024: เริ่มการวิเคราะห์โดเมน rmutto.ac.th (เวลาที่ใช้: 0 วินาที)
 Sun Sep  8 03:04:35 PM +07 2024: กำลังดำเนินการ DNSViz probe... (เวลาที่ใช้: 0 วินาที)
+Sun Sep  8 03:06:29 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ info... (เวลาที่ใช้: 114 วินาที)
+Sun Sep  8 03:06:30 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ warning... (เวลาที่ใช้: 115 วินาที)
+Sun Sep  8 03:06:31 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ error... (เวลาที่ใช้: 116 วินาที)
+Sun Sep  8 03:06:32 PM +07 2024: กำลังดำเนินการ DNSViz grok แบบไม่กรอง... (เวลาที่ใช้: 117 วินาที)
+Sun Sep  8 03:06:33 PM +07 2024: กำลังค้นหา DNSKEY records และกรอง KSK... (เวลาที่ใช้: 118 วินาที)
+Sun Sep  8 03:06:34 PM +07 2024: กำลังวิเคราะห์และบันทึกผล... (เวลาที่ใช้: 119 วินาที)
+Sun Sep  8 03:06:35 PM +07 2024: กำลังสร้างกราฟ HTML... (เวลาที่ใช้: 120 วินาที)
+Sun Sep  8 03:06:36 PM +07 2024: กำลังสร้างกราฟ PNG... (เวลาที่ใช้: 121 วินาที)
+Sun Sep  8 03:06:38 PM +07 2024: กำลังสร้างไฟล์ PlantUML... (เวลาที่ใช้: 123 วินาที)
+สถานะไฟล์ผลลัพธ์:
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th.json
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-info.json
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-warning.json
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-error.json
+  ไม่สามารถสร้างหรือไฟล์ว่างเปล่า: share/rmutto.ac.th_20240908/rmutto.ac.th-tk.txt
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-analysis.txt
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-graph.html
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-graph.png
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-info-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-warning-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/rmutto.ac.th_20240908/rmutto.ac.th-error-plantuml.txt
+Sun Sep  8 03:06:38 PM +07 2024: การวิเคราะห์เสร็จสิ้น เวลาที่ใช้ทั้งหมด: 123 วินาที (เวลาที่ใช้: 123 วินาที)

@@ -1,0 +1,66 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/10701/256 [.], 8/19117/257 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutto.ac.th [-!] [-?]
+  E:SERVER_UNRESPONSIVE_UDP
+  E:SERVER_INVALID_RESPONSE_UDP
+  E:SERVER_INVALID_RESPONSE_TCP
+  E:SERVER_NOT_AUTHORITATIVE
+  W:NS_NAME_NOT_IN_CHILD
+  W:NS_NAME_NOT_IN_PARENT
+  W:MISSING_GLUE_IPV6
+  W:MISSING_GLUE_IPV6
+  [-]  DS: NODATA
+  [-]    SOA: a.thains.co.th. registry.thains.co.th. 1240908031 1800 900 518400 1800
+  [-]      RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-08 - 2024-09-23) [.]
+  [-]    PROOF:  [.]
+  [-]      NSEC3: VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th. 1 1 0 - VLE69LREI03UQ6AP564P2TI03OUMO34Q NS SOA RRSIG DNSKEY NSEC3PARAM
+  [-]        RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [-]      NSEC3: 4FSVNU47E610GD1MAASEM517T2NI1JLL.ac.th. 1 1 0 - 4UM60ENUH7GQLDUQTA9FNGP045AIK32E NS DS RRSIG
+  [-]        RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [!]  DNSKEY: INVALID_RCODE:REFUSED
+  [?]  DNSKEY: NOT_AUTHORITATIVE
+  [-]  A: 104.18.22.102
+  [!]  A: INVALID_RCODE:REFUSED
+  [!]  A: NETWORK_ERROR:EACCES
+  [-]  NS: ns.thnic.net., kampoo.rmutto.ac.th., ns2.rmutto.ac.th.
+  [!]  NS: INVALID_RCODE:REFUSED
+  [!]  NS: NETWORK_ERROR:EACCES
+  [-]  CNAME: NODATA
+  [-]    SOA: kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400
+  [!]  CNAME: INVALID_RCODE:REFUSED
+  [-]  SOA: kampoo.RmutTO.Ac.TH. root.RmutTO.Ac.TH. 2020101196 10800 3600 604800 38400
+  [!]  SOA: INVALID_RCODE:REFUSED
+  [!]  SOA: INVALID_RCODE:REFUSED
+  [-]  MX: 5 ALT1.ASPMX.L.GOOGLE.COM., 10 ALT3.ASPMX.L.GOOGLE.COM., 5 ALT2.ASPMX.L.GOOGLE.COM., 1 ASPMX.L.GOOGLE.COM., 10 ALT4.ASPMX.L.GOOGLE.COM.
+  [!]  MX: INVALID_RCODE:REFUSED
+  [?]  MX: NOT_AUTHORITATIVE
+  [-]  TXT: "ca3-f1ef3724281f4a9495572c44b242239c", "Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360", "_globalsign-domain-verification=ZCqJ7S72IYorn8hpjgRIRtZWHuglKMzllt_kj7DX-j ", "MS=DE29AB0BD37974BFD9F802157140447EAA78F057"
+  [!]  TXT: INVALID_RCODE:REFUSED
+  [-]  AAAA: NODATA
+  [-]    SOA: kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400
+  [!]  AAAA: INVALID_RCODE:REFUSED
+  [-]  NSEC3PARAM: NODATA
+  [-]    SOA: kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400
+  [!]  NSEC3PARAM: INVALID_RCODE:REFUSED
+  [-]  CDS: NODATA
+  [-]    SOA: kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400
+  [!]  CDS: INVALID_RCODE:REFUSED
+  [-]  CDNSKEY: NODATA
+  [-]    SOA: kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400
+  [!]  CDNSKEY: INVALID_RCODE:REFUSED
+plcd2.kf0g1.rmutto.ac.th
+  [-]  A: NXDOMAIN
+  [-]    SOA: kampoo.rmutto.ac.th. root.rmutto.ac.th. 2020101196 10800 3600 604800 38400
+  [!]  A: INVALID_RCODE:REFUSED
