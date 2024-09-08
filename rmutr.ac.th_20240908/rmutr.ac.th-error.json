@@ -1,0 +1,257 @@
+{
+    "rmutr.ac.th.": {
+        "queries": {
+            "rmutr.ac.th./IN/A": {
+                "nodata": [
+                    {
+                        "id": "rmutr.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutr.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "rmutr.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:2705:face::4"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "rmutr.ac.th./IN/SOA": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:2705:face::4"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    },
+                    {
+                        "description": "No response was received from the server over TCP (tried 3 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "203.158.221.4",
+                            "2001:3c8:2705:face::4"
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_N"
+                        ]
+                    }
+                ]
+            },
+            "rmutr.ac.th./IN/MX": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over TCP (tried 2 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:2705:face::4"
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_K"
+                        ]
+                    },
+                    {
+                        "description": "No response was received from the server over UDP (tried 4 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:2705:face::4"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutr.ac.th./IN/TXT": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:2705:face::4"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "rmutr.ac.th./IN/AAAA": {
+                "nodata": [
+                    {
+                        "id": "rmutr.ac.th./IN/AAAA",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "203.158.221.4"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "rmutr.ac.th./IN/DNSKEY": {
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 4 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "2001:3c8:2705:face::4"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_512_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "rmutr.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "rmutr.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "No response was received from the server over UDP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "203.158.221.4"
+                        ],
+                        "query_options": [
+                            "UDP_-_NOEDNS_"
+                        ]
+                    }
+                ]
+            },
+            "rmutr.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "rmutr.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "error": [
+                    {
+                        "description": "No response was received from the server over TCP (tried 12 times).  See RFC 1035, Sec. 4.2.",
+                        "code": "TIMEOUT",
+                        "servers": [
+                            "203.158.221.4"
+                        ],
+                        "query_options": [
+                            "TCP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            },
+            "6ag7c.o6ysi.rmutr.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "6ag7c.o6ysi.rmutr.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "zone": {
+            "errors": [
+                {
+                    "description": "The server(s) were not responsive to queries over TCP.  See RFC 1035, Sec. 4.2.",
+                    "code": "SERVER_UNRESPONSIVE_TCP",
+                    "servers": [
+                        "203.158.221.4"
+                    ]
+                },
+                {
+                    "description": "The server(s) responded over TCP with a malformed response or with an invalid RCODE.  See RFC 1035, Sec. 4.1.1.",
+                    "code": "SERVER_INVALID_RESPONSE_TCP",
+                    "servers": [
+                        "2001:3c8:2705:face::4"
+                    ]
+                }
+            ]
+        }
+    }
+}

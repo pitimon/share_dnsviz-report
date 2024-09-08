@@ -1,0 +1,96 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/10701/256 [.], 8/19117/257 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutr.ac.th [.!] [.?]
+  E:SERVER_UNRESPONSIVE_TCP
+  E:SERVER_INVALID_RESPONSE_TCP
+  W:MISSING_GLUE_IPV6
+  [-]  DS: 13/3762/2 [.], 13/13058/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 13/13058/257 [.], 13/32782/257 [.], 13/49463/256 [.], 13/3762/257 [.], 13/40035/256 [.]
+  [.]    RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/13058 (2024-09-05 - 2024-09-12) [.]
+  [.]    RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-05 - 2024-09-12) [.]
+  [!]  DNSKEY: TIMEOUT
+  [.]  A: NODATA
+  [.]    SOA: ns.rmutr.ac.th. noc.rmutr.ac.th. 2019012143 14400 1800 604800 3600
+  [.]      RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: P6FVMGPCBK1J1T9OR6E5371V7C41VMF7.rmutr.ac.th. 1 0 50 3188e4f659adfd7b PHPQMDD63NUJ1SOJDQGBBA5J5TBAEKLG NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.?] NS: ns1.rmutr.ac.th., pns12.cloudns.net., ns.rmutr.ac.th., pns14.cloudns.net., pns11.cloudns.net., lotus.uni.net.th., pns13.cloudns.net.
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]  CNAME: NODATA
+  [.]    SOA: ns.rmutr.ac.th. noc.rmutr.ac.th. 2019012143 14400 1800 604800 3600
+  [.]      RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: P6FVMGPCBK1J1T9OR6E5371V7C41VMF7.rmutr.ac.th. 1 0 50 3188e4f659adfd7b PHPQMDD63NUJ1SOJDQGBBA5J5TBAEKLG NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [!]  CNAME: TIMEOUT
+  [.?] SOA: ns.RMUTR.ac.tH. noc.RMUTR.ac.tH. 2019012143 14400 1800 604800 3600
+        W:ERROR_WITH_EDNS_OPTION
+  [.]    RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [!]  SOA: TIMEOUT
+  [!]  SOA: TIMEOUT
+  [.]  MX: 10 alt4.aspmx.l.google.com., 5 alt2.aspmx.l.google.com., 1 aspmx.l.google.com., 5 alt1.aspmx.l.google.com., 10 alt3.aspmx.l.google.com.
+  [.]    RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [!]  MX: TIMEOUT
+  [!]  MX: TIMEOUT
+  [.]  TXT: "google-site-verification=S8tD63AfvnCIGRUdocINUN_2h-wXXr4nz4OLJoHcEsE", "v=spf1 include:_spf.google.com ~all", "h1omvm8hanir0afthsj4ksrsfe", "3hqnij7mfd8h68jhid0jhtuepe", "65lm0okufoqt52q6dlu25udm0p", "dmnusrjitmoff4qk81n8chkc0h"
+  [.]    RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [!]  TXT: TIMEOUT
+  [.]  AAAA: NODATA
+  [.]    SOA: ns.rmutr.ac.th. noc.rmutr.ac.th. 2019012143 14400 1800 604800 3600
+  [.]      RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: P6FVMGPCBK1J1T9OR6E5371V7C41VMF7.rmutr.ac.th. 1 0 50 3188e4f659adfd7b PHPQMDD63NUJ1SOJDQGBBA5J5TBAEKLG NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [!]  AAAA: TIMEOUT
+  [.]  CDS: NODATA
+  [.]    SOA: ns.rmutr.ac.th. noc.rmutr.ac.th. 2019012143 14400 1800 604800 3600
+  [.]      RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: P6FVMGPCBK1J1T9OR6E5371V7C41VMF7.rmutr.ac.th. 1 0 50 3188e4f659adfd7b PHPQMDD63NUJ1SOJDQGBBA5J5TBAEKLG NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [!]  CDS: TIMEOUT
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns.rmutr.ac.th. noc.rmutr.ac.th. 2019012143 14400 1800 604800 3600
+  [.]      RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: P6FVMGPCBK1J1T9OR6E5371V7C41VMF7.rmutr.ac.th. 1 0 50 3188e4f659adfd7b PHPQMDD63NUJ1SOJDQGBBA5J5TBAEKLG NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [!]  CDNSKEY: TIMEOUT
+6ag7c.o6ysi.rmutr.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns.rmutr.ac.th. noc.rmutr.ac.th. 2019012143 14400 1800 604800 3600
+  [.]      RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: ATD0J0GJFGTBJ6HG2JEK6KBPVVKQ4D3I.rmutr.ac.th. 1 0 50 3188e4f659adfd7b B9D4I6NM2G120RQ9I8A1JLQ5DJF59L5U A RRSIG
+  [.]        RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]      NSEC3: FFV66MGKAM1CVQHI33D4Q3KFM04PNUTT.rmutr.ac.th. 1 0 50 3188e4f659adfd7b FPSL5SUO782O61TBG4DA210QL11B2QJP A AAAA RRSIG
+  [.]        RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
+  [.]      NSEC3: P6FVMGPCBK1J1T9OR6E5371V7C41VMF7.rmutr.ac.th. 1 0 50 3188e4f659adfd7b PHPQMDD63NUJ1SOJDQGBBA5J5TBAEKLG NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutr.ac.th/Algorithm.ECDSAP256SHA256/40035 (2024-09-07 - 2024-09-17) [.]
