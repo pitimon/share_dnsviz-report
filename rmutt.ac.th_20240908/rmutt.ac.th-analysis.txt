@@ -1,0 +1,69 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutt.ac.th [.] [.]
+  [-]  DS: 8/52474/2 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 8/58941/256 [.], 8/52474/257 [.], 8/30264/256 [.]
+  [.]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [.]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/52474 (2024-09-07 - 2024-09-11) [.]
+  [.]  A: 202.44.131.174
+  [.]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-08 - 2024-09-12) [.]
+  [.]  NS: ns.rmutt.ac.th., lotus.uni.net.th.
+  [.]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-08 - 2024-09-12) [.]
+  [.]  CNAME: NODATA
+  [.]    SOA: ns.rmutt.ac.th. noc.rmutt.ac.th. 2023214707 10800 1079 2419200 900
+  [.]      RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: SDTQ0TS04T7GS8KE6H5UB2KG7GBFCD15.rmutt.ac.th. 1 0 10 169cc3ef885ab9c64b SF0J72FRSD3G1LEECBUUMENRA1VF2H3U A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [.]  SOA: ns.RmUTT.Ac.Th. noc.RmUTT.Ac.Th. 2023214707 10800 1079 2419200 900
+  [.]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-08 - 2024-09-12) [.]
+  [.]  MX: 0 rmutt-ac-th.mail.protection.outlook.com., 5 mx1.rmutt.ac.th., 5 mx2.rmutt.ac.th.
+  [.]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-08 - 2024-09-12) [.]
+  [.]  TXT: "have-i-been-pwned-verification=0f027413d8536f0cbfcfd33af6625f50", "v=spf1 include:spf.protection.outlook.com -all", "google-site-verification=TsxHr8-czJm8h-FKJSAipnqyW0lL2F17yut4sU5coZU", "nnakobq7g8vp0uehmsgqlvjmoj", "google-site-verification=Fs86m9FVIxLvoNFRRD_w7zZ88-xN1aAqt6BwSpabYcs", "Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360"
+  [.]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [.]  AAAA: 2001:3c8:e10f:2::174
+  [.]    RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [.]  CDS: NODATA
+  [.]    SOA: ns.rmutt.ac.th. noc.rmutt.ac.th. 2023214707 10800 1079 2419200 900
+  [.]      RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: SDTQ0TS04T7GS8KE6H5UB2KG7GBFCD15.rmutt.ac.th. 1 0 10 169cc3ef885ab9c64b SF0J72FRSD3G1LEECBUUMENRA1VF2H3U A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns.rmutt.ac.th. noc.rmutt.ac.th. 2023214707 10800 1079 2419200 900
+  [.]      RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: SDTQ0TS04T7GS8KE6H5UB2KG7GBFCD15.rmutt.ac.th. 1 0 10 169cc3ef885ab9c64b SF0J72FRSD3G1LEECBUUMENRA1VF2H3U A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+rs8zy.85etj.rmutt.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns.rmutt.ac.th. noc.rmutt.ac.th. 2023214707 10800 1079 2419200 900
+  [.]      RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-08 - 2024-09-12) [.]
+  [.]    PROOF:  [.!]
+           E:NONZERO_NSEC3_ITERATION_COUNT
+           W:NONEMPTY_NSEC3_SALT
+  [.]      NSEC3: E40DNU7NGD1KKRAHP675VO2O43U07HEC.rmutt.ac.th. 1 0 10 169cc3ef885ab9c64b E4BDPG6Q6MGLFG8FI98I29KOKLNG1CED
+  [.]        RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [.]      NSEC3: SDTQ0TS04T7GS8KE6H5UB2KG7GBFCD15.rmutt.ac.th. 1 0 10 169cc3ef885ab9c64b SF0J72FRSD3G1LEECBUUMENRA1VF2H3U A NS SOA MX TXT AAAA RRSIG DNSKEY NSEC3PARAM
+  [.]        RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]
+  [.]      NSEC3: MTFS9GQ15V2OJFGSSMCNSM762A26Q6UI.rmutt.ac.th. 1 0 10 169cc3ef885ab9c64b MUHL9SDF9V6V62SLSNHD6KEMM4T72VFV A RRSIG
+  [.]        RRSIG: rmutt.ac.th/Algorithm.RSASHA256/30264 (2024-09-07 - 2024-09-11) [.]

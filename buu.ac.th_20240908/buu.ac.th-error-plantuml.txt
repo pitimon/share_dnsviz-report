@@ -1,0 +1,396 @@
+@startjson
+{
+    "buu.ac.th.": {
+        "queries": {
+            "buu.ac.th./IN/A": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/A",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/NS": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/NS",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "buu.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/SOA": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/SOA",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/MX": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/MX",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/TXT": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/TXT",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/AAAA": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/AAAA",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/41538",
+                                "status": "EXPIRED",
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/NSEC3PARAM": {
+                "nodata": [
+                    {
+                        "id": "buu.ac.th./IN/NSEC3PARAM",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "buu.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "buu.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "ijxpq.8f0zw.buu.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "ijxpq.8f0zw.buu.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "60.buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
+@endjson

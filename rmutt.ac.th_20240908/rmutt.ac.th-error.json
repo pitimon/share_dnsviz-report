@@ -1,0 +1,78 @@
+{
+    "rmutt.ac.th.": {
+        "queries": {
+            "rmutt.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "rmutt.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutt.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "rmutt.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rmutt.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "rmutt.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "rs8zy.85etj.rmutt.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "rs8zy.85etj.rmutt.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC3",
+                                "errors": [
+                                    {
+                                        "description": "An iterations count of 0 must be used in NSEC3 records to alleviate computational burdens.  See RFC 9276, Sec. 3.1.",
+                                        "code": "NONZERO_NSEC3_ITERATION_COUNT"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

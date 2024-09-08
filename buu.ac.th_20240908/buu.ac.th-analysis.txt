@@ -1,0 +1,161 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-07 - 2024-09-20) [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+buu.ac.th [.] [-?]
+  W:NS_NAME_NOT_IN_PARENT
+  [!]  DS: NODATA
+  [-]    SOA: a.thains.co.th. registry.thains.co.th. 1240908026 1800 900 518400 1800
+  [-]      RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-08 - 2024-09-23) [.]
+  [-]    PROOF:  [.]
+  [-]      NSEC3: H1L6J6E9HAT8PUK9DLB2SANGDHFN8BUH.ac.th. 1 1 0 - H7KS8TLON59QTTV82B4MSDCHRLP1LUUD NS DS RRSIG
+  [-]        RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [-]      NSEC3: VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th. 1 1 0 - VLE69LREI03UQ6AP564P2TI03OUMO34Q NS SOA RRSIG DNSKEY NSEC3PARAM
+  [-]        RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 10/19406/256 [.], 10/41538/257 [.]
+  [!]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+           E:EXPIRATION_IN_PAST
+           W:ALGORITHM_NOT_RECOMMENDED
+  [!]    RRSIG: buu.ac.th/Algorithm.RSASHA512/41538 (2024-07-30 - 2024-08-29) [!!]
+           E:EXPIRATION_IN_PAST
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: buu.ac.th/Algorithm.RSASHA512/41538 (2024-09-06 - 2024-10-06) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] A: 202.28.77.163
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+           E:EXPIRATION_IN_PAST
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] NS: pns13.cloudns.net., nsa.buu.ac.th., pns11.cloudns.net., pns12.cloudns.net., nsb.buu.ac.th., pns14.cloudns.net.
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+           E:EXPIRATION_IN_PAST
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CNAME: NODATA
+  [.]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024090602 10800 3600 1209600 86400
+  [.]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [!]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024073003 10800 3600 1209600 86400
+  [!]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+             E:EXPIRATION_IN_PAST
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: buu.ac.th. 60.buu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY SPF
+  [!]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+               E:EXPIRATION_IN_PAST
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.?] SOA: nsa.BUU.ac.TH. root.BUU.ac.TH. 2024090602 10800 3600 1209600 86400
+        W:PMTU_EXCEEDED
+  [.]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [!]  SOA: nsa.BUU.ac.TH. root.BUU.ac.TH. 2024073003 10800 3600 1209600 86400
+  [!]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+           E:EXPIRATION_IN_PAST
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] MX: 0 buu-ac-th.mail.protection.outlook.com., 10 spammail.buu.ac.th.
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+           E:EXPIRATION_IN_PAST
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] TXT: "v=spf1 a mx ptr ip4:202.28.77.0/24 ip6:2001:03c8:3001:110::0/64 a:mail.buu.ac.th a:spammail.buu.ac.th mx:spammail.buu.ac.th include:spf.protection.outlook.com -all", "google-site-verification=_CejXhEYTgteBleSsc0HhHoG2uwE-qpp9nyOed0_CdQ", "ZOOM_verify_YF8tZEFZDqr3zFNr7OpdzG", "TlD8/U8+GHK4vP80438ra/XwGDfyQJtRLHva5dEe0ayczAM6JFlUlyjlOqThhVCiiuOLiJXLoIJcQad9Gm/PHw==", "MS=ms89385669"
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+           E:EXPIRATION_IN_PAST
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.?] AAAA: 2001:3c8:3001:100::15
+        W:PMTU_EXCEEDED
+  [!]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+           E:EXPIRATION_IN_PAST
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  NSEC3PARAM: NODATA
+  [.]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024090602 10800 3600 1209600 86400
+  [.]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [!]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024073003 10800 3600 1209600 86400
+  [!]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+             E:EXPIRATION_IN_PAST
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: buu.ac.th. 60.buu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY SPF
+  [!]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+               E:EXPIRATION_IN_PAST
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CDS: NODATA
+  [.]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024090602 10800 3600 1209600 86400
+  [.]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [!]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024073003 10800 3600 1209600 86400
+  [!]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+             E:EXPIRATION_IN_PAST
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: buu.ac.th. 60.buu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY SPF
+  [!]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+               E:EXPIRATION_IN_PAST
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024090602 10800 3600 1209600 86400
+  [.]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [!]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024073003 10800 3600 1209600 86400
+  [!]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+             E:EXPIRATION_IN_PAST
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: buu.ac.th. 60.buu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY SPF
+  [!]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+               E:EXPIRATION_IN_PAST
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+ijxpq.8f0zw.buu.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024090602 10800 3600 1209600 86400
+  [.]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [!]    SOA: nsa.buu.ac.th. root.buu.ac.th. 2024073003 10800 3600 1209600 86400
+  [!]      RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+             E:EXPIRATION_IN_PAST
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: 60.buu.ac.th. 8korakotvr.buu.ac.th. CNAME RRSIG NSEC
+  [!]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+               E:EXPIRATION_IN_PAST
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]      NSEC: buu.ac.th. 60.buu.ac.th. A NS SOA MX TXT AAAA RRSIG NSEC DNSKEY SPF
+  [!]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-07-30 - 2024-08-29) [!!]
+               E:EXPIRATION_IN_PAST
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]        RRSIG: buu.ac.th/Algorithm.RSASHA512/19406 (2024-09-06 - 2024-10-06) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED

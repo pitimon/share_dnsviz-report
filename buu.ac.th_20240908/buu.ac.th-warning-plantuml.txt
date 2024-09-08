@@ -1,0 +1,798 @@
+@startjson
+{
+    "buu.ac.th.": {
+        "queries": {
+            "buu.ac.th./IN/A": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/A",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.76.11",
+                                    "202.28.76.12"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/NS": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/NS",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.76.11",
+                                    "202.28.76.12"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/CNAME": {
+                "nodata": [
+                    {
+                        "id": "buu.ac.th./IN/CNAME",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ],
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ],
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/SOA": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/SOA",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.76.11",
+                                    "202.28.76.12"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK",
+                                    "UDP_-_EDNS0_4096_D_NK_0x20"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "buu.ac.th./IN/SOA",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/MX": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/MX",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.76.11",
+                                    "202.28.76.12"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/TXT": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/TXT",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.76.11",
+                                    "202.28.76.12"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/AAAA": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/AAAA",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [
+                            {
+                                "description": "No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size.  See RFC 6891, Sec. 6.2.6.",
+                                "code": "PMTU_EXCEEDED",
+                                "servers": [
+                                    "202.28.76.11",
+                                    "202.28.76.12"
+                                ],
+                                "query_options": [
+                                    "UDP_-_EDNS0_4096_D_NK"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/DNSKEY": {
+                "answer": [
+                    {
+                        "id": "buu.ac.th./IN/DNSKEY",
+                        "rrsig": [
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "status": "EXPIRED",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/41538",
+                                "status": "EXPIRED",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ],
+                                "errors": [
+                                    {
+                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                        "code": "EXPIRATION_IN_PAST"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/19406",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./10/41538",
+                                "warnings": [
+                                    {
+                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/NSEC3PARAM": {
+                "nodata": [
+                    {
+                        "id": "buu.ac.th./IN/NSEC3PARAM",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ],
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ],
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/CDS": {
+                "nodata": [
+                    {
+                        "id": "buu.ac.th./IN/CDS",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ],
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ],
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "buu.ac.th./IN/CDNSKEY": {
+                "nodata": [
+                    {
+                        "id": "buu.ac.th./IN/CDNSKEY",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ],
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ],
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "ijxpq.8f0zw.buu.ac.th./IN/A": {
+                "nxdomain": [
+                    {
+                        "id": "ijxpq.8f0zw.buu.ac.th./IN/A",
+                        "proof": [
+                            {
+                                "id": "NSEC",
+                                "nsec": [
+                                    {
+                                        "id": "60.buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ],
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "buu.ac.th./IN/NSEC",
+                                        "rrsig": [
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "status": "EXPIRED",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ],
+                                                "errors": [
+                                                    {
+                                                        "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                        "code": "EXPIRATION_IN_PAST"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "buu.ac.th./10/19406",
+                                                "warnings": [
+                                                    {
+                                                        "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                        "code": "ALGORITHM_NOT_RECOMMENDED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "soa": [
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "buu.ac.th./IN/SOA",
+                                "rrsig": [
+                                    {
+                                        "id": "buu.ac.th./10/19406",
+                                        "status": "EXPIRED",
+                                        "warnings": [
+                                            {
+                                                "description": "DNSSEC specification recommends not signing with DNSSEC algorithm 10 (RSASHA512).  See RFC 8624, Sec. 3.1.",
+                                                "code": "ALGORITHM_NOT_RECOMMENDED"
+                                            }
+                                        ],
+                                        "errors": [
+                                            {
+                                                "description": "The Signature Expiration field of the RRSIG RR (2024-08-29 04:00:57+00:00) is 10 days in the past.  See RFC 4035, Sec. 5.3.1.",
+                                                "code": "EXPIRATION_IN_PAST"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "delegation": {
+            "warnings": [
+                {
+                    "description": "The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the ac.th zone): pns13.cloudns.net, pns14.cloudns.net  See RFC 1034, Sec. 4.2.2.",
+                    "code": "NS_NAME_NOT_IN_PARENT"
+                }
+            ]
+        }
+    }
+}
+@endjson
