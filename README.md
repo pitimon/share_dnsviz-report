@@ -3,8 +3,10 @@
 - raw copy from *-plantuml.txt 
 - paste in code box from render at [plantUML web](https://plantuml.ipv9.me)
 ---
-[Online dnsviz](https://dnsviz.net)
+- [Online dnsviz](https://dnsviz.net)
 ---
-- DNSsec domain veridate tools
-[Verisign Labs](https://dnssec-analyzer.verisignlabs.com/)
+- DNSsec verify tools
+-- [Verisign Labs](https://dnssec-analyzer.verisignlabs.com/)
+-- [Transitive Trust Checker](https://trans-trust.verisignlabs.com/)
+-- [DNSSEC DEBUGGER](https://dnssec-debugger.verisignlabs.com/)
 ---
