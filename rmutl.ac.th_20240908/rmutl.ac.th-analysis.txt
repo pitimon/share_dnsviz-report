@@ -1,0 +1,38 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-08-30 - 2024-09-20) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-08 - 2024-09-21) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/56805/256 [.], 8/12799/257 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+rmutl.ac.th [-] [-]
+  [-]  DS: NODATA
+  [-]    SOA: a.thains.co.th. registry.thains.co.th. 1240908030 1800 900 518400 1800
+  [-]      RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-08 - 2024-09-23) [.]
+  [-]    PROOF:  [.]
+  [-]      NSEC3: VHFJKTTFOJHS6RKE680J28AKHNCMQOTH.ac.th. 1 1 0 - VLE69LREI03UQ6AP564P2TI03OUMO34Q NS SOA RRSIG DNSKEY NSEC3PARAM
+  [-]        RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [-]      NSEC3: PEDNGFME431GSCNG5DFHAEGDU2O0APMK.ac.th. 1 1 0 - PNIFALL7S40S6674RS5F2LSBDLQV0PQ3 TXT RRSIG
+  [-]        RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [-]  A: 203.158.167.20
+  [-]  NS: ns3-32.azure-dns.org., ns2-32.azure-dns.net., ns4-32.azure-dns.info., ns1-32.azure-dns.com.
+  [-]  CNAME: NODATA
+  [-]    SOA: ns1-32.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+  [-]  SOA: ns1-32.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+  [-]  MX: 0 rmutl-ac-th.mail.protection.outlook.com.
+  [-]  TXT: "google-site-verification=Z_OO-p0hMGl7rlVXWMEZW8IpT67paHoaNkpJej8ZLuc", "facebook-domain-verification=3vdfn9fq3iykht8kph1eyi5xs2w86v", "v=spf1 ip4:203.158.160.71 ip6:2001:3c8:5008::2:71 include:spf.protection.outlook.com -all", "jK7kPcTbF+QZFtITE59GZKh/S1Rie44FpuhI9yFpRUrLCwG9dbmTiehaDMzeFZvIh+XqcbeoD4nBssZlFbQ3Kw==", "google-site-verification=kfm-ZU1cch0ak80rU--txe1cTnGKqR9g20gX8QhX3xM", "Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360", "kfm-ZU1cch0ak80rU--txe1cTnGKqR9g20gX8QhX3xM"
+  [-]  AAAA: 2001:3c8:5008::2:59
+  [-]  CDS: NODATA
+  [-]    SOA: ns1-32.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+  [-]  CDNSKEY: NODATA
+  [-]    SOA: ns1-32.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+b230e.24k3m.rmutl.ac.th
+  [-]  A: NXDOMAIN
+  [-]    SOA: ns1-32.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
