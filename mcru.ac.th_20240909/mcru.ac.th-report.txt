@@ -1,0 +1,24 @@
+Mon Sep  9 02:12:28 PM +07 2024: เริ่มการวิเคราะห์โดเมน mcru.ac.th (เวลาที่ใช้: 0 วินาที)
+Mon Sep  9 02:12:28 PM +07 2024: กำลังดำเนินการ DNSViz probe... (เวลาที่ใช้: 0 วินาที)
+Mon Sep  9 02:14:07 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ info... (เวลาที่ใช้: 99 วินาที)
+Mon Sep  9 02:14:08 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ warning... (เวลาที่ใช้: 100 วินาที)
+Mon Sep  9 02:14:10 PM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ error... (เวลาที่ใช้: 102 วินาที)
+Mon Sep  9 02:14:11 PM +07 2024: กำลังดำเนินการ DNSViz grok แบบไม่กรอง... (เวลาที่ใช้: 103 วินาที)
+Mon Sep  9 02:14:13 PM +07 2024: กำลังค้นหา DNSKEY records และกรอง KSK... (เวลาที่ใช้: 105 วินาที)
+Mon Sep  9 02:14:13 PM +07 2024: กำลังวิเคราะห์และบันทึกผล... (เวลาที่ใช้: 105 วินาที)
+Mon Sep  9 02:14:15 PM +07 2024: กำลังสร้างกราฟ HTML... (เวลาที่ใช้: 107 วินาที)
+Mon Sep  9 02:14:17 PM +07 2024: กำลังสร้างกราฟ PNG... (เวลาที่ใช้: 109 วินาที)
+Mon Sep  9 02:14:19 PM +07 2024: กำลังสร้างไฟล์ PlantUML... (เวลาที่ใช้: 111 วินาที)
+สถานะไฟล์ผลลัพธ์:
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th.json
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th-info.json
+  ไม่สามารถสร้างหรือไฟล์ว่างเปล่า: share/mcru.ac.th_20240909/mcru.ac.th-warning.json
+  ไม่สามารถสร้างหรือไฟล์ว่างเปล่า: share/mcru.ac.th_20240909/mcru.ac.th-error.json
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th-tk.txt
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th-analysis.txt
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th-graph.html
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th-graph.png
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th-info-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th-warning-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/mcru.ac.th_20240909/mcru.ac.th-error-plantuml.txt
+Mon Sep  9 02:14:19 PM +07 2024: การวิเคราะห์เสร็จสิ้น เวลาที่ใช้ทั้งหมด: 111 วินาที (เวลาที่ใช้: 111 วินาที)
