@@ -1,0 +1,35 @@
+{
+    "skru.ac.th.": {
+        "queries": {
+            "skru.ac.th./IN/CDS": {
+                "error": [
+                    {
+                        "description": "The response had an invalid RCODE (REFUSED).  See RFC 1035, Sec. 4.1.1.",
+                        "code": "INVALID_RCODE",
+                        "servers": [
+                            "202.29.16.39",
+                            "2001:3c8:900b:80::10"
+                        ],
+                        "query_options": [
+                            "UDP_-_EDNS0_4096_D_NK"
+                        ]
+                    }
+                ]
+            }
+        },
+        "delegation": {
+            "ds": [
+                {
+                    "id": "5/63784/1",
+                    "status": "ALGORITHM_IGNORED",
+                    "errors": [
+                        {
+                            "description": "DNSSEC specification prohibits signing with DS records that use digest algorithm 1 (SHA-1).  See RFC 8624, Sec. 3.2.",
+                            "code": "DIGEST_ALGORITHM_PROHIBITED"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

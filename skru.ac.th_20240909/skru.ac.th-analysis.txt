@@ -1,0 +1,81 @@
+ผลการวิเคราะห์โดยใช้ KSK ของโดเมน:
+. [-]
+  [-]  DNSKEY: 8/20326/257 [.], 8/20038/256 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20326 (2024-09-09 - 2024-09-30) [.]
+th [-] [.]
+  [-]  DS: 8/19117/2 [.]
+  [-]    RRSIG: ./Algorithm.RSASHA256/20038 (2024-09-09 - 2024-09-22) [.]
+  [-]  DNSKEY: 8/19117/257 [.], 8/10701/256 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/19117 (2024-09-06 - 2024-09-21) [.]
+ac.th [-] [.]
+  [-]  DS: 8/12799/2 [.]
+  [-]    RRSIG: th/Algorithm.RSASHA256/10701 (2024-09-03 - 2024-09-18) [.]
+  [-]  DNSKEY: 8/12799/257 [.], 8/56805/256 [.]
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/12799 (2024-09-06 - 2024-09-21) [.]
+skru.ac.th [.] [.]
+  [-]  DS: 5/63784/1 [-!], 5/63784/2 [.]
+         E:DIGEST_ALGORITHM_PROHIBITED
+         W:DS_DIGEST_ALGORITHM_IGNORED
+  [-]    RRSIG: ac.th/Algorithm.RSASHA256/56805 (2024-09-03 - 2024-09-18) [.]
+  [.]  DNSKEY: 5/8088/256 [.], 5/63784/257 [.]
+  [.]    RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]    RRSIG: skru.ac.th/Algorithm.RSASHA1/63784 (2024-09-03 - 2024-10-03) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  A: 45.223.105.110, 45.223.110.110
+  [.]    RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  NS: ns1.skru.ac.th., ns2.skru.ac.th.
+  [.]    RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  CNAME: NODATA
+  [.]    SOA: ns1.skru.ac.th. root.skru.ac.th. 2022112801 3600 900 3600000 3600
+  [.]      RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: skru.ac.th. _sip._tcp.skru.ac.th. A NS SOA MX TXT RRSIG NSEC DNSKEY
+  [.]        RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  SOA: ns1.SkRU.ac.Th. root.SkRU.ac.Th. 2022112801 3600 900 3600000 3600
+  [.]    RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  MX: 20 ALT1.ASPMX.L.GOOGLE.COM., 30 ALT3.ASPMX.L.GOOGLE.COM., 10 ASPMX.L.GOOGLE.COM., 40 ALT4.ASPMX.L.GOOGLE.COM., 50 mail9.skru.ac.th., 20 ALT2.ASPMX.L.GOOGLE.COM.
+  [.]    RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  TXT: "v=spf1 a mx ptr include:_spf.google.com ~all", "Foxit-domain-verification=148bfc7ce2d896afb623476fd0837360", "google-site-verification=mmOCu7fjAkGrBVjYgMks8UF-QlUy5JK-JCEc0KCg1eE", "MS=73FAA9F2315E37A30AE06163AD223B2897F312B7", "google-site-verification=9jC-bJ8B2B2tZJHoWBWKj6CGo_iTGHzfVIUStli6t9I"
+  [.]    RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+           W:ALGORITHM_NOT_RECOMMENDED
+  [.]  AAAA: NODATA
+  [.]    SOA: ns1.skru.ac.th. root.skru.ac.th. 2022112801 3600 900 3600000 3600
+  [.]      RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: skru.ac.th. _sip._tcp.skru.ac.th. A NS SOA MX TXT RRSIG NSEC DNSKEY
+  [.]        RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [.]  NSEC3PARAM: NODATA
+  [.]    SOA: ns1.skru.ac.th. root.skru.ac.th. 2022112801 3600 900 3600000 3600
+  [.]      RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: skru.ac.th. _sip._tcp.skru.ac.th. A NS SOA MX TXT RRSIG NSEC DNSKEY
+  [.]        RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+  [!]  CDS: INVALID_RCODE:REFUSED
+  [.]  CDNSKEY: NODATA
+  [.]    SOA: ns1.skru.ac.th. root.skru.ac.th. 2022112801 3600 900 3600000 3600
+  [.]      RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: skru.ac.th. _sip._tcp.skru.ac.th. A NS SOA MX TXT RRSIG NSEC DNSKEY
+  [.]        RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
+dnbx3.3jyew.skru.ac.th
+  [.]  A: NXDOMAIN
+  [.]    SOA: ns1.skru.ac.th. root.skru.ac.th. 2022112801 3600 900 3600000 3600
+  [.]      RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+             W:ALGORITHM_NOT_RECOMMENDED
+  [.]    PROOF:  [.]
+  [.]      NSEC: skru.ac.th. _sip._tcp.skru.ac.th. A NS SOA MX TXT RRSIG NSEC DNSKEY
+  [.]        RRSIG: skru.ac.th/Algorithm.RSASHA1/8088 (2024-09-03 - 2024-10-03) [.?]
+               W:ALGORITHM_NOT_RECOMMENDED
