@@ -1,0 +1,24 @@
+Mon Sep 23 07:13:47 AM +07 2024: เริ่มการวิเคราะห์โดเมน en.rmutt.ac.th (เวลาที่ใช้: 0 วินาที)
+Mon Sep 23 07:13:47 AM +07 2024: กำลังดำเนินการ DNSViz probe... (เวลาที่ใช้: 0 วินาที)
+Mon Sep 23 07:16:15 AM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ info... (เวลาที่ใช้: 148 วินาที)
+Mon Sep 23 07:16:16 AM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ warning... (เวลาที่ใช้: 149 วินาที)
+Mon Sep 23 07:16:18 AM +07 2024: กำลังดำเนินการ DNSViz grok สำหรับ error... (เวลาที่ใช้: 151 วินาที)
+Mon Sep 23 07:16:19 AM +07 2024: กำลังดำเนินการ DNSViz grok แบบไม่กรอง... (เวลาที่ใช้: 152 วินาที)
+Mon Sep 23 07:16:20 AM +07 2024: กำลังค้นหา DNSKEY records และกรอง KSK... (เวลาที่ใช้: 153 วินาที)
+Mon Sep 23 07:16:20 AM +07 2024: กำลังวิเคราะห์และบันทึกผล... (เวลาที่ใช้: 153 วินาที)
+Mon Sep 23 07:16:22 AM +07 2024: กำลังสร้างกราฟ HTML... (เวลาที่ใช้: 155 วินาที)
+Mon Sep 23 07:16:23 AM +07 2024: กำลังสร้างกราฟ PNG... (เวลาที่ใช้: 156 วินาที)
+Mon Sep 23 07:16:25 AM +07 2024: กำลังสร้างไฟล์ PlantUML... (เวลาที่ใช้: 158 วินาที)
+สถานะไฟล์ผลลัพธ์:
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th.json
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-info.json
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-warning.json
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-error.json
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-tk.txt
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-analysis.txt
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-graph.html
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-graph.png
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-info-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-warning-plantuml.txt
+  สร้างไฟล์สำเร็จ: share/en.rmutt.ac.th_20240923/en.rmutt.ac.th-error-plantuml.txt
+Mon Sep 23 07:16:25 AM +07 2024: การวิเคราะห์เสร็จสิ้น เวลาที่ใช้ทั้งหมด: 158 วินาที (เวลาที่ใช้: 158 วินาที)
